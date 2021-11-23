@@ -1,0 +1,38 @@
+﻿Motorcycle,Motorcycle
+Motorcycle,Tricycle
+Motorcycle,Truck (Rigid)
+Car,Motorcycle
+Motorcycle,Truck (Unknown)
+Motorcycle,Truck (Pick-Up)
+Motorcycle,Truck (Articulated)
+Motorcycle,Van
+Jeepney,Motorcycle
+Motorcycle,SUV
+,Motorcycle
+Bus,Motorcycle
+Motorcycle,Pedestrian
+Tricycle,Van
+Car,Truck (Pick-Up)
+SUV,Van
+,Car
+Tricycle,Truck (Articulated)
+Motorcycle,Others
+Car,Car
+,
+Car,Tricycle
+Tricycle,Truck (Unknown)
+Pedestrian,Truck (Pick-Up)
+Bicycle,Van
+Armored Car,Motorcycle
+SUV,Truck (Articulated)
+,Truck (Unknown)
+SUV,Truck (Rigid)
+Car,Van
+SUV,Truck (Pick-Up)
+Bus,Truck (Rigid)
+Jeepney,Jeepney
+Car,Truck (Fire)
+Bicycle,Motorcycle
+Truck (Pick-Up),Truck (Rigid)
+,Bus
+Car,Truck (Articulated)

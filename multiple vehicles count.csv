@@ -1,0 +1,24 @@
+﻿"('Jeepney', 'Truck (Unknown)', 'Van')",1
+"('Motorcycle', 'Motorcycle', 'Motorcycle')",1
+"('Motorcycle', 'Motorcycle', 'Truck (Unknown)')",1
+"('Motorcycle', 'Truck (Unknown)', 'Truck (Unknown)')",2
+"('', 'Motorcycle', 'Motorcycle')",1
+"('Motorcycle', 'SUV', 'Truck (Pick-Up)')",1
+"('Motorcycle', 'SUV', 'Truck (Unknown)')",1
+"('Motorcycle', 'Motorcycle', 'Tricycle')",1
+"('Bus', 'Truck (Unknown)', 'Van')",1
+"('Motorcycle', 'Truck (Articulated)', 'Truck (Pick-Up)')",1
+"('Motorcycle', 'Truck (Rigid)', 'Truck (Unknown)')",1
+"('SUV', 'Truck (Unknown)', 'Truck (Unknown)')",1
+"('Car', 'Motorcycle', 'Motorcycle')",1
+"('Motorcycle', 'Motorcycle', 'Truck (Pick-Up)')",1
+"('Motorcycle', 'Motorcycle', 'Truck (Articulated)')",1
+"('Motorcycle', 'Motorcycle', 'Pedicab', 'Pedicab', 'Truck (Pick-Up)')",1
+"('Motorcycle', 'Motorcycle', 'Truck (Rigid)')",1
+"('Bus', 'Motorcycle', 'Truck (Rigid)')",1
+"('', '', 'Car')",1
+"('Jeepney', 'Motorcycle', 'Van')",1
+"('Bus', 'Motorcycle', 'Truck (Pick-Up)', 'Van')",1
+"('Bus', 'Motorcycle', 'Tricycle', 'Truck (Unknown)')",1
+"('Jeepney', 'Jeepney', 'Truck (Unknown)', 'Van')",1
+"('Motorcycle', 'Truck (Rigid)', 'Truck (Rigid)')",1

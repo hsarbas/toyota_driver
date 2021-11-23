@@ -1,0 +1,709 @@
+﻿record_id,Make,Model,Damage,Defect,Loading,Maneuver,driverVehicle_id,Plate number,Vehicle type,Engine number,Chassis number,Classification,Insurance details,same
+0066dae9-a003-4824-8a72-d3ed80e07d92,Kawasaki BAjaj CT100,,Front,None,Legal,Overtaking,1cd30c98-9e3b-4b41-b404-071722b7e174,None,Motorcycle,undetermined,MD2A18AY4HWE56500,Private,,0066dae9-a003-4824-8a72-d3ed80e07d92
+0066dae9-a003-4824-8a72-d3ed80e07d92,Kawasaki Bajaj CT100,,Rear,None,Legal,,4af0b250-a779-41a3-95f9-6b1890916275,5095 MZ,Tricycle,undetermined,MD2A18AZOCW862866*,Private,,0066dae9-a003-4824-8a72-d3ed80e07d92
+03fcb692-3efa-442c-9518-16a01c25c552,Honda ,Wave,Front,,,Going ahead,3afc9247-a812-447e-9071-68cc42d83f98,KA-18688,Motorcycle,,,Private,,03fcb692-3efa-442c-9518-16a01c25c552
+03fcb692-3efa-442c-9518-16a01c25c552,"Isuzu Forward Dropside Truck,","Isuzu Forward Dropside Truck,",,Brakes,,Going ahead,db2b60d3-0444-4eed-9240-56a4f09b152c,LEJ-414,Truck (Rigid),,,Private,,03fcb692-3efa-442c-9518-16a01c25c552
+04faba3d-5390-472d-9388-1ae7f7bea00f,,"YAMAHA MIO SOUL 125, color black ",,,,,d3118128-14fe-4456-b6b2-172e0bedd5ef,"temporary plate No. 050105, OR No. 135 4148666 and CR No. 312168334 ",,,,Private,,04faba3d-5390-472d-9388-1ae7f7bea00f
+0539471e-f7c2-4b7c-b74b-60d4a781312f,Isuzu forward 6 ,,Front,None,,Going ahead,5457a827-7165-4e7c-86ea-fa00ed834e5a,CAN 7139,Truck (Unknown),,,Private,,0539471e-f7c2-4b7c-b74b-60d4a781312f
+0565d06b-3b68-4abb-94ec-05066a95ec62,Honda XRM,,,,,,d181a719-2b56-491d-ae94-eaba21190268,7148KQ,Motorcycle,,,Private,,0565d06b-3b68-4abb-94ec-05066a95ec62
+0565d06b-3b68-4abb-94ec-05066a95ec62,motorsta,,,,,,7fe614d3-2a80-47c3-9886-1b902e14cdb6,1001-425121,Motorcycle,,,Private,,0565d06b-3b68-4abb-94ec-05066a95ec62
+087e1fbc-6a47-4f75-85db-d7ae48f111c1,Honda Tmx 125,2015,Right,None,Legal,Left turn,3855a425-20d2-44ed-aaaa-84c47e607407,no plate,Tricycle,,,Private,expire registration,087e1fbc-6a47-4f75-85db-d7ae48f111c1
+087e1fbc-6a47-4f75-85db-d7ae48f111c1,Isuzu Giga Wing Van,2013,Front,None,,Going ahead,7380eb7a-b255-49f9-a13a-033a7b35181e,APA 5572,Truck (Articulated),,,Private,,087e1fbc-6a47-4f75-85db-d7ae48f111c1
+0969a437-51e4-4025-bd0d-d9d05cf7cffe,YAMAHA,RS100T,None,,,Going ahead,c90f75b3-923e-4251-b4d0-fe0ae290358b,", NO PLATE NUMBER ATTACHED",Motorcycle,,,Private,,0969a437-51e4-4025-bd0d-d9d05cf7cffe
+099a8bf4-646d-4b4c-b8fa-0725f5927d75,,"Blue Yamaha XT motorcycle,",,,,,4ed0e40f-3208-426e-9fff-d61342a05b25, bearing plate no. EA 97795,Motorcycle,,,Private,,099a8bf4-646d-4b4c-b8fa-0725f5927d75
+0a6df215-1210-4b72-9c67-41ffbe3de85e,Kawasaki,NS 160 ROUSER,Multiple,None,Legal,Going ahead,92119c3d-fd6f-4b65-8147-545e2a0b43f0,no plate attached,Motorcycle,NOT INDICATED IN THE REPORT,NOT INDICATED IN THE REPORT,Private,NOT INDICATED IN THE REPORT,0a6df215-1210-4b72-9c67-41ffbe3de85e
+0a6df215-1210-4b72-9c67-41ffbe3de85e,HYUNDAI,GRACE,Multiple,None,Legal,Going ahead,72091313-cbde-4897-86c0-3a14fe4e9e09, RBR 625,Van,NOT INDICATED IN THE REPORT,NOT INDICATED IN THE REPORT,Private,NOT INDICATED IN THE REPORT,0a6df215-1210-4b72-9c67-41ffbe3de85e
+0addf55a-ad8e-4640-a002-edd8db4393f5,YAMAHA,RS100T,None,,,Going ahead,c90f75b3-923e-4251-b4d0-fe0ae290358b,", NO PLATE NUMBER ATTACHED",Motorcycle,,,Private,,0addf55a-ad8e-4640-a002-edd8db4393f5
+0b829ae1-5d15-4d2e-a334-90b1aeadb5a4,Suzuki ,Raider ,Multiple,None,Legal,Going ahead,86fc69c3-6e69-45ec-a5cc-689ae35a0fc8,,Motorcycle,,,Private,,0b829ae1-5d15-4d2e-a334-90b1aeadb5a4
+0d2bb783-7759-43fd-9f1b-e981dffddc3a,SYM Bunos110,,Front,None,,Going ahead,d7e980ac-9d7e-4648-ba62-5e79a89e5f80,no plate attached,Motorcycle,,,Private,,0d2bb783-7759-43fd-9f1b-e981dffddc3a
+0d2bb783-7759-43fd-9f1b-e981dffddc3a,Motorcycle Rusi ,,Front,None,,Going ahead,00d54535-1fc9-4c7f-803c-47cdf5a14101,no plate attached,Motorcycle,,,Private,,0d2bb783-7759-43fd-9f1b-e981dffddc3a
+0d3de872-68ab-474b-9208-47104b9f865a,SKYGO,,,,,Going ahead,2d25bc3f-9c65-422f-b499-663d98da4d28,,Motorcycle,,,Private,,0d3de872-68ab-474b-9208-47104b9f865a
+0d3de872-68ab-474b-9208-47104b9f865a,Yamaha, STX ,,,,,2f338406-15f7-47d7-a14c-fcf22a5e5810,,Motorcycle,,,Private,,0d3de872-68ab-474b-9208-47104b9f865a
+0d6c40fa-c406-41cd-b797-8e40e9690e48,SUZUKI JITNEY,,,,,,3055501f-4769-47d1-ae03-5a3e7924309d,,Jeepney,F6A-7229760,DA52T-254520,Public / For-Hire,,0d6c40fa-c406-41cd-b797-8e40e9690e48
+0d6c40fa-c406-41cd-b797-8e40e9690e48,Honda,XRM,,,,,3e6f3605-4887-4415-a49a-081f2b765e43,,Motorcycle,,,Private,,0d6c40fa-c406-41cd-b797-8e40e9690e48
+0d83d9ff-c1fb-4590-8e5e-36f5944cf49a,,,,,,,87f846fb-73e9-418a-aa94-1a870a4e707c,,Pedestrian,,,Private,,0d83d9ff-c1fb-4590-8e5e-36f5944cf49a
+0d83d9ff-c1fb-4590-8e5e-36f5944cf49a,,,,,,,b1348e0d-0cb2-4cab-a615-a848d428efa1,,Truck (Pick-Up),,,Private,,0d83d9ff-c1fb-4590-8e5e-36f5944cf49a
+0dd0af4a-3979-4326-bd0f-c9d1737c7e99,Aluminum Wing Van Truck ,,Front,None,Legal,Going ahead,8f65952a-3387-4f0f-b469-115c36ac2758,CAN 7898,Truck (Articulated),6D24-294406,FU51004017TZ-5,Private,,0dd0af4a-3979-4326-bd0f-c9d1737c7e99
+0dfc4826-0f9e-4511-8ba3-afa57bdaeb5a,,,Front,Multiple,Legal,,f6e61089-9f57-40f3-a272-fb343ba7d06d,,Truck (Articulated),,,Private,,0dfc4826-0f9e-4511-8ba3-afa57bdaeb5a
+0dfc4826-0f9e-4511-8ba3-afa57bdaeb5a,,,,,,,447666d0-9bf8-45cd-b3f9-6c5d1e195d6f,,Motorcycle,,,,,0dfc4826-0f9e-4511-8ba3-afa57bdaeb5a
+0e420604-3931-40ed-9540-03bac3c52855,Mio Sporty 40C9 ,,Front,None,Legal,Going ahead,552aa40d-aa46-4070-8225-79e33c7e2408,,Motorcycle,E31Te-0058537,PA0SEF210J0058588,Private,,0e420604-3931-40ed-9540-03bac3c52855
+0e5ee714-058d-4b8c-b86c-bdf05d2b7efb,Chevrolet,Spin,,,,Right turn,e7c178f6-6732-4335-8624-f89aa04e3d76,ABC 2897,SUV,,,Private,,0e5ee714-058d-4b8c-b86c-bdf05d2b7efb
+0e5ee714-058d-4b8c-b86c-bdf05d2b7efb,Rusi ,Neptune,,,,,bbdd24d7-cc91-4dfd-aac4-80e9357d609a,,Motorcycle,,,Private,,0e5ee714-058d-4b8c-b86c-bdf05d2b7efb
+0fc01748-8815-4ff0-9ef0-ea5502e560d8,Izusu,2000,Multiple,Multiple,Legal,Going ahead,4f4c811f-d7c1-4f1d-8443-0905cc87fe20,XXX1434,Truck (Articulated),,,Private,,0fc01748-8815-4ff0-9ef0-ea5502e560d8
+0fc01748-8815-4ff0-9ef0-ea5502e560d8,Honda ,2017,Multiple,None,Legal,Overtaking,449c4737-923b-4f0d-aa87-56db4dd9612c,ER-6623,Motorcycle,,,Private,,0fc01748-8815-4ff0-9ef0-ea5502e560d8
+100d8cba-ccfd-4558-b3e4-346cbc7fca5c,,,Right,None,,Going ahead,05ef201c-8f67-4eb7-9f42-1d8a4ab0109a,1001-328172,Motorcycle,,,Private,,100d8cba-ccfd-4558-b3e4-346cbc7fca5c
+103b47c8-066b-47df-8f68-6d4c4edc3b0e,white isuzu Dmax,,,None,,Diverging,b330d3d4-cd3d-466a-ba5b-31de270d655a,ADO 7465,Truck (Pick-Up),4JJ1PK1987,,Private,,103b47c8-066b-47df-8f68-6d4c4edc3b0e
+103b47c8-066b-47df-8f68-6d4c4edc3b0e,Black Yahama Mio,,,None,Legal,,4be48e4d-487e-490b-a512-238168d5a170,MS 51512,Motorcycle,PA040C000F0251232,40C-209607,Private,,103b47c8-066b-47df-8f68-6d4c4edc3b0e
+1085a82f-19b2-4931-bfda-da76f2b231bb,Honda,,Front,None,Legal,Going ahead,ceb5e19e-b5c6-4aa3-a7f2-964821d1fbec,MA 92300,Motorcycle,,,Private,,1085a82f-19b2-4931-bfda-da76f2b231bb
+10a55461-d03c-41d1-8e7a-0d755b2bfa63,TEN WHEELER  DUMP TRUCK,,,Brakes,,,09bddf23-065f-40f2-92fb-12688ed2b489,AFA 7932,Truck (Rigid),,,Private,,10a55461-d03c-41d1-8e7a-0d755b2bfa63
+10a55461-d03c-41d1-8e7a-0d755b2bfa63,BAJAJ 100  ,,,,,,502a9269-731e-415f-9e3f-d43dc6ccddfa,,Motorcycle,,,Private,,10a55461-d03c-41d1-8e7a-0d755b2bfa63
+119c6da8-5cc7-471c-8c4c-ac475242eed7,Hyundai,Hyundai Grace UV,Front,None,Legal,Going ahead,14d91642-46eb-413d-b0d0-c40844b4c727,XDD176,Car,,,Private,,119c6da8-5cc7-471c-8c4c-ac475242eed7
+119c6da8-5cc7-471c-8c4c-ac475242eed7,Honda,Honda wave 110,Multiple,None,Legal,Overtaking,18c2413e-e7db-45ab-9196-7f72b3c998ab,7327JR,Motorcycle,,,Private,,119c6da8-5cc7-471c-8c4c-ac475242eed7
+11aef931-9e2a-4681-ba91-0a42668cbc5c,"CPI Kimber 10, Motorcycle ",,Multiple,None,,Going ahead,16cf5dab-f14c-4c70-81f0-f5f83ce4f933,no,Motorcycle,,,Private,,11aef931-9e2a-4681-ba91-0a42668cbc5c
+11aef931-9e2a-4681-ba91-0a42668cbc5c,Isuzu jitney ,,Front,None,,Going ahead,9374f75a-db22-4a23-b98f-e104dbee4f5a,DKT 480 ,Jeepney,,,Public / For-Hire,,11aef931-9e2a-4681-ba91-0a42668cbc5c
+11ffa3a9-b6c7-47b9-aa5c-5cb3cce5b110,,,,,,,4dabbf02-a3ee-4ead-bbfa-3e8c915e2904,,Motorcycle,,,Private,,11ffa3a9-b6c7-47b9-aa5c-5cb3cce5b110
+11ffa3a9-b6c7-47b9-aa5c-5cb3cce5b110,Isuzu Giga,,,,,,39bb281a-d362-4892-bc4a-81f89f9d13f9,,Truck (Rigid),,,Public / For-Hire,,11ffa3a9-b6c7-47b9-aa5c-5cb3cce5b110
+1209e176-7556-481d-b6fa-dac309799d60,RUSI motorcycle ,,Front,None,,Going ahead,e98c56d0-e9f8-4a34-83a1-4ac2fb9e05af,no plate attached,Tricycle,,,Private,,1209e176-7556-481d-b6fa-dac309799d60
+1209e176-7556-481d-b6fa-dac309799d60,TOYOTA Hi-Ace ,,Front,None,,Going ahead,8bae7a8a-eb47-457a-a362-9824350d3633,NDO-9791 ,Van,,,Private,,1209e176-7556-481d-b6fa-dac309799d60
+12cdb51f-65d8-436f-b7aa-3e39e55b828c,Honda  RS ,,,,,,5f394ea0-bf71-4f37-9f18-3806bc261bd6,,Motorcycle,,MH1KC347XJK0043876 ,Private,,12cdb51f-65d8-436f-b7aa-3e39e55b828c
+12cdb51f-65d8-436f-b7aa-3e39e55b828c,Rusi ,,,,,,d6c20e6f-69e4-495c-ba88-0341a00e9e79,,Motorcycle,,RWCLXPGA9H9410584,Private,,12cdb51f-65d8-436f-b7aa-3e39e55b828c
+1309a3ec-f760-4c63-923b-6dce41425a68,isuzu,forward,None,None,Legal,Going ahead,3ec4c278-c206-46c9-965d-f2b3fd7462ea,"RHK 981,",Truck (Unknown),not indicated in the report,not indicated in the report,Public / For-Hire,not indicated in the report,1309a3ec-f760-4c63-923b-6dce41425a68
+1309a3ec-f760-4c63-923b-6dce41425a68,Yamaha ,Sniper,None,None,Legal,Going ahead,7f333653-519d-48cf-a5ab-f972fdf27322,no plate,Motorcycle,not indicated in the report,not indicated in the report,Private,not indicated in the report,1309a3ec-f760-4c63-923b-6dce41425a68
+13289323-e74b-4d18-9e50-e30ef51156db,,,Multiple,,,,076d6575-5763-4cfa-9879-bae04e586cbe,,Motorcycle,,,Private,,13289323-e74b-4d18-9e50-e30ef51156db
+13289323-e74b-4d18-9e50-e30ef51156db,,,Front,,,,500a7c2b-3e30-4d70-8ff3-2da16a5a3f44,,Truck (Articulated),,,Private,,13289323-e74b-4d18-9e50-e30ef51156db
+139a327e-fa2d-44eb-a6a4-92944bb65645, YAMAHA RS10,,,,,Going ahead,c165e4fa-56c0-4648-82fd-f6314b128b87,", NO PLATE NUMBER ATTACH",Motorcycle,,,Private,,139a327e-fa2d-44eb-a6a4-92944bb65645
+13e1e00f-6cd6-40aa-b924-761548201b19,,,,,,,ece897b0-f31d-496c-968e-e905e8c0b4ce,DELA ROSA - ACM 1355,Bus,,,,,13e1e00f-6cd6-40aa-b924-761548201b19
+13e1e00f-6cd6-40aa-b924-761548201b19,,,,,,,42941ec8-10a2-43d9-a414-cec143b62481, 6345 EE,Motorcycle,,,,,13e1e00f-6cd6-40aa-b924-761548201b19
+14094787-bbd3-4bb7-890b-7af04c8598e2,Fuso Ten Wheeler Truck,,,,,,ea5ffdc2-c542-4580-a303-1623f1a51f5b,ABK 7439,Truck (Rigid),6D40-S31968,FV500U7510030,Private,,14094787-bbd3-4bb7-890b-7af04c8598e2
+14094787-bbd3-4bb7-890b-7af04c8598e2,,,,,,,951aafbd-c007-40f3-a583-31f3dcea44af,,Motorcycle,XRM 16E264558,XRM 16264558,Private,,14094787-bbd3-4bb7-890b-7af04c8598e2
+14546aa5-8dc0-42ea-876e-4ed9e327ae45,Izusu Jitney,,Multiple,None,,Going ahead,41635261-5425-493f-b1b3-aab29533d8aa,PLG 923.,Jeepney,,,Public / For-Hire,,14546aa5-8dc0-42ea-876e-4ed9e327ae45
+14546aa5-8dc0-42ea-876e-4ed9e327ae45,"Fuso, Tractor ",,Multiple,Brakes,,Merging,28159d62-cff5-4299-8283-3c33f536173f,PUZ 600,Truck (Unknown),,,Private,,14546aa5-8dc0-42ea-876e-4ed9e327ae45
+14546aa5-8dc0-42ea-876e-4ed9e327ae45,Mitsubishi L300,,Multiple,,,Merging,a5746b82-9542-476c-bf7f-b8a3d17b98c7,A5 W75,Van,,,Private,,14546aa5-8dc0-42ea-876e-4ed9e327ae45
+14ac4704-94af-4339-aa9f-21a4708773e0,HONDA FS150,2016,Multiple,None,Legal,Going ahead,758214ca-0be6-473a-b180-1f6f6b79f5c9,NG-28421,Motorcycle,KB11E1039714,MH1KB1117GK045476,Private,,14ac4704-94af-4339-aa9f-21a4708773e0
+15042877-7aba-4cee-9149-aa21631f2067,Mitsubishi Lancer Sedan,,None,,,Overtaking,20db9bee-8b69-482f-bacb-e2437152bddc,no,Car,,,Private,,15042877-7aba-4cee-9149-aa21631f2067
+151477dd-687d-4e46-b1ff-fdf7f4dafb8a,,TOYOTA HI-ACE COMMUTER VAN WITH MV FILE NO. 0401-615749 ,,,,,b110188a-0ee4-4057-9384-b7580d6490e6,,Car,,,Private,,151477dd-687d-4e46-b1ff-fdf7f4dafb8a
+152cf2e4-8157-452f-8445-8fa1a0fd5734,Multicab Jitney,,,,,,29b3fdc2-438f-480e-96bf-3c19c0ab6e7b,090108,Jeepney,,,Private,,152cf2e4-8157-452f-8445-8fa1a0fd5734
+1707aa5e-7ff1-4d70-b086-88addcb26ec7,toyota,2016,Front,None,Legal,Going ahead,7750cb1f-1246-4425-9a5a-959cb3260b72,WWO934,Van,2KDA172940,JTFJSQ2P700034405,Private,,1707aa5e-7ff1-4d70-b086-88addcb26ec7
+1707aa5e-7ff1-4d70-b086-88addcb26ec7,HONDA,,Multiple,Tires,Legal,Left turn,40f88d26-3af0-4e06-bb06-3dbce4bc9083,1954MH,Tricycle,,,Private,,1707aa5e-7ff1-4d70-b086-88addcb26ec7
+17108f38-41bf-4da7-aa52-8c3cd981be5d,Suzuki  ,GD,Multiple,None,Unsafe Load,Going ahead,e7a1de62-6215-45e2-a947-d20ec4c35d33,No plate number,Motorcycle,,,Private,,17108f38-41bf-4da7-aa52-8c3cd981be5d
+1877650d-1449-4f45-93fd-5e5061d36a62,Toyota ,Toyota AVANZA,Rear,None,Legal,Going ahead,3c9f618c-baeb-4b8a-a4cc-bcff0b2f11ef,,Car,INRF443706,MHKM5EE2FJK012190,Private,,1877650d-1449-4f45-93fd-5e5061d36a62
+1877650d-1449-4f45-93fd-5e5061d36a62,Toyota ,Toyota Hilux 2.5L,Front,None,,Going ahead,7a5a8a8e-ae27-410d-a4da-97a283ac326d,KGG 150,Truck (Pick-Up),2DK5542212,MR0ER39G807542517,Private,,1877650d-1449-4f45-93fd-5e5061d36a62
+188ce01e-305f-4f17-b6a5-b4e36c492963,Honda,Honda Wave 110 ,None,None,Legal,Cross traffic,35eeb02f-86a3-49b5-990f-a0616d2bcf57,None,Motorcycle,K8900E040601,None,Private,,188ce01e-305f-4f17-b6a5-b4e36c492963
+18b2cbf3-8cd7-4bbd-b5a4-e3a2a92dfe6d,RUSI,DLY125,Multiple,None,Overloaded,Left turn,b65749d6-b911-4e64-9344-31275c32ef83,NO PLATE ATTACHED,Motorcycle,,,Private,,18b2cbf3-8cd7-4bbd-b5a4-e3a2a92dfe6d
+18b2cbf3-8cd7-4bbd-b5a4-e3a2a92dfe6d,MOTORSTAR,ZEST X 110,Multiple,Lights,Overloaded,Going ahead,c0d15cf4-bdeb-49fc-a5ad-c709b41b9689,NO PLATE ATTACHED,Motorcycle,152FMHQA009993,LAMSXKHF7H0002988,Private,,18b2cbf3-8cd7-4bbd-b5a4-e3a2a92dfe6d
+19638acc-1477-46b5-84bc-df6c770076a1,RUSI,,Front,,,,ddf30f68-a389-43d5-bca1-2101ad239d38,,Motorcycle,,,,,19638acc-1477-46b5-84bc-df6c770076a1
+19638acc-1477-46b5-84bc-df6c770076a1,HONDA TMX,,Front,,,,0e506bcc-fd8c-4694-bf86-abea0b6a9b39,,Tricycle,KSW00E352857,KSW00350002,,,19638acc-1477-46b5-84bc-df6c770076a1
+1aaad693-8b33-483d-bd25-4e13f6cf2f52,ISUZU,1991,Front,None,Legal,Going ahead,48dadb73-a74f-46d4-9a3c-9dc5b6c1f2f5,RKL 329,Others,NRR32C-3003805,6NE1-664888,Private,,1aaad693-8b33-483d-bd25-4e13f6cf2f52
+1aaad693-8b33-483d-bd25-4e13f6cf2f52,HONDA,,Front,None,Legal,Diverging,d70e05f1-4705-4c08-9994-d43e009f403e,3955 SA,Motorcycle,,,Private,,1aaad693-8b33-483d-bd25-4e13f6cf2f52
+1b85bb0f-2936-4821-bd18-381f2ca435c6,Toyota Corolla ,,Front,None,,Going ahead,9246bbea-0463-4f77-9849-43b45950ef02,VEP 521 ,Car,,,Private,,1b85bb0f-2936-4821-bd18-381f2ca435c6
+1c255b2f-9439-46da-bb37-783094e5ce33,Honda Civic,Honda Civic,,,,"""U"" turn",cfa0905e-a0b9-43db-9fea-97085e8c810b, Y891,Car,,,Private,,1c255b2f-9439-46da-bb37-783094e5ce33
+1c255b2f-9439-46da-bb37-783094e5ce33,Kawasaki Rouser 180,Kawasaki Rouser 180,,,,,1d603a2f-39ed-4075-b0d9-08990fad1db5,1001-243085 ,Motorcycle,,,Private,,1c255b2f-9439-46da-bb37-783094e5ce33
+1cfe5192-0eb7-4acf-b0f4-4fc5ad33fb37,,,,,,,23fcc5f7-960f-40c2-a4e5-13b620a2962e,,Car,,,,,1cfe5192-0eb7-4acf-b0f4-4fc5ad33fb37
+1cfe5192-0eb7-4acf-b0f4-4fc5ad33fb37,,,,,,,7f49be22-8487-4a01-9306-1abd696f3f39,,Motorcycle,,,,,1cfe5192-0eb7-4acf-b0f4-4fc5ad33fb37
+1e76f15e-abfb-4a50-8780-4fcadc9b6431,,,Front,None,Legal,Going ahead,3986fc35-3a1e-4256-b679-8f62bd8ef83c,,SUV,,,Private,,1e76f15e-abfb-4a50-8780-4fcadc9b6431
+1e93ec7e-7739-4c1d-9033-ffe9c541e38d,,,,,,,01b71b08-b6de-4ff7-9c70-82e5b244a11a,,Motorcycle,,,Private,,1e93ec7e-7739-4c1d-9033-ffe9c541e38d
+1edf13c2-41d4-45a6-b5c4-a056a2604e8b,NISSAN NAVARRA PICK-UP ,,None,None,,Cross traffic,6d5c7436-3750-4af7-b9d2-6a1972a616ea,no,Truck (Pick-Up),,,Private,,1edf13c2-41d4-45a6-b5c4-a056a2604e8b
+202c0b54-f28d-41d0-8df5-2aa1b21d2a0f,,,None,None,Legal,Going ahead,5e68d7c8-61ee-4b83-8da7-a96c9893154e,,Tricycle,,,Private,,202c0b54-f28d-41d0-8df5-2aa1b21d2a0f
+202ea568-69d9-45ed-b89d-00b130c2029e,TOYOTA,HILUX PICK-UP,Multiple,None,Legal,Going ahead,52e66f9a-3520-4c27-8447-dfd2d145073d,SFP630,Truck (Pick-Up),3I-5335820,JTFDE6961-00104310,Government,,202ea568-69d9-45ed-b89d-00b130c2029e
+202ea568-69d9-45ed-b89d-00b130c2029e,YAMAHA,MIO 125,Multiple,None,Legal,Going ahead,fbc2d476-8fde-466c-a1f3-2564a6263665,FOR REGISTRATION,Motorcycle,NONE,NONE,Private,,202ea568-69d9-45ed-b89d-00b130c2029e
+204b9170-57a1-4a91-8e3f-dbbd7ec138e0,tractor head truck,,,,,,c97231e5-ec79-4086-ae79-6b28aeaeade6,UE-511 ,Truck (Unknown),,,Private,,204b9170-57a1-4a91-8e3f-dbbd7ec138e0
+204b9170-57a1-4a91-8e3f-dbbd7ec138e0,honda  ,,,,,Sudden stop,9d76891f-1766-41da-938b-592429900ca9,100-455171,Motorcycle,,,Private,,204b9170-57a1-4a91-8e3f-dbbd7ec138e0
+22a190c4-46ae-469a-a176-26c9f351575d,kawasaki,bajaj ct100,Front,None,Legal,Going ahead,0393c3d4-b48a-4bfb-b9de-9720ace369d7,no plate attached,Motorcycle,DUZWJE01623,MDZA18AY0JWE39134,Private,,22a190c4-46ae-469a-a176-26c9f351575d
+230ac287-e4a8-47e9-a033-36d38fa01e98,YAMAHA,RS,Front,Steering,Legal,Going ahead,a01ef0ef-f2bf-498d-bbfb-8a0c87a7a07b,,Motorcycle,,,Private,,230ac287-e4a8-47e9-a033-36d38fa01e98
+230ac287-e4a8-47e9-a033-36d38fa01e98,,,,,,,fcbe8520-7fa2-4343-bbce-411456569ee8,,Pedestrian,,,Private,,230ac287-e4a8-47e9-a033-36d38fa01e98
+2367a01a-cf10-4330-9e18-4b7e0a847b09,TOYOTA FORTUNER,2017,Rear,None,Legal,Going ahead,ce274843-5f09-4cc3-a5c9-b833684e44d0,NPA,SUV,2GDC15836,,Private,,2367a01a-cf10-4330-9e18-4b7e0a847b09
+2367a01a-cf10-4330-9e18-4b7e0a847b09,FUSO TRACTOR HEAD,2006,Front,None,Legal,Going ahead,22a493c7-a62f-4f50-8813-bb4ab17c50aa,NPA,Van,8M21-010415,,Private,,2367a01a-cf10-4330-9e18-4b7e0a847b09
+257aeac4-ab25-444a-be36-9b851828174c,SRM Motorcycle ,,Multiple,None,,Going ahead,2f7f8acc-11ed-4519-830a-954bde790417,MA 28452 ,Motorcycle,,,Private,,257aeac4-ab25-444a-be36-9b851828174c
+25de8d43-829f-4449-a0b3-f74f49b4a2ab,,,,,,,495e01d9-e685-4317-98e2-e2d80ae76fc2,,Pedestrian,,,Private,,25de8d43-829f-4449-a0b3-f74f49b4a2ab
+25de8d43-829f-4449-a0b3-f74f49b4a2ab,,,,,,,bb5e2101-496a-40b3-bc96-70e0bccf2d08,,Motorcycle,,,Private,,25de8d43-829f-4449-a0b3-f74f49b4a2ab
+2623fc8c-df84-40af-95c8-5f806ec3b24c,,,,,,,722a27bf-d85f-4742-b21f-b359c4a3aeaa,,Truck (Pick-Up),,,Private,,2623fc8c-df84-40af-95c8-5f806ec3b24c
+2623fc8c-df84-40af-95c8-5f806ec3b24c,,,,,,,49075157-ddba-4e60-ad52-b183c2ebb0c3,,Motorcycle,,,Private,,2623fc8c-df84-40af-95c8-5f806ec3b24c
+2629c5d8-fc85-4692-abcc-ac2a0197093f, Isuzu,Forward Aluminum Wing Van Truck,,,,,1f3e6e03-776f-41ef-85a5-5e5c78c44dba,PQA940,Truck (Rigid),6HH1252159,ENKR2010772c,Private,,2629c5d8-fc85-4692-abcc-ac2a0197093f
+2629c5d8-fc85-4692-abcc-ac2a0197093f,Rusi,,,,,,df1f14cd-233c-403c-83ea-a144c1b7c461,,Motorcycle,RF154FMI-MP164565,RFKXCJL49JA164565,Private,,2629c5d8-fc85-4692-abcc-ac2a0197093f
+266bad65-0804-4e0b-b265-ccac15d4bf73,HONDA,,Multiple,,,Going ahead,95c376eb-eb45-4cd8-b8ce-3b2be07926ad,9610JL,Motorcycle,XRM16E084916,XRM16084915,Private,,266bad65-0804-4e0b-b265-ccac15d4bf73
+266bad65-0804-4e0b-b265-ccac15d4bf73,MITSUBISHI,,Rear,,,,a73b319b-cd72-49d5-bf55-5fe0eff2c124,YFT711,Truck (Unknown),4DR7-852085,FB308B-540487,,,266bad65-0804-4e0b-b265-ccac15d4bf73
+26b6ea5b-58fb-4e5f-bafb-942ca728910a,Honda XRM 125,,Multiple,Multiple,Legal,Merging,3c29b0a4-ddda-4e0a-a73b-b6c50590eda6,9487YL,Motorcycle,,,Private,,26b6ea5b-58fb-4e5f-bafb-942ca728910a
+26b6ea5b-58fb-4e5f-bafb-942ca728910a, Kia,,Multiple,None,Legal,Going ahead,c7f4ff07-aef4-456b-9473-177b073abe41, 120110,Car,,,Public / For-Hire,,26b6ea5b-58fb-4e5f-bafb-942ca728910a
+270ee4bc-3fa9-4e3e-842c-3332c0a808fc,,,,,,,8fe16a87-0a94-4e3f-80cb-f3c3cf8caf0f,,Bicycle,,,,,270ee4bc-3fa9-4e3e-842c-3332c0a808fc
+270ee4bc-3fa9-4e3e-842c-3332c0a808fc,,,,,,,34d65814-8af3-4c3e-9320-aca3e1a15ff5,,Van,,,,,270ee4bc-3fa9-4e3e-842c-3332c0a808fc
+275f5c3b-d6cd-404c-ad7b-ee726987c8ee,,,,,,,145afae4-d728-40d1-b770-eefa5a76b543,,Truck (Pick-Up),,,Private,,275f5c3b-d6cd-404c-ad7b-ee726987c8ee
+275f5c3b-d6cd-404c-ad7b-ee726987c8ee,,,,,,,223d5534-3b2c-4dd2-aaee-0150851805d2,,Motorcycle,,,Private,,275f5c3b-d6cd-404c-ad7b-ee726987c8ee
+27c8dac4-4a87-4ca5-a917-818ec3c5ef5b,Toyota,Wigo,Multiple,None,Legal,Going ahead,f35ed277-0a76-418c-983e-29d749f09da3,ABI 3181,Car,not indicated in the report,not indicated in the report,Private,not indicated in the report,27c8dac4-4a87-4ca5-a917-818ec3c5ef5b
+27c8dac4-4a87-4ca5-a917-818ec3c5ef5b,Hyundai ,EON,Multiple,None,Other (see description),Parked off road,47fb88c2-215e-4c7d-99a7-14ce334b71c2,AVA 5432,Car,not indicated in the report,not indicated in the report,Private,not indicated in the report,27c8dac4-4a87-4ca5-a917-818ec3c5ef5b
+28c96a9b-12c6-43bc-a688-8c8346d98f44,Toyota Hi-lux pick up,NONE,Front,Lights,Legal,Going ahead,3c3e02d1-83f7-4b91-958d-09cf9ab31c13, KAB 7782,Truck (Pick-Up),NONE,NONE,Private,NONE,28c96a9b-12c6-43bc-a688-8c8346d98f44
+28d019c3-a970-442e-ba79-b106f2bee838,Kawasaki ,CT-100 Bajaj,Multiple,,,Going ahead,398fb4d0-5a58-4644-9544-da2f75b2422c,BC 15030,Motorcycle,,MD2A18AZ4EWL36407,Private,,28d019c3-a970-442e-ba79-b106f2bee838
+2930bd77-9454-436f-925a-eaf8884d4c18,Mitsubishi Fuso,Mitsubishi,None,Multiple,Legal,Reversing,74f44fa2-f65a-4480-9d1b-24989ae3b743,GKC 255,Truck (Rigid),4D32718603,FE335E523534,Private,,2930bd77-9454-436f-925a-eaf8884d4c18
+2a01a445-2061-4b28-b1d5-c58d75b38650,Honda,Honda XRM 125,Multiple,None,Legal,Cross traffic,fbec5e77-ec97-47b0-8719-b29e10808edb,without Plate No.,Motorcycle,unknown,unknown,Private,not mentioned,2a01a445-2061-4b28-b1d5-c58d75b38650
+2a01a445-2061-4b28-b1d5-c58d75b38650,Motoposh,Pinoy 125,Left,None,Legal,Cross traffic,c2bd1446-6c14-4ed7-afb8-1c86462e409e,Temporary plate No. 0901-353777,Motorcycle,157FMIJHO15067,MT7LC5380M0015067,Private,C.R. 315713311,2a01a445-2061-4b28-b1d5-c58d75b38650
+2a01a445-2061-4b28-b1d5-c58d75b38650,Honda ,XRM 125,Multiple,Lights,Legal,Overtaking,3ced0252-b1cd-4184-835e-25dd8cb1449d,9233 JL,Motorcycle,unknown,unknown,Private,unknown,2a01a445-2061-4b28-b1d5-c58d75b38650
+2a19cc4b-f06b-4f1e-b6ac-4d55c23bd74d,Honda CB 125 ,,Front,None,Legal,Going ahead,940eca2e-0f03-4879-a9e7-464f3c16df73,MA ,Motorcycle,,,Private,,2a19cc4b-f06b-4f1e-b6ac-4d55c23bd74d
+2b214e03-b508-48b8-a5ef-8f0b0f0251e4,Fuso Tractor Head Truck,,Multiple,None,,Cross traffic,d6c6de60-6771-44cf-ac75-40bed1793428,RHE 790,Truck (Unknown),,,Private,,2b214e03-b508-48b8-a5ef-8f0b0f0251e4
+2b214e03-b508-48b8-a5ef-8f0b0f0251e4,Kawasaki Baja MC ,,Multiple,None,,Merging,d1907b01-3d2f-4d9c-96b2-fee060d9fe2f,no,Motorcycle,,,Private,,2b214e03-b508-48b8-a5ef-8f0b0f0251e4
+2cd2f36a-4555-4094-ab99-d47bede5d116,,Color blue Mitsubishi Truck ,,,,,7c2a2865-8772-4e91-9840-ddbeefd5d029,bearing plate No. TET-972,,,,Private,,2cd2f36a-4555-4094-ab99-d47bede5d116
+2cd2f36a-4555-4094-ab99-d47bede5d116,,Color black Suzuki Raider 150 ,,,,,cc221180-cd93-49c6-8fb5-a9ac379f0ad3,"bearing plate No. 1918 EC,",Motorcycle,,,Private,,2cd2f36a-4555-4094-ab99-d47bede5d116
+2da4bdf5-49f2-4cf2-a088-d44ef9cfe562,Rusi 125,,Front,None,,Going ahead,8bf7979c-e91d-4266-bce0-c9b8833a1472,CO51882.,Motorcycle,,,Private,,2da4bdf5-49f2-4cf2-a088-d44ef9cfe562
+2e749fb0-7589-4724-98fe-226be4ba1494,,,,,,,23fcc5f7-960f-40c2-a4e5-13b620a2962e,,Car,,,,,2e749fb0-7589-4724-98fe-226be4ba1494
+2e749fb0-7589-4724-98fe-226be4ba1494,,,,,,,7f49be22-8487-4a01-9306-1abd696f3f39,,Motorcycle,,,,,2e749fb0-7589-4724-98fe-226be4ba1494
+2e943aaf-48b1-4c15-ba4e-257e16de42a9,,,,,,,7f0cdc8e-abea-4f7a-8cd9-c2e367f37221,,Truck (Rigid),,,Private,,2e943aaf-48b1-4c15-ba4e-257e16de42a9
+2e943aaf-48b1-4c15-ba4e-257e16de42a9,,,,,,,72af3d84-c1c3-4c40-9dbb-f51ca7ea3475,,Motorcycle,,,Private,,2e943aaf-48b1-4c15-ba4e-257e16de42a9
+2ef20125-8431-4afa-91a0-cf468f9a3a51,Suzuki Smash motorcycle,,Front,None,,Going ahead,48ade7a8-6da0-4507-91ac-3e9eb1e8c2e1,no,Motorcycle,,,Private,,2ef20125-8431-4afa-91a0-cf468f9a3a51
+2ef20125-8431-4afa-91a0-cf468f9a3a51,Honda TMX Motorcycle,,Front,None,,Going ahead,3cddd005-38f4-4c27-b395-8bf4907ff6d9,no,Motorcycle,,,Private,,2ef20125-8431-4afa-91a0-cf468f9a3a51
+30770a1f-1ffd-4f13-8f23-fcb9cf99c3c2,ten wheeler truck ,,,,,,a6f4e1fe-23fc-43c1-865c-6af73adf63ce,,Truck (Unknown),,,Private,,30770a1f-1ffd-4f13-8f23-fcb9cf99c3c2
+3078e41a-5b5d-49b0-9a96-79443fca5acc,Ford,2018,Left,Multiple,Other (see description),Left turn,713e031e-950a-4082-93c7-324f80f40083,CO 0208,Car,P4AT2495103,MNCUMFF8011W760037,Private,,3078e41a-5b5d-49b0-9a96-79443fca5acc
+3078e41a-5b5d-49b0-9a96-79443fca5acc,Honda,2018,None,Multiple,Other (see description),Going ahead,b4b220e4-8d31-4938-b811-54a7e0b6a73e,w/out plate #,Motorcycle,none,none,Private,none,3078e41a-5b5d-49b0-9a96-79443fca5acc
+30fdb60e-2b09-4b0a-9510-2de7e65dd82c,YAMAHA ,MIO 125,,,,,501c0f2d-7ff4-4613-bc96-86654dc5b0ea,1001-202064,Motorcycle,E3R2E-1228417,PA0SE9810G0108717,Private,,30fdb60e-2b09-4b0a-9510-2de7e65dd82c
+30fdb60e-2b09-4b0a-9510-2de7e65dd82c,BAJAJ TRICAB,BAJAJ TRICAB,,,,,8d75e0f8-c614-48bd-8fe3-b1ad0a9be529,,Tricycle,,,Private,,30fdb60e-2b09-4b0a-9510-2de7e65dd82c
+31373b30-ed82-435c-bc23-159356fb1d09,Yamaha,,Front,Multiple,Legal,Going ahead,c92df128-e570-47f0-8ef3-94870e0e3220,,Tricycle,,,Private,,31373b30-ed82-435c-bc23-159356fb1d09
+31373b30-ed82-435c-bc23-159356fb1d09,XRM,,Front,Multiple,,Going ahead,e48b5832-b1f0-4782-bd8f-b6e096fbc0b1,,Motorcycle,,,Private,,31373b30-ed82-435c-bc23-159356fb1d09
+344db825-8bdd-48f4-aff8-fbeb4d6d38bd,kawasaki klx150,,,Multiple,Legal,Going ahead,f556a66e-bb50-446c-9d70-9a645d829f89,8675LJ,Motorcycle,,,Private,,344db825-8bdd-48f4-aff8-fbeb4d6d38bd
+344db825-8bdd-48f4-aff8-fbeb4d6d38bd,SUZUKI,,Multiple,Multiple,Legal,Going ahead,625f499f-1f97-4f3a-89cd-b4a7f2b3730e,,Motorcycle,,,Private,,344db825-8bdd-48f4-aff8-fbeb4d6d38bd
+344efe41-0d21-477c-828a-df352835114d,Skygo,,,,,,73a0c37c-4d68-4a98-a4ff-a07c5e0cbbfd,,Motorcycle,,,Private,,344efe41-0d21-477c-828a-df352835114d
+344efe41-0d21-477c-828a-df352835114d,Honda ,XRM 125,,,,,4e5c267b-bde5-407c-a011-88214733088d,,Motorcycle,,,Private,,344efe41-0d21-477c-828a-df352835114d
+352e7f5b-b06c-4d91-a0b2-4f565c6a0ddd,Unidentified,Unidentified,,,Other (see description),Going ahead,abc8246a-11c5-4053-84c1-8568ac789efb,Unidentified,Van,Unidentified,Unidentified,Public / For-Hire,,352e7f5b-b06c-4d91-a0b2-4f565c6a0ddd
+3619cdf7-7fcd-41d6-b80b-4e9efdca6307,Honda,Fit Hatchback,Front,None,Legal,Left turn,3f5d7bc0-3201-4240-bdd9-8034c5fd62c0,MFR 472,Car,L13A1813352,GD11911322,Private,,3619cdf7-7fcd-41d6-b80b-4e9efdca6307
+3619cdf7-7fcd-41d6-b80b-4e9efdca6307,Suzuki,Raider 150,Multiple,None,Legal,Overtaking,12a3dcfb-e852-44ed-b776-c22d50765113, 0901-02,Motorcycle,G427-304703,BG41K-204373,Private,,3619cdf7-7fcd-41d6-b80b-4e9efdca6307
+364c0086-0b5e-4cc5-b04d-d0e5d8cec103,motorstar,,Front,,,Going ahead,34a77a2c-153b-4452-890f-4482efa66b99,090106,Motorcycle,152FMHPA132455 ,LAMSXKHF7G0017694,Private,,364c0086-0b5e-4cc5-b04d-d0e5d8cec103
+364c0086-0b5e-4cc5-b04d-d0e5d8cec103,military truck,,Right,,,,03e580d6-0b9a-4386-9c19-5c10b9dd2b79,SJD 715,Armored Car,D4DA9386685,2003KM480000319,Government,,364c0086-0b5e-4cc5-b04d-d0e5d8cec103
+3675837d-0eb3-4ad7-b57e-b0af57067c86,,"A KAWASAKI CT125A STX, COLOR RED WITH",,,,,5a61ac33-03c8-44e6-b57b-ff6286b81001," MV FILE NO. 1101-0503730, ",Motorcycle,"CHASSIS NR. MD2A76BY6JWK75273, ",ENGINE NR. DYYWJK28889,Private,,3675837d-0eb3-4ad7-b57e-b0af57067c86
+3675837d-0eb3-4ad7-b57e-b0af57067c86,,"FUSO REF. VAN TRUCK, ,MULTI COLOR ",,,,,712e11d5-f63d-44e9-879f-67c09482627c,"BEARING PLATE NO. 030110, ",Van, ENGINE NO. 6M61-012673,"CHASSIS NO.FK61HK-760684,",Private,,3675837d-0eb3-4ad7-b57e-b0af57067c86
+3677277e-0c6b-49fd-8abb-cd8559ce2130,LUCKY STAR ,LUCKY STAR,Multiple,Steering,,Going ahead,53e1eaa5-6c9c-4401-aa07-7b92af14881d,Registered Number 1303-0289724,Motorcycle,,,Private,,3677277e-0c6b-49fd-8abb-cd8559ce2130
+36902858-e452-46e4-ab82-9aa6f9097157,SUZUKI JITNEY,,Rear,,,Going ahead,d739ba14-3bd8-43c4-9289-64f0f130d555,,Jeepney,F6A-7229760,DA52T-254520,Public / For-Hire,,36902858-e452-46e4-ab82-9aa6f9097157
+36902858-e452-46e4-ab82-9aa6f9097157,Honda,XRM,Multiple,,,Merging,7795e337-23d3-4075-a33d-7e8af3721a1d,,Motorcycle,,,Private,,36902858-e452-46e4-ab82-9aa6f9097157
+371b3fd3-aeb3-42a7-8747-32dca93bc821,Motorstar,,Multiple,None,Legal,Going ahead,1b80732e-d729-4f9d-9570-99ad1f4b8e3c,MC 34547,Motorcycle,,LHJXJHLA7FB938218,Private,,371b3fd3-aeb3-42a7-8747-32dca93bc821
+371b3fd3-aeb3-42a7-8747-32dca93bc821,Nissan Calibre,2017,Front,None,Legal,Going ahead,087d9692-d5f4-4c83-bbf7-b7238ebc0b36,0707-535446,Truck (Pick-Up),YD25716227T,MNTCC2D23Z0023112,Private,,371b3fd3-aeb3-42a7-8747-32dca93bc821
+378aa26e-6137-4a37-87d0-744dc4e2d961,Rusi MC ,,Rear,None,,Parked on road,c2286d1a-0b48-45f7-b68f-fc1b9d490a73,no plate,Motorcycle,,,Private,,378aa26e-6137-4a37-87d0-744dc4e2d961
+378aa26e-6137-4a37-87d0-744dc4e2d961,Honda 125 ,,Front,None,,Going ahead,a2b97855-c381-4923-9918-21a893c17d01,no plate,Tricycle,,,Private,,378aa26e-6137-4a37-87d0-744dc4e2d961
+390c55d5-20d4-461d-a400-93e1e5662826,HONDA ,XRM 125,Multiple,None,Legal,Going ahead,4ea9fbc2-a1a8-4722-a719-f638119c5e3d,temporary plate # 09011082722,Motorcycle,KPY00E188338 ,KPY00188302,Private,,390c55d5-20d4-461d-a400-93e1e5662826
+390c55d5-20d4-461d-a400-93e1e5662826,HONDA,RS125,Left,None,Legal,Going ahead,81c6960f-dd0f-4710-b9c7-a11636d9da5c,2735-GT,Motorcycle,KPG00E032873,KPG00032874,Private,,390c55d5-20d4-461d-a400-93e1e5662826
+397a9bf6-2db0-4a27-910d-c846ae13a8cc,Suzuki,multicab,Front,None,Legal,Cross traffic,ca31c32d-5656-478b-9342-32a813f26c14,"JDA 361 , engine number , chassis number ",Others,FCA-6311863,DK-512-391134,Private,unkown,397a9bf6-2db0-4a27-910d-c846ae13a8cc
+397a9bf6-2db0-4a27-910d-c846ae13a8cc,Yamaha,Yamaha motorcycle,Multiple,Lights,Legal,Cross traffic,4cc36b43-735d-46e5-95c5-ab720931364a,4447JM,Motorcycle,unknown,unknown,Private,without registration,397a9bf6-2db0-4a27-910d-c846ae13a8cc
+39c3280c-ab30-4ca5-822c-e7ee2004b116,Star-X motorcycle,,,,,,b5336553-b152-4468-b20f-a41da3fac022,5554 TE,Motorcycle, JL489FMI509A310608,LAAAAKJB990004747 ,Private,,39c3280c-ab30-4ca5-822c-e7ee2004b116
+39c3280c-ab30-4ca5-822c-e7ee2004b116, Kawasaki, Bajah,,,,,826c528a-30e6-4664-b708-c7cdddaaa2fd,,Motorcycle,,,Private,,39c3280c-ab30-4ca5-822c-e7ee2004b116
+39c3280c-ab30-4ca5-822c-e7ee2004b116,FUSO Truck,,,,,,567ac7bc-82eb-488a-8326-f88ae9600f0e,102008 ,Truck (Unknown),6M61-025733,FK71HJ-751270,Private,,39c3280c-ab30-4ca5-822c-e7ee2004b116
+3ac27bcd-21a2-4d15-9846-bedda60692f2,,Tricycle,,,,,fef86a2d-3e4b-4083-b2f0-684890bcee56,,Tricycle,,,Private,,3ac27bcd-21a2-4d15-9846-bedda60692f2
+3df749d7-e8c9-4d46-90b1-14c2f1d22ba8,Yamaha Mio,,,None,Legal,Going ahead,a20cfdf5-f3ea-4e5e-a968-4b67d77e8c38,No plate No. attached,Motorcycle,E3R2E-0291881,PA0SE9810FOOO3943,Private,,3df749d7-e8c9-4d46-90b1-14c2f1d22ba8
+3e31dc29-6d3e-4891-8fed-4dd51061d2c2,HOWO DUMP TRUCK,,None,None,,Going ahead,a12a0feb-1e6e-48a7-b41e-4521bdf5b477,NAT-3216 ,Truck (Unknown),,,,,3e31dc29-6d3e-4891-8fed-4dd51061d2c2
+3e31dc29-6d3e-4891-8fed-4dd51061d2c2,CLOSED VAN ,,Front,None,,Going ahead,60ce6cb0-0430-4812-a45f-a42c91f48c64,RCB-533 ,Truck (Unknown),,,Private,,3e31dc29-6d3e-4891-8fed-4dd51061d2c2
+3e31dc29-6d3e-4891-8fed-4dd51061d2c2,MOTORCYCLE ,,Multiple,None,,Going ahead,7cd26f70-3b40-431e-9158-61fc50d626a7,no plate,Motorcycle,,,Private,,3e31dc29-6d3e-4891-8fed-4dd51061d2c2
+3e9afa03-52ee-4eb7-8f28-c8c4db80ed68,Bajaj CT 100,Kawasaki,Multiple,None,Legal,Merging,f077ba2f-6793-4aff-8d46-b09b09541012,,Motorcycle,,MD2DDDUZZVWB01714,Private,,3e9afa03-52ee-4eb7-8f28-c8c4db80ed68
+3e9afa03-52ee-4eb7-8f28-c8c4db80ed68,kYMCO,,Multiple,None,Legal,Going ahead,ce4b50ce-5c0f-48f0-af59-f03e6f970e9b,,Motorcycle,KB222114032,LC2E10000G1008489,Private,,3e9afa03-52ee-4eb7-8f28-c8c4db80ed68
+3f0af519-4026-484e-b1b3-6c159fbe6435,Honda XRM 125,,,,,Going ahead,0c85330c-4d48-4e56-95d0-a0de48363445,5044YF ,Motorcycle,,,Private,,3f0af519-4026-484e-b1b3-6c159fbe6435
+41b6e46a-be47-41b7-8b38-e92c6c92d7e5, YAMAHA VEGA, YAMAHA VEGA,,,,Going ahead,c7a29bea-c0af-453c-9283-3728fd3698e4,3989 KT,Motorcycle,,,Private,,41b6e46a-be47-41b7-8b38-e92c6c92d7e5
+41b6e46a-be47-41b7-8b38-e92c6c92d7e5,HONDA CLICK,HONDA CLICK,,,,Overtaking,6403ebb6-c6a3-4a47-8b7a-e687ba952367, KA 96422,Motorcycle,, MLHJF3709F5013199,Private,,41b6e46a-be47-41b7-8b38-e92c6c92d7e5
+42160ca7-2227-4e8e-ad5d-1d964c31ab1a,Honda XRM 125 ,,Multiple,None,Legal,,5d011ddb-1caf-4fb3-9c64-88c4a57d0e6d,,Motorcycle,KPYR0E066134,KPYR0066188,Private,,42160ca7-2227-4e8e-ad5d-1d964c31ab1a
+4268aa5c-5640-4866-aae6-d3c4812a485d,MOTOPOSH,,,,,,0cf4790a-fb46-4828-bea4-fcc236953d50,4500QI ,Motorcycle,BT156FM12V12008461,L82PCJL43C1208491,Private,,4268aa5c-5640-4866-aae6-d3c4812a485d
+4268aa5c-5640-4866-aae6-d3c4812a485d,KYMCO LIKE,,,,,,435c96cf-5929-4e99-b67c-391cd800674f,1301-131 453,Motorcycle,1001349,LC2D230B0J1000244,Private,,4268aa5c-5640-4866-aae6-d3c4812a485d
+426cae8a-b438-4100-8cfd-8b23470391d0,Hyundai Grace Van,,Rear,None,,Parked on road,a136cebb-bb09-4f41-b8a5-dc0251eafeb5,WNF 117 ,Van,,,Private,,426cae8a-b438-4100-8cfd-8b23470391d0
+426cae8a-b438-4100-8cfd-8b23470391d0,CHEROKE,,Front,None,,Going ahead,5e313a96-553e-4ab5-913b-25823e880bc1,no,SUV,,,Private,,426cae8a-b438-4100-8cfd-8b23470391d0
+43626a89-4eb8-4a3b-a7d5-c400960adc88,,Nissan Sentra Body type Sedan- 4-door year model 1994 ,,,,,94a246a3-d1e2-4b38-81f3-a258e6734b69,bearing Plate No. TMZ182 ,Car,Engine No. GA14-P001622B ,Chassis No. BCAB13-836452 ,Private,,43626a89-4eb8-4a3b-a7d5-c400960adc88
+43626a89-4eb8-4a3b-a7d5-c400960adc88,,Honda Motorcycle Model Click 125 I CBS,,,,,d26683dc-3f52-4fff-8276-f6bce0f7d801,,Motorcycle, Engine No. JA46E7005902 ,Chassis No. MHIJA4673JIC005996,Private,,43626a89-4eb8-4a3b-a7d5-c400960adc88
+4363c01c-ec1a-436f-8d20-f492bc43d971,,,,,,,7d4de555-c184-47d6-82c8-7eb5d16d6a34,,,,,,,4363c01c-ec1a-436f-8d20-f492bc43d971
+4363c01c-ec1a-436f-8d20-f492bc43d971,Unidentified,Unidentified,,,,,f70e7540-5877-41ae-948c-1c59fc79d047,Unidentified,Car,Unidentified,Unidentified,Private,,4363c01c-ec1a-436f-8d20-f492bc43d971
+439399e9-bfa9-4c8a-a404-b724b0d23e15,Mitsubishi Strada GLS ,,None,None,,Left turn,1a794d8d-e7a4-493e-a672-cb9950ccf09a,LMR507,Truck (Pick-Up),,,Private,,439399e9-bfa9-4c8a-a404-b724b0d23e15
+443525c1-14e3-4800-b8d8-6c2ed0493315,Fuso,Canter,None,None,Legal,Going ahead,e0044482-ecd0-41aa-8ae5-346c14cc5b3b,"TFS 279,",Truck (Unknown),4D31-A37894, FE304B-A522231 ,Private,not indicated in the report,443525c1-14e3-4800-b8d8-6c2ed0493315
+443525c1-14e3-4800-b8d8-6c2ed0493315,Yamaha ,Speedy Mio 125,Multiple,None,Legal,Going ahead,95d82786-4a36-4724-9377-519d88c8c346,0101-0608807,Motorcycle,not indicated in the report,not indicated in the report,Private,not indicated in the report,443525c1-14e3-4800-b8d8-6c2ed0493315
+449563b7-57e8-40fd-a28e-71a0444c03af,Yamaha,Mio Soul Scooter125,Multiple,None,Legal,Left turn,88f81995-397f-471e-a092-afa3bd022fa3,,Motorcycle,E3W9E-0046751,PAOSEA120J0017732,Private,,449563b7-57e8-40fd-a28e-71a0444c03af
+449563b7-57e8-40fd-a28e-71a0444c03af,Kawasaki,Bajaj CT100,Multiple,None,Legal,Going ahead,ea9270b6-8066-4b14-8502-6cf9f4c969bd,,Motorcycle,,MD2A18AY7HWB46969,Private,,449563b7-57e8-40fd-a28e-71a0444c03af
+449563b7-57e8-40fd-a28e-71a0444c03af,,,,,,,3437d69a-41c0-4d35-b407-a6db94bc3c7e,,,,,,,449563b7-57e8-40fd-a28e-71a0444c03af
+44bca47b-c6f2-49fe-8ffd-4d1660793d06,honda,,Front,None,Other (see description),,d50db00a-1629-4a8c-b9a5-42894dbba835,,Motorcycle,,,Private,,44bca47b-c6f2-49fe-8ffd-4d1660793d06
+44fd4cb6-b8f6-497f-acff-97677883b1f2,,Isuzu truck ,,,,,afb9e8de-4a72-46da-b8cb-dec0b582ba59,bearing plate # ZKV612 ,Truck (Pick-Up),,,Private,,44fd4cb6-b8f6-497f-acff-97677883b1f2
+45541c4d-39d9-4242-b249-d7a16b420b54,Yamaha ,STX125,,,,,56192ccb-1cca-4fb3-a267-d63802161d92,KX 1054 ,Motorcycle,,,Private,,45541c4d-39d9-4242-b249-d7a16b420b54
+45541c4d-39d9-4242-b249-d7a16b420b54,Toyota ,Hilux 2.8L,,,,,cc864136-167f-4927-ad64-91f0ca5e334c,KAC 9134,Truck (Pick-Up),,,Private,,45541c4d-39d9-4242-b249-d7a16b420b54
+45541c4d-39d9-4242-b249-d7a16b420b54,Mitsubishi ,Montero SPT GLS,,,,,94bfe85a-5b4e-4cd5-84b9-b2bcc1da0ca3,KAB 4115,SUV,,,Private,,45541c4d-39d9-4242-b249-d7a16b420b54
+46c3eec4-34fb-442c-9502-a4fd5f8904c2,Honda,,Front,None,Legal,Going ahead,81ab24b8-f1f4-4047-8af8-d3fd6ba0aa77,MA 63965,Motorcycle,,,Private,,46c3eec4-34fb-442c-9502-a4fd5f8904c2
+472b010c-5c5d-4741-9acd-eaf8c7e51227,,,,,,,23fcc5f7-960f-40c2-a4e5-13b620a2962e,,Car,,,,,472b010c-5c5d-4741-9acd-eaf8c7e51227
+472b010c-5c5d-4741-9acd-eaf8c7e51227,,,,,,,7f49be22-8487-4a01-9306-1abd696f3f39,,Motorcycle,,,,,472b010c-5c5d-4741-9acd-eaf8c7e51227
+49021490-deae-4c48-b7af-68555e558224,Toyota,Truck,,,,,b774c4fe-dabd-4d95-81be-b43a4844983c,090710,Truck (Rigid),1W-9004016 , WB502-70717,Private,,49021490-deae-4c48-b7af-68555e558224
+49021490-deae-4c48-b7af-68555e558224, YAMAHA YTX,,,,,,c718327c-6ce3-4d60-82a1-076b39f51403, 1020-67662,Motorcycle, E3W7E0111641,PAORE3210K0112316,Private,,49021490-deae-4c48-b7af-68555e558224
+490d19c6-147b-4f35-a3d1-099c3bf345de,Kawasaki Bajaj Ct100,,Front,None,Legal,Overtaking,953e3c04-9cf4-445c-93f2-9b5065fad13f,Plate number,Motorcycle,None,None,Private,,490d19c6-147b-4f35-a3d1-099c3bf345de
+490d19c6-147b-4f35-a3d1-099c3bf345de,Honda CB 125,,Front,None,Legal,Going ahead,cd1f4213-4819-428e-a6d7-a79da0071570,Temporary Plate number,Motorcycle,KYY30E043935,KYY30043946,Private,,490d19c6-147b-4f35-a3d1-099c3bf345de
+4951276e-a5dd-4cc1-96a0-d190fb8d1c2b,Mitsubishi ,Adventure,Front,,,Going ahead,290c457b-6310-4ed6-937a-e4dfd3ea28d0, EBN 513,SUV, 4D56AAJ1411,PAEVB5MMEDB009956,Private,,4951276e-a5dd-4cc1-96a0-d190fb8d1c2b
+4951276e-a5dd-4cc1-96a0-d190fb8d1c2b,Howo Dumptruck,Dumptruck,,,,Going ahead,756e5abc-4d9f-435b-80a8-28fd44b347b4, 1230-100292,Truck (Articulated),180507025677,LZZ1ELSD5JA372470,Private,,4951276e-a5dd-4cc1-96a0-d190fb8d1c2b
+49b50457-e557-41af-9b31-48682503fc3f, TRAILER TRUCK ,NONE,Multiple,Multiple,Legal,Going ahead,ba040530-6d45-462b-b4f4-3612a833c761,KDZ 924,Truck (Articulated),NONE,NONE,Private,NONE,49b50457-e557-41af-9b31-48682503fc3f
+49c365a0-e341-4633-ae80-ae1081774dca,Kawasaki BAjaj CT100,,Front,None,Legal,Overtaking,1cd30c98-9e3b-4b41-b404-071722b7e174,None,Motorcycle,undetermined,MD2A18AY4HWE56500,Private,,49c365a0-e341-4633-ae80-ae1081774dca
+49c365a0-e341-4633-ae80-ae1081774dca,Kawasaki Bajaj CT100,,Rear,None,Legal,,4af0b250-a779-41a3-95f9-6b1890916275,5095 MZ,Tricycle,undetermined,MD2A18AZOCW862866*,Private,,49c365a0-e341-4633-ae80-ae1081774dca
+4b49b7cd-2d58-4298-9868-fb9d23abfbb8,Kawasaki BAjaj CT100,,Front,None,Legal,Overtaking,1cd30c98-9e3b-4b41-b404-071722b7e174,None,Motorcycle,undetermined,MD2A18AY4HWE56500,Private,,4b49b7cd-2d58-4298-9868-fb9d23abfbb8
+4b49b7cd-2d58-4298-9868-fb9d23abfbb8,Kawasaki Bajaj CT100,,Rear,None,Legal,,4af0b250-a779-41a3-95f9-6b1890916275,5095 MZ,Tricycle,undetermined,MD2A18AZOCW862866*,Private,,4b49b7cd-2d58-4298-9868-fb9d23abfbb8
+4bff0668-6103-4608-8f3a-fd5bbbfad193,HONDA,TMX 155 ,,,,,211edba6-bf17-4e6a-b137-25dcbbe3d61c,,Motorcycle,,,Private,,4bff0668-6103-4608-8f3a-fd5bbbfad193
+4bff0668-6103-4608-8f3a-fd5bbbfad193,Bajaj Boxer 150 ,Boxer 150 ,,Lights,,,106cabdc-c36a-4902-a377-cde3cd09629b,1001-0243,Motorcycle,,,Private,,4bff0668-6103-4608-8f3a-fd5bbbfad193
+4c010a7e-fa49-4ad7-8848-7832ae758ac2,Suzuki Smash,2017,Front,None,Legal,Going ahead,13d7bb2f-32e2-4e72-8f02-f2d108008076,060105,Motorcycle,E472478836,BE4DX655580,Private,,4c010a7e-fa49-4ad7-8848-7832ae758ac2
+4c010a7e-fa49-4ad7-8848-7832ae758ac2,Mitsubishi Fuso Stake Truck,2005,Right,None,Legal,Left turn,e7834bf6-84c7-47b6-a04b-e5ff9ded94ff,YDJ 109,Truck (Rigid),4D33-B03347,FE4373-581607,Private,,4c010a7e-fa49-4ad7-8848-7832ae758ac2
+4ca5de05-18e0-4cb1-8680-fd5c4bc9b8b6,,Pick-up Truck-ISUZU Eagle 41 ,,,,,ffe9af21-1509-4074-a6a9-3f4c96626909,,Car,,,Private,,4ca5de05-18e0-4cb1-8680-fd5c4bc9b8b6
+4ccaaad8-0d5d-4f12-b4f5-d4c7cafec76b,motoposh,motoposh,None,None,Legal,Going ahead,07d8346b-29d8-4180-8672-11cccccc395e,no plate attached,Motorcycle, 161FMJ-11 *2H002272*,*LB415PC74HC002272* ,Private,not indicated in the report,4ccaaad8-0d5d-4f12-b4f5-d4c7cafec76b
+4cf46e42-5ac1-4770-8078-27084e21e293,,,,,,,38adab51-9751-4d35-89e8-9c3897f6277d,,Motorcycle,,,Private,,4cf46e42-5ac1-4770-8078-27084e21e293
+4d8de656-5385-4833-a94c-51c465e3dcf1,,,,,,,48c7c9a4-2655-471b-b616-29e5a8f5c478,1303-0548048,Motorcycle,,,,,4d8de656-5385-4833-a94c-51c465e3dcf1
+4d8de656-5385-4833-a94c-51c465e3dcf1, RANGER,,,,,,e34b074d-921c-4e63-a11a-9da1bcaec00f,NBF 8558,SUV,,,,,4d8de656-5385-4833-a94c-51c465e3dcf1
+4d8de656-5385-4833-a94c-51c465e3dcf1,,,,,,,4e05b038-d37f-48a2-bf4f-f6db91600701, AWA 4280,Truck (Unknown),,,,,4d8de656-5385-4833-a94c-51c465e3dcf1
+4f524f0f-1dc2-4dfb-bba7-1daff40dc161,Rusi,Rusi,Multiple,None,Legal,Going ahead,f75584ea-ee0e-49d6-a1ca-6f592b302f11,AU 30621,Motorcycle,Not indicated in the report,Not indicated in the report,Private,Not indicated in the report,4f524f0f-1dc2-4dfb-bba7-1daff40dc161
+4f524f0f-1dc2-4dfb-bba7-1daff40dc161,UNIDENTIFIED,NOT INDICATED IN THE REPORT,Multiple,None,Legal,Overtaking,46f7ddc3-db45-4e8c-914f-965a876743f3,NOT INDICATED IN THE REPORT,Motorcycle,NOT INDICATED IN THE REPORT,NOT INDICATED IN THE REPORT,Private,NOT INDICATED IN THE REPORT,4f524f0f-1dc2-4dfb-bba7-1daff40dc161
+4f524f0f-1dc2-4dfb-bba7-1daff40dc161,Honda,Honda TMX 155,Multiple,None,Legal,Cross traffic,4f6b8b7c-bdc5-498c-9a8c-00bfd952bdf5,4322 GW,Tricycle,NOT INDICATED IN THE REPORT,NOT INDICATED IN THE REPORT,,NOT INDICATED IN THE REPORT,4f524f0f-1dc2-4dfb-bba7-1daff40dc161
+4f864f87-9765-423e-856f-d0bbeb523dac,MOTOR STAR 110,2016,Multiple,None,Legal,Going ahead,369ca8f8-1213-4c8c-b1fa-b8c4bc5ffd72,FOR REGISTRATION,Motorcycle,,LAMSXKHF8H0005375,Private,,4f864f87-9765-423e-856f-d0bbeb523dac
+504bb9f8-1417-4e4e-bfac-7987c8dd6bb0,KLX 150,,,,,Left turn,44494f5e-a48e-4740-a8a3-c16eca221603,1101-373799,Motorcycle,,,Private,,504bb9f8-1417-4e4e-bfac-7987c8dd6bb0
+504bb9f8-1417-4e4e-bfac-7987c8dd6bb0,ELF TRUCK,,,,,Going ahead,38a837ee-4b89-4a89-8ac2-0050b47fde37,,Truck (Pick-Up), 4BE-343-758,NKR58GR-7100302,Private,,504bb9f8-1417-4e4e-bfac-7987c8dd6bb0
+51801e2a-e264-4c1d-b53a-ddf32ab21aa5,Yamaha,YZF-R3,Multiple,None,Legal,Going ahead,a9c479d3-aa26-41f9-82c2-271a470e2cff,MV File No. 0601-0531798,Motorcycle,,,Private,,51801e2a-e264-4c1d-b53a-ddf32ab21aa5
+51dcb577-ecd0-411b-ac34-5862553eeaa0,kawasaki,,Multiple,Tires,Legal,Left turn,3a7e4480-ccb8-45fd-8c15-aeb663216e59,122603,Tricycle,,,Public / For-Hire,,51dcb577-ecd0-411b-ac34-5862553eeaa0
+528a7561-467a-496e-9e73-e4db95601967,Honda,Honda XRM,Front,None,Legal,Going ahead,e78ea4f9-f0c8-4f19-bfaa-f4f08dd49f00,11151H,Motorcycle,,,Private,,528a7561-467a-496e-9e73-e4db95601967
+528a7561-467a-496e-9e73-e4db95601967,Rusi,Rusi,Front,None,Legal,Going ahead,574d2f14-4181-4d34-95ca-9438f90ce6e7,,Motorcycle,RF150FMGMPO77645 ,RFKXCJL49GA077645,,,528a7561-467a-496e-9e73-e4db95601967
+5396e64b-7550-4cd1-b997-3d7a67f0703d,Honda ,TMX ,Front,,,Going ahead,2cd1cd58-53d6-4d36-8f71-13a7e1225f5a,6635 OY,Motorcycle,,,Private,,5396e64b-7550-4cd1-b997-3d7a67f0703d
+5396e64b-7550-4cd1-b997-3d7a67f0703d,Motorstar ,,Front,,,Going ahead,51bb0a62-e52a-46f2-9b7f-a0f3844365b5,,Motorcycle,,,Private,,5396e64b-7550-4cd1-b997-3d7a67f0703d
+54b22cde-23dd-4fb3-813e-7906be28fd45,HONDA TMX 125 MC,,None,None,,Going ahead,201aeb2e-6596-4e58-a43c-7caa8f3afafd,no plate,Motorcycle,,,Private,,54b22cde-23dd-4fb3-813e-7906be28fd45
+5605d62e-2824-4b7b-931a-7bf87d414de0,Isuzu Elf,,None,None,,Going ahead,021750bb-598c-4da8-a9ec-69ea7fbc71ec,CAJ 8348 ,Truck (Unknown),,,Private,,5605d62e-2824-4b7b-931a-7bf87d414de0
+5653d8fd-ab4b-473d-af8d-081564c4acf9,TOYOTA VIOS,NONE,None,None,Legal,Going ahead,ee84842b-476d-408f-8853-5a587bd33bdc,NONE,Car,NONE,NONE,Private,NONE,5653d8fd-ab4b-473d-af8d-081564c4acf9
+56f18ef3-c460-492a-aa9e-049041e13974,,Hero 110,Front,None,,Going ahead,c9e8abaa-8335-435b-8e63-84822448551b,For Registration,Motorcycle,,,Private,,56f18ef3-c460-492a-aa9e-049041e13974
+570150cd-f17e-4749-9ca5-6a6979f5bd04,honda,XRM 125,Multiple,Lights,Legal,Going ahead,b882fa65-97cc-4928-8a7c-94ced47a29ff,4631 MO,Motorcycle,XRM16L045400,XRM160454404,Private,,570150cd-f17e-4749-9ca5-6a6979f5bd04
+570150cd-f17e-4749-9ca5-6a6979f5bd04,FUSO,,Rear,Tires,Legal,Parked on road,c8f03db4-ae32-4b84-b63c-5ef67399cba6,ANA 8487,Truck (Rigid),,,Private,,570150cd-f17e-4749-9ca5-6a6979f5bd04
+5766e124-7de0-45b3-a742-424ade7380ae,Hino Truck Aluminum Wing Van ,,Front,None,,Cross traffic,0ac15d1f-8b6e-4f8a-95f5-42a9b7bd6aa5,CAI 2124 ,Truck (Unknown),,,Private,,5766e124-7de0-45b3-a742-424ade7380ae
+5766e124-7de0-45b3-a742-424ade7380ae,Hino Viking Truck Bus ,,Multiple,None,,Merging,6cffdd42-43f3-4897-90bb-d59802da996d,no,Bus,,,Private,,5766e124-7de0-45b3-a742-424ade7380ae
+5766e124-7de0-45b3-a742-424ade7380ae,Toyota Hi-ace Van ,,Multiple,None,,,7f18e452-e86c-4e8f-8dba-ac5e3a79fbbc,no,Van,,,Private,,5766e124-7de0-45b3-a742-424ade7380ae
+57b35982-2948-46c1-b45b-04610f8bbfc2,Yamaha,2019,Front,Multiple,Legal,Diverging,807da659-6871-4c3e-80e4-72c48be4236a,YMA123,Motorcycle,,,Private,,57b35982-2948-46c1-b45b-04610f8bbfc2
+57b35982-2948-46c1-b45b-04610f8bbfc2,IZUSU,2014,Front,Multiple,Legal,Diverging,06a33a90-ed32-4810-b4d6-36af5ac83021,ABC,Truck (Articulated),,,Private,,57b35982-2948-46c1-b45b-04610f8bbfc2
+5816ea40-1068-4b33-bdc9-f84adc76f1cf,,Maroon Isuzu Elf,,,,,811e51d5-2529-4d76-b32c-93946cd8b66f,bearing plate number AAT 1936 ,Car,,,Private,,5816ea40-1068-4b33-bdc9-f84adc76f1cf
+58ebe272-e2e7-4fe2-9c4d-c4da794a71f9,Honda,Honda XRM,Rear,,Legal,Overtaking,71ee2469-52b2-4696-87f9-7674c26378c3,JL 3653,Motorcycle,,,Private,,58ebe272-e2e7-4fe2-9c4d-c4da794a71f9
+58ebe272-e2e7-4fe2-9c4d-c4da794a71f9,Isuzu,Isuzu Cargo Truck,None,None,,Going ahead,3ea9a505-62a4-4230-adb1-95ae7efc57d2,KVX 969,Truck (Articulated),10PD1-783248,,Private,,58ebe272-e2e7-4fe2-9c4d-c4da794a71f9
+58ebe272-e2e7-4fe2-9c4d-c4da794a71f9,NISSAN,NAVARRA,Left,Tires,Legal,Going ahead,04824409-32cd-4c9b-bbab-be84871831ce,KAB5431 ,Truck (Pick-Up),YD25754348T,,Private,,58ebe272-e2e7-4fe2-9c4d-c4da794a71f9
+596ce94d-98df-462c-a8a5-2017b77e9541,"rusi motorcycle, ",,Front,None,,Going ahead,642b8e5d-6815-4cce-bcee-c3d19c4f7abc,no,Motorcycle,,,Private,,596ce94d-98df-462c-a8a5-2017b77e9541
+5a2aea3c-269e-4b71-aa34-fc6af35ce303,,,,,,,090cd78b-75c2-417c-8ebd-66c83d5180dd,,Motorcycle,,,Private,,5a2aea3c-269e-4b71-aa34-fc6af35ce303
+5ae81c72-6155-4ae3-bf86-d19a02bb923e,Kawasaki CT100B,2018,Left,None,Legal,Going ahead,06170ff1-108f-49f2-902f-a228869e3abe,1201-1431198,Motorcycle,DUZWJL15298,MD2A18AYXJWL55724,Private,,5ae81c72-6155-4ae3-bf86-d19a02bb923e
+5ae81c72-6155-4ae3-bf86-d19a02bb923e,Isuzu Elf,2000,Left,Lights,Legal,Going ahead,e66741a5-1ef2-4580-8496-b0e789e1a7d3,MBR 354,Truck (Rigid),4BE1-400886,NKR58E-7256638,Private,,5ae81c72-6155-4ae3-bf86-d19a02bb923e
+5b489389-4624-45d7-b251-ea6469f6a032,,RUSI150,Multiple,Brakes,Legal,Overtaking,f92cf5c5-32c7-4ec6-8b13-f43148824b83,NO PLATE,Motorcycle,162FMJBJFSO25417,,Private,,5b489389-4624-45d7-b251-ea6469f6a032
+5b489389-4624-45d7-b251-ea6469f6a032,,MINI DUMP TRUCK,Multiple,Steering,Legal,Overtaking,f1253fcb-9847-44a3-80d5-2c4ef8551313,MEH 901,Truck (Articulated),4BE1-817067,NKR58E-0515211 ,Private,,5b489389-4624-45d7-b251-ea6469f6a032
+5bc2d620-b7dc-4453-8c12-ca559d6af481,RUSI,Rusi Surf,Multiple,None,Legal,Going ahead,254399e2-7636-4827-a2fb-7722923005de,WITHOUT PLATE NO.,Motorcycle,,,Private,,5bc2d620-b7dc-4453-8c12-ca559d6af481
+5cf0e46e-3ac3-42c7-a48c-75e8dbb3be1d,,,,,,,3dbb70da-4858-406d-a822-08715c566ba1,,,,,,,5cf0e46e-3ac3-42c7-a48c-75e8dbb3be1d
+5cf0e46e-3ac3-42c7-a48c-75e8dbb3be1d,,,,,,,f9031fb3-c1b8-48dc-afad-cedcc1ab06dc,EFG 456,Truck (Unknown),,,Private,,5cf0e46e-3ac3-42c7-a48c-75e8dbb3be1d
+5d101494-049d-457a-a739-56c15c3a7099,Isuzu Elf,,None,None,,Going ahead,e808089a-e84f-40df-bbfa-5360ca5f2fa2,CAJ 8348 ,Truck (Unknown),,,Private,,5d101494-049d-457a-a739-56c15c3a7099
+5d10860e-cd0e-4896-9607-d793c4b12366,Motorstar ,,,,,,e21d6fce-4261-4207-816e-b8353e9f12fa,,Motorcycle,,,Private,,5d10860e-cd0e-4896-9607-d793c4b12366
+5d10860e-cd0e-4896-9607-d793c4b12366,Hino Wing Van,,,,,Parked off road,2d401af3-d41b-42dc-943b-d14c9117eb3e,130106,Truck (Rigid),,,Private,,5d10860e-cd0e-4896-9607-d793c4b12366
+5d10860e-cd0e-4896-9607-d793c4b12366,Wing Van Truck,,,,,Overtaking,9b5384f2-a05b-4a95-b0ce-d774670734be,,Truck (Unknown),,,Private,,5d10860e-cd0e-4896-9607-d793c4b12366
+5d12147c-bed2-4ade-ad45-ef947433abd0,FUSO Aluminum Wing Van Truck ,,,,,,93d4f0a2-f051-46f8-a25c-7578bda7bac2,101210,Truck (Rigid),6040-270281,FU51OUZ-502205,Private,,5d12147c-bed2-4ade-ad45-ef947433abd0
+5d12147c-bed2-4ade-ad45-ef947433abd0,Kawasaki KLX ,,,,,,286f5823-22f7-4653-917d-0a915d57333a,,Motorcycle,,,Private,,5d12147c-bed2-4ade-ad45-ef947433abd0
+5d917923-69fc-453c-a020-ef1228a8e7db,TMX,,,,,,c988f7a5-caf3-4a4b-bc7f-21832d38ec19,,Motorcycle,,,Private,,5d917923-69fc-453c-a020-ef1228a8e7db
+5d917923-69fc-453c-a020-ef1228a8e7db,EURO,,Front,,,,d3d078ec-ba25-4971-b3b6-a3904b743c49,,,,,Private,,5d917923-69fc-453c-a020-ef1228a8e7db
+5da17032-60a9-4fb1-8f93-4baf8ca18cd5,HONDA ,CFT125MSE,,,,,8667c66a-5f94-461e-b4a6-c34f4fe97411,JA 57517,Motorcycle,KPY00E039302,KPY00039343,Private,,5da17032-60a9-4fb1-8f93-4baf8ca18cd5
+5da17032-60a9-4fb1-8f93-4baf8ca18cd5,SKYGO,,,,,,4ccc8e06-c2e8-482f-9b9a-c23809346fd9,090105,Motorcycle,,,Private,,5da17032-60a9-4fb1-8f93-4baf8ca18cd5
+5df2b198-8409-4d97-8a39-aa4b4e5ed94b,,,,,,,84b3cfdf-9096-404b-8348-893343a0da4a,,Motorcycle,,,Private,,5df2b198-8409-4d97-8a39-aa4b4e5ed94b
+5df2b198-8409-4d97-8a39-aa4b4e5ed94b,,,,,,,b96332f6-ae70-4474-b991-2a259fe066b4,,Truck (Articulated),,,Private,,5df2b198-8409-4d97-8a39-aa4b4e5ed94b
+5e2dbe68-9691-4d51-b27a-44261a93af09,,,,,,,58fff88d-5571-4f69-a7fd-0f92f010f073,,Motorcycle,,,Private,,5e2dbe68-9691-4d51-b27a-44261a93af09
+5e2dbe68-9691-4d51-b27a-44261a93af09,,,,,,,6936d685-01b0-4541-8b60-cb4c080d2757,,Truck (Articulated),,,Private,,5e2dbe68-9691-4d51-b27a-44261a93af09
+5e50d7e8-e969-4827-b34a-65d9a647b32a,FORD,2011,Front,None,Legal,Going ahead,4b9a8fe8-bb58-4c6b-a865-af5042f78201,KFZ610,SUV,TSJABK39951,MNBJXXARJJBK39951,Private,,5e50d7e8-e969-4827-b34a-65d9a647b32a
+5e50d7e8-e969-4827-b34a-65d9a647b32a,HONDA,2018,Multiple,None,Legal,Going ahead,30b91e3f-7b97-48c6-b58b-2c3cc331511a,NO PLATE NUMBER,Motorcycle,KSW10E115623,KSW10113609,Public / For-Hire,,5e50d7e8-e969-4827-b34a-65d9a647b32a
+5e904198-a09c-4ea0-a53a-41895d911e1e,Rusi ,,,,,,82322ed8-185a-4c61-9e8d-c286e6a066c5,,Motorcycle,,,Private,,5e904198-a09c-4ea0-a53a-41895d911e1e
+5e904198-a09c-4ea0-a53a-41895d911e1e,Honda XRM,,,,,,d306d37c-6c5e-4ec7-8fb5-b6d7e66a7d02,,Motorcycle,,,Private,,5e904198-a09c-4ea0-a53a-41895d911e1e
+5ee6d0c9-749c-40aa-b552-a36ada782fd2,Daewoo Truck Bus ,,Front,None,,Going ahead,dc1158b4-6764-4a7e-b152-d60344dd42f4,ACC 8535,Bus,,,Private,,5ee6d0c9-749c-40aa-b552-a36ada782fd2
+5ee6d0c9-749c-40aa-b552-a36ada782fd2,RUSI MP,,Multiple,None,,"""U"" turn",6fe687e4-c66a-46d1-9436-d1c2e457d0f3,no,Motorcycle,,,Private,,5ee6d0c9-749c-40aa-b552-a36ada782fd2
+5f035e41-b83e-47e2-a74c-af9da9242b22,MITSUBISHI L200,2019,Right,None,Legal,Going ahead,a737d7b6-a76e-4d38-b6a2-3660fe92ffdd,B5W 303,SUV,4D56UAY3275,MMBYNKJ30KH045195,Private,,5f035e41-b83e-47e2-a74c-af9da9242b22
+5f0565cd-27a9-4b9d-ac5d-9f8af5ed2e7e,,BLUE RUSI150  SINGLE MOTORCYCLE ,,,,,613f288b-2b87-443a-847f-a71e1ec8bee4, NO PLATE NUMBER ATTACHED ,Motorcycle,ENGINE NUMBER 162FMJBJFSO2541,,,,5f0565cd-27a9-4b9d-ac5d-9f8af5ed2e7e
+5f0565cd-27a9-4b9d-ac5d-9f8af5ed2e7e,,"MINI DUMP TRUCK, COLOR MINT GREEN,",,,,,f4f953ae-30c0-441f-9f84-7d8b739f0ad2," BEARING PLATE NUMBER MEH 901,",Car, ENGINE NO. 4BE1-817067, CHASSIS NO. NKR58E-0515211 REGISTERED ,Private,,5f0565cd-27a9-4b9d-ac5d-9f8af5ed2e7e
+5f5f400d-9362-432b-b658-e5c64d0a3edf, TOYOTA,WIGO,,,,Left turn,604a9d10-fea9-490a-a667-5633da4644b8,,Car,TKRA406766,MHKA4DE5FHJ001275,Private,,5f5f400d-9362-432b-b658-e5c64d0a3edf
+5f5f400d-9362-432b-b658-e5c64d0a3edf,HONDA WAVE,HONDA WAVE,,,,,4f023ce6-d3c7-43cf-b2e8-1084b9a034a2,,Motorcycle,,,Private,,5f5f400d-9362-432b-b658-e5c64d0a3edf
+603b0afe-0e08-4d6b-bfaa-ee30c57cb7e2,Honda,XRM,,,,,c880f3f0-7701-4ea8-b672-68d7f747eb4f,,Motorcycle,,,Private,,603b0afe-0e08-4d6b-bfaa-ee30c57cb7e2
+603b0afe-0e08-4d6b-bfaa-ee30c57cb7e2,Honda,XRM,,,,,8c03811c-6899-45f5-a7c7-74d26f816cfc,KA 43148,Motorcycle,,,Private,,603b0afe-0e08-4d6b-bfaa-ee30c57cb7e2
+605026a4-5979-4ca6-8e10-297e17e14918,toyota,Fortuner,Front,,,,6e781dbf-2e0e-42b2-af01-eac197b5148b,ABE-6448,SUV,,,Private,,605026a4-5979-4ca6-8e10-297e17e14918
+605026a4-5979-4ca6-8e10-297e17e14918,Dump Truck,,,,,,a2a37a8d-a33a-4733-8b36-cfb5b063a763,AOA-6787,Truck (Rigid),,,Public / For-Hire,,605026a4-5979-4ca6-8e10-297e17e14918
+6146a92c-f544-4096-a5eb-2e5989f46ccd,CHEVROLET CAPTIVA,NONE,Front,Multiple,Legal,Going ahead,fccbbc8e-a4fc-4822-bc54-4fdf27e619de,NQC 788,SUV, Z20S1325402K,NONE,Private,NONE,6146a92c-f544-4096-a5eb-2e5989f46ccd
+6146a92c-f544-4096-a5eb-2e5989f46ccd,SKYGO 110,NONE,Multiple,Multiple,Legal,Going ahead,78b6a54f-8c99-47c0-a6e1-2a4baa95bdb4,NONE,Motorcycle,NONE,NONE,Private,NONE,6146a92c-f544-4096-a5eb-2e5989f46ccd
+617dc8f1-ccdc-469c-b290-aac0fbbe8a41,,"Red Racal Motorcycle, ",,,,,3709cd88-aac0-4d20-a89c-993e087b1644,"no plate number attached,",Car,,,Private,,617dc8f1-ccdc-469c-b290-aac0fbbe8a41
+617dc8f1-ccdc-469c-b290-aac0fbbe8a41,,"Red Racal Motorcycle,",,,,,724c6c8b-ef88-444e-b615-0665998fae69, bearing license plate number 9683XC,Car,,,Private,,617dc8f1-ccdc-469c-b290-aac0fbbe8a41
+61abe3c8-ba13-454a-896b-4331a493ea40,HONDA,XRM,,,,Going ahead,1b915a1b-9474-4128-b5c3-dcddaad1e446,1459 KB,Motorcycle,XRM13E-042880, XRM13042840,Private,,61abe3c8-ba13-454a-896b-4331a493ea40
+61abe3c8-ba13-454a-896b-4331a493ea40,YAMAHA,XTZ-125,,,,Going ahead,1cc69795-096f-459e-9e15-e9aa3cbb6757,1001-455166,Motorcycle,E3W8E-044186,PAODE1110J0026034,Private,,61abe3c8-ba13-454a-896b-4331a493ea40
+623dfee5-1606-4a05-850d-9b1a76f17f5e,SUSZUKI,,Front,None,Legal,Going ahead,520a8442-7cbc-4bf8-9fa1-693aa9434b73,,Motorcycle,E472490076,BE4DX666834,Private,,623dfee5-1606-4a05-850d-9b1a76f17f5e
+623dfee5-1606-4a05-850d-9b1a76f17f5e,SKYGO,,Right,None,Legal,Cross traffic,a875fab9-6f4b-45c8-8ac4-00d099b98c13,JA 38727,Motorcycle,,,Private,,623dfee5-1606-4a05-850d-9b1a76f17f5e
+6265c95a-2688-4d6d-a296-b8b9cd851c37,Honda ,XRMFI 125 MC,Multiple,,,,b3121aef-c67c-4852-a160-196366534145,,Motorcycle,KPYSOE0009793,KPYS0009706,Private,,6265c95a-2688-4d6d-a296-b8b9cd851c37
+6265c95a-2688-4d6d-a296-b8b9cd851c37,ISUZU TEN WHEELER TRUCK,,,,,,dc953d73-403c-4d7c-b57a-ac29dbaaac7f,GRH 738,Truck (Unknown),8PD1-974255,RMC110-EJRZ0003596,Private,,6265c95a-2688-4d6d-a296-b8b9cd851c37
+62fe22d3-947f-4a69-b97a-22b35b793dd9,Black Bajaj 125 with sidecar,,,None,,Left turn,aaa0730f-7bb2-45f1-a352-4b9b646d94ac,without plate no.,Tricycle,,,Private,,62fe22d3-947f-4a69-b97a-22b35b793dd9
+62fe22d3-947f-4a69-b97a-22b35b793dd9,Blue RUSI 125,,,None,,Going ahead,2d3bb9fd-c940-4252-a365-fd5e7938f993,without plate no.,Motorcycle,,,Private,,62fe22d3-947f-4a69-b97a-22b35b793dd9
+649f4d85-422b-4784-b25a-41148679bbfc,Yamaha,,,,,,e3028c9b-9bf5-485a-bd26-82b6e7a0b91d,,Motorcycle,,,Private,,649f4d85-422b-4784-b25a-41148679bbfc
+64e42e33-b571-47f0-88a1-96b88775592d,SUZUKI ,RAIDER 150,,,,,20db66c4-a7bd-49b0-a6c2-4ff8e212d657,,Motorcycle,G427-386675 ,BG41K-428825,Private,,64e42e33-b571-47f0-88a1-96b88775592d
+652d1a3f-47cd-4102-8745-3f12024558c2,,,Roof,Multiple,Overloaded,Cross traffic,a687a736-6f0d-4c8c-ab4c-5418171d2cf5,AAA1234567890,Ambulance,,,Private,,652d1a3f-47cd-4102-8745-3f12024558c2
+675724ca-8d5f-466a-bcec-f25d164cff3b,"HONDA, ",XRM125,Multiple,None,Legal,Going ahead,b8d38d2f-fb07-437a-92ae-28920e15dd67,temporary plate # 09011082722,Motorcycle,engine # KPY00E188338,Chassis # KPY00188302,Private,,675724ca-8d5f-466a-bcec-f25d164cff3b
+675724ca-8d5f-466a-bcec-f25d164cff3b,HONDA,RS125,Left,None,Legal,,6060b8fc-76d6-419e-b112-b24fa64f428f,"2735-GT, ",Motorcycle,"engine # KPG00E032873,", chassis # KPG00032874,Private,,675724ca-8d5f-466a-bcec-f25d164cff3b
+67e74828-a079-4917-b81b-d56579a5ff4a,Kia Bongo ,Kia Bongo ,,,,,bdeb7b00-50e7-4202-92f2-d3896481bfd0,,Jeepney,5T292429,KN3HAP53E1K757759,Private,,67e74828-a079-4917-b81b-d56579a5ff4a
+67e74828-a079-4917-b81b-d56579a5ff4a,PINOY 155,PINOY 155,,,,Going ahead,2f9d632f-ed77-426f-9668-688372e0bcc9,,Motorcycle,,,Private,,67e74828-a079-4917-b81b-d56579a5ff4a
+683ce575-1f28-4725-a351-673566f30c63,Blue RUSI (XR150),,Left,None,Legal,Sudden stop,ad3b81d0-990c-467c-a946-de2144e539cb,MS 45807,Motorcycle,,,Private,,683ce575-1f28-4725-a351-673566f30c63
+683ce575-1f28-4725-a351-673566f30c63,Brown Yamaha (RS 110 R),,None,None,,,c550b248-99ac-4e72-a27b-354add8ddcee,,Motorcycle,,,Private,,683ce575-1f28-4725-a351-673566f30c63
+686d4c43-f8fa-475c-9243-4bf1b5fed001,Mitsubishi Montero Sport GLX ,Montero Sport GLX,Multiple,None,Legal,Diverging,a864123b-66ab-4c55-b734-d93121a6d36d,ABX 5573,SUV,4D56UCFW2516,MMBGRKG4EF038732,Private,not indicated in the report,686d4c43-f8fa-475c-9243-4bf1b5fed001
+6a578225-a467-40be-ac7d-0863233273b5,RUSI motorcycle ,,Front,None,,Going ahead,8d682a11-c119-4b4f-b431-aab8df418cc7,no,Motorcycle,,,Private,,6a578225-a467-40be-ac7d-0863233273b5
+6a578225-a467-40be-ac7d-0863233273b5,TOYOTA Hi-Ace ,,None,None,,Going ahead,3a5e21c0-c0a4-4b22-a1ab-1859208d2478,NDO-9791 ,Van,,,Public / For-Hire,,6a578225-a467-40be-ac7d-0863233273b5
+6ac4a410-9dc7-48f5-abb8-ef66323387e7,Isuzu Ten-Wheeler Truck ,,,Brakes,,,de1c25c3-dccb-43c0-8666-9fdfc96164ce,,Truck (Rigid),,,Private,,6ac4a410-9dc7-48f5-abb8-ef66323387e7
+6ac4a410-9dc7-48f5-abb8-ef66323387e7,Honda ,XRM125,,,,,935db4c7-bd2d-4666-b4d2-ce8186b679d1,,Motorcycle,,,Private,,6ac4a410-9dc7-48f5-abb8-ef66323387e7
+6b335f2d-e6bd-41ad-8aca-67a88f2eaed8,Skygo ,,None,,,Going ahead,0d72e4f6-62da-4426-87ea-dd8570798aeb,no,Motorcycle,,,Private,,6b335f2d-e6bd-41ad-8aca-67a88f2eaed8
+6b8c57b8-7529-4b02-8438-22a70aaad713,,HONDA MC CLOSECAB ,Right,Brakes,Legal,Left turn,b2a91a1d-fbcf-4d1f-b412-8b321d1068d6,MV FILE NO 1101-642978 REGISTERED ,Motorcycle,,,Private,,6b8c57b8-7529-4b02-8438-22a70aaad713
+6b8c57b8-7529-4b02-8438-22a70aaad713,,HONDA MC,,,,,a02163db-efc3-4c62-a60f-33653c114d3b,BEARING PLATE NO 7994 ,,,,Private,,6b8c57b8-7529-4b02-8438-22a70aaad713
+6c374e9d-de36-4432-9e38-497adabd2abc,,"RUSI Motorized Tricycle, Model 2013, ",,,,,6cb02a3a-9a0a-41e8-afa8-f1da20690ea7,"bearing plate number BJ0669, ",Motorcycle,,chassis number RFCPCJXJ8DB029328  ,Private,,6c374e9d-de36-4432-9e38-497adabd2abc
+6c374e9d-de36-4432-9e38-497adabd2abc,,"FUSO Fighter Truck,  Model 1989",None,,,Overtaking,cc36b8f6-83ac-4bff-9498-30e0e3baeaa5,"bearing plate number NXQ-669,  ",Car,"engine number 6D14591777, ",chassis number FK335K530101,Private,,6c374e9d-de36-4432-9e38-497adabd2abc
+6c4fee63-7867-4d4c-a815-40752739974a,None,None,Rear,Lights,Legal,Overtaking,e90f010d-1af5-4ce9-899c-ec92b00ac491,None,Car,None,None,Private,None,6c4fee63-7867-4d4c-a815-40752739974a
+6c4fee63-7867-4d4c-a815-40752739974a,None,None,Right,Lights,Legal,Sudden stop,5fda59af-1b92-48d2-b79e-7fda0e45c18b,None,Van,None,None,Private,None,6c4fee63-7867-4d4c-a815-40752739974a
+6c9a68a7-dcdf-4af6-8c26-b4a844c19aa8,MITSUBISHI,Mitsubishi Dump truck Fuso,None,None,Legal,Going ahead,67de5419-5f6f-4478-b4df-ce03290b9cba,ABB6483,Truck (Pick-Up),8DC11-417239,FV419J-550503 ,Public / For-Hire,,6c9a68a7-dcdf-4af6-8c26-b4a844c19aa8
+6d1040a5-60e1-4a75-94ae-2ee9d658a048,Honda,XRM 125,Front,None,Other (see description),Going ahead,74fcd176-ede5-4176-8c2e-917e83445e52, XY 5093,Motorcycle,,,Private,,6d1040a5-60e1-4a75-94ae-2ee9d658a048
+6d1040a5-60e1-4a75-94ae-2ee9d658a048,Suzuki,Raider 150,Front,None,Other (see description),Merging,c3e61cb8-6caa-4089-b58e-cb7d550950cd,for registration plate attached,Motorcycle,,,Private,,6d1040a5-60e1-4a75-94ae-2ee9d658a048
+6d901002-89a6-426b-9cc0-95c0cc3982ea,rusi,,Multiple,,,,cd6bbdcd-6954-4eab-8ea0-1f32dd687d1f,,Motorcycle,,,Private,,6d901002-89a6-426b-9cc0-95c0cc3982ea
+6d901002-89a6-426b-9cc0-95c0cc3982ea,rusi,,Multiple,,,,b19d987e-ab19-4ae7-8f4c-e2372608228e,,Motorcycle,,,Private,,6d901002-89a6-426b-9cc0-95c0cc3982ea
+6da36778-b2aa-4d13-afa8-a1a5fae0b14d,,,,,,,3880db3f-cf13-4bb8-bc2f-fe5d52498098,,Motorcycle,,,Private,,6da36778-b2aa-4d13-afa8-a1a5fae0b14d
+6da36778-b2aa-4d13-afa8-a1a5fae0b14d,,,,,,,5c729006-4dbf-4c8d-8d52-a541da5deeff,,Truck (Articulated),,,Private,,6da36778-b2aa-4d13-afa8-a1a5fae0b14d
+6e56679b-5fd1-455b-8545-55c5f7b4fb9f, KING LONG AIRCON BUS ,NONE,Left,Multiple,Legal,Going ahead,83261b17-f36f-4ad6-b43b-49ecadd6bf0e, 151001 ,Bus,NONE,NONE,Public / For-Hire,NONE,6e56679b-5fd1-455b-8545-55c5f7b4fb9f
+6e5e07f5-5005-4f08-9cbb-11f7dffc1527,Yamaha STX,,Front,,Legal,,074ab11d-f5b5-4a68-aac5-fa9faccdf80a,15506,Motorcycle,,,Private,,6e5e07f5-5005-4f08-9cbb-11f7dffc1527
+6e5e07f5-5005-4f08-9cbb-11f7dffc1527,Yamaha Mio,,Front,,Legal,,6da71106-ebf5-42c7-accb-fe363e56c7a6,,Motorcycle,,,Private,,6e5e07f5-5005-4f08-9cbb-11f7dffc1527
+6f8d791b-cfed-44c6-9e1b-9141f9725e9a,TEN WHEELER  DUMP TRUCK,,,Brakes,,,6281d04b-a299-4f19-9936-8b9070e4c0fc,AFA 7932,Truck (Rigid),,,Private,,6f8d791b-cfed-44c6-9e1b-9141f9725e9a
+6f8d791b-cfed-44c6-9e1b-9141f9725e9a,BAJAJ 100,,,,,,e33dab2a-c88a-40f3-8512-b84b477face8,110,Motorcycle,,,Private,,6f8d791b-cfed-44c6-9e1b-9141f9725e9a
+6fa3c26b-8db4-46a2-912e-fee9731717ea,Sino Dump Truck,,Front,Brakes,,Going ahead,473f2a14-d853-40e1-b701-4cf13cdb0b1f,no,Truck (Unknown),,,Private,,6fa3c26b-8db4-46a2-912e-fee9731717ea
+6fc66f87-5980-4da0-832f-2aac147b765f,TOYOTA VIOS,,,,,,0227dfc4-3021-46d6-8161-1c6487a359ca,ABC 123,SUV,,,Private,,6fc66f87-5980-4da0-832f-2aac147b765f
+6fc66f87-5980-4da0-832f-2aac147b765f,,,,,,,e8863960-8b9b-4ec7-8622-499bdfc6959f,EFG 456,Truck (Pick-Up),,,Private,,6fc66f87-5980-4da0-832f-2aac147b765f
+702a4d75-70aa-4237-953e-10139f892446,,,,,,,2bc1bd09-0a1a-4ff8-909d-5e1349dd65c9,04010673654,Motorcycle,,,Private,,702a4d75-70aa-4237-953e-10139f892446
+702a4d75-70aa-4237-953e-10139f892446,mixer,,,,,,e7921784-61ee-42c1-8fb0-6bb1f40b33b2,URI-548,Truck (Articulated),,,Private,,702a4d75-70aa-4237-953e-10139f892446
+7031cddb-c2ff-4e61-83d9-652dc4517730,ISUZU ,,,,,,ae3959d6-50ab-43ba-9369-2c506095cef7, temp. plate no. 120101,Truck (Unknown),8PE1-135946C,SKW464-3001820,Private,,7031cddb-c2ff-4e61-83d9-652dc4517730
+7031cddb-c2ff-4e61-83d9-652dc4517730,Hino Truck,,,,,,4d1ec7e9-1dcb-4fa1-912c-7b3c2fcf06b1,PIT774,Truck (Unknown),J08EUG12338,FG8J1278,Private,,7031cddb-c2ff-4e61-83d9-652dc4517730
+7031cddb-c2ff-4e61-83d9-652dc4517730,Toyota ,Fortuner,,,,,cf708be2-3250-4ffa-bf1d-28621a2d8f2e, LAF 8244,SUV,2GDC561057 ,,Private,,7031cddb-c2ff-4e61-83d9-652dc4517730
+7071f560-2314-4a09-85c8-0052d99a77cf,,,,,,,fcf29176-14ef-4cad-943e-80b75119fe06,,,,,,,7071f560-2314-4a09-85c8-0052d99a77cf
+7071f560-2314-4a09-85c8-0052d99a77cf,,,,,,,c46c3d96-c830-44eb-b2b7-d077155d97a3,,,,,,,7071f560-2314-4a09-85c8-0052d99a77cf
+70e831dd-4482-4a4a-a0e1-0fccc2d92d36,FORTUNER,2013,Multiple,None,Other (see description),"""U"" turn",8390f25c-2aa0-4fd8-b282-2f2769b8c622,MFU 239,Car,2KDU163620,MHFZ69GX03053243,Private,,70e831dd-4482-4a4a-a0e1-0fccc2d92d36
+70e831dd-4482-4a4a-a0e1-0fccc2d92d36,SNIPER 150 ,,Multiple,None,Other (see description),Going ahead,840ce6d7-5680-45bf-b4dd-880f3e96a3b6,0901-0398875 ,Motorcycle,,,Private,,70e831dd-4482-4a4a-a0e1-0fccc2d92d36
+70e831dd-4482-4a4a-a0e1-0fccc2d92d36,RAIDER 150 ,,Multiple,None,Other (see description),Going ahead,f91bfd53-2a9d-457a-9950-acbc1935ac44,,Motorcycle,,,Private,,70e831dd-4482-4a4a-a0e1-0fccc2d92d36
+71657d09-e5a1-47a3-9b24-2df421e6040f,XRM Honda,,Multiple,None,Legal,Going ahead,579c16d2-f388-462b-b34d-e553352d1558,,Motorcycle,,,Private,,71657d09-e5a1-47a3-9b24-2df421e6040f
+71657d09-e5a1-47a3-9b24-2df421e6040f,Toyota Wigo,,Front,None,Legal,Merging,5685bb96-748f-417f-830e-4071bb18e2ed,ABL 1943,Car,,,Private,,71657d09-e5a1-47a3-9b24-2df421e6040f
+7174e418-c818-4721-8499-2b17f7effdbd,,"Racal Motorcycle, blue,",,,,,4304818e-2ca7-4092-93e2-32d94e7deb37, without plate number attached,Motorcycle,,,Private,,7174e418-c818-4721-8499-2b17f7effdbd
+7174e418-c818-4721-8499-2b17f7effdbd,,"Mitsubishi L300, gray,",,,,,eafcf619-0a7d-456c-ba21-a1d82e61f619," plate number DGN 343,",Car,,,Private,,7174e418-c818-4721-8499-2b17f7effdbd
+72c726f0-9ce3-4a49-af68-b99d608565db,ISUZU,ISUZU WING VAN 2001,None,Brakes,Unsafe Load,Going ahead,533e63ff-a634-40fb-ae2e-b73c4625e204,GNE917,Van,,CXG18X-3000309,Private,,72c726f0-9ce3-4a49-af68-b99d608565db
+73249ecf-f5fa-483a-bf2a-4025480a3fa8,Honda,RS,Multiple,None,Legal,Going ahead,5a9510aa-3a60-4f9a-b691-8795100c5e98,no plate,Motorcycle,,,Private,,73249ecf-f5fa-483a-bf2a-4025480a3fa8
+73554d5e-9a63-48b4-b0cd-f63608646037,KAWASAKI,KAWASAKI BAJAJ ,None,None,,Going ahead,4f4eedda-7117-406d-a058-313c7217c8d6,,Motorcycle,,,Private,,73554d5e-9a63-48b4-b0cd-f63608646037
+73fb7af1-e413-4730-bcff-31d3a3170b26,Toyota HiAce Commuter Van,2016,Front,None,Legal,Overtaking,7acc15ca-3a7f-4c09-b0cf-a171b9c5d2d2,1301-0598087,Van,1KD25888993,JTFJT02P700002048,Private,,73fb7af1-e413-4730-bcff-31d3a3170b26
+7458573d-c310-401c-8b14-8bbc7efb5c17,,,,,,,37822b52-3c6f-472b-a071-cbcd5276257a,,Truck (Rigid),,,Private,,7458573d-c310-401c-8b14-8bbc7efb5c17
+7458573d-c310-401c-8b14-8bbc7efb5c17,,,,,,,9ec39468-a5e5-4e9c-ac8c-ae8244d06259,,Motorcycle,,,Private,,7458573d-c310-401c-8b14-8bbc7efb5c17
+754f6ca0-8b4a-43aa-bf9b-6d78ec3ae68d,kawasaki ,"barako, 175",,,,,ccb43305-7277-4cfd-96e3-a93f13a3103d,,Motorcycle,,,Private,,754f6ca0-8b4a-43aa-bf9b-6d78ec3ae68d
+754f6ca0-8b4a-43aa-bf9b-6d78ec3ae68d,Honda,wave 100,,,,,c5058b58-3a5c-4153-8b6e-a5b514d4fb33,JQ 8746,Motorcycle,,,Private,,754f6ca0-8b4a-43aa-bf9b-6d78ec3ae68d
+7586730d-280b-4757-b05b-40532056a766,,"Isuzu Dropside, 1999 model, ",,,,,4c27ca74-c7a9-420c-a6bb-321a78a04e2d,"Plate No. RND163, ",Car,"Engine No. 10PE1-175708, ",Chassis No. CYL81V2N-3000040 ,Private,,7586730d-280b-4757-b05b-40532056a766
+759075dd-558f-484a-a0d2-6c6f9ea5342c,,,,,,,918732e5-ad98-415f-a379-215a262b772d,,Motorcycle,,,Private,,759075dd-558f-484a-a0d2-6c6f9ea5342c
+759075dd-558f-484a-a0d2-6c6f9ea5342c,,,,,,,41710f0e-5a85-4f41-8ff7-971d5e033748,,,,,,,759075dd-558f-484a-a0d2-6c6f9ea5342c
+761e02f5-6b83-4ce7-a859-35108d325fa6,,,,,,,6a10c561-8ef3-4819-9ca4-b4448a101815,ACC 8839,Bus,YC6L33020L33QAG00020,LA6R1HSL7GB400670,Public / For-Hire,,761e02f5-6b83-4ce7-a859-35108d325fa6
+761e02f5-6b83-4ce7-a859-35108d325fa6,Elf Cargo Truck,,,,,Overtaking,6ceac9c6-2e3b-41b9-81a7-2b39635efeec,MAC 6346,Truck (Rigid),,,Private,,761e02f5-6b83-4ce7-a859-35108d325fa6
+76b6fb1f-9494-4507-bf95-3b4b1479e253,,,,,,,a00f0d29-996c-45a3-b621-0168d191db7a,,Motorcycle,,,Private,,76b6fb1f-9494-4507-bf95-3b4b1479e253
+76b6fb1f-9494-4507-bf95-3b4b1479e253,,,,,,,7d32ee75-1622-476a-8738-8c91aaeda886,,Truck (Unknown),,,Private,,76b6fb1f-9494-4507-bf95-3b4b1479e253
+77003af5-fe5e-4700-b9ad-f38c9b6a35de,Mitsukoshi Rapido 110 ,,Front,None,,Going ahead,49232359-219c-456f-be1a-071bc5764637,no,Motorcycle,,,Private,,77003af5-fe5e-4700-b9ad-f38c9b6a35de
+77003af5-fe5e-4700-b9ad-f38c9b6a35de,Passenger tricycle ,,Front,,,Going ahead,d95f99b2-5585-4cbc-8115-c55e47c86fcd,4223 EV,Tricycle,,,Private,,77003af5-fe5e-4700-b9ad-f38c9b6a35de
+7747b703-060f-42ec-9708-e10b39316a4d,Motorstar ,,Multiple,None,,Going ahead,8b6fbf95-2658-4edb-b08e-dd2f516e9905,no,Motorcycle,,,Private,,7747b703-060f-42ec-9708-e10b39316a4d
+7778d480-bcd2-418c-86bd-35bdc944ccba,SYM ,Bonus x 110,Multiple,,Legal,Going ahead,57544810-d157-4931-baa2-3b142cd59b0c,,Motorcycle,,,Private,,7778d480-bcd2-418c-86bd-35bdc944ccba
+77adc950-ac0a-4bec-813b-af45b13a28a3,Honda,TMX,,,,Going ahead,8d987b09-0f2b-494f-9e38-f4a11ef98567,KE 9463,Motorcycle,KCO1E-079528PH,IM-973-101128,Private,,77adc950-ac0a-4bec-813b-af45b13a28a3
+77adc950-ac0a-4bec-813b-af45b13a28a3,Utility Vehicle,,,,,Overtaking,de6c89ec-f4be-45f3-9f9b-e664c3ca9561,KVN 914,Jeepney, 4BE1- 139551,MAR-200321343-C,Public / For-Hire,,77adc950-ac0a-4bec-813b-af45b13a28a3
+77c07aea-a3a8-4662-9778-52814e9a0c38,Honda,XRM 125,Front,None,Legal,Going ahead,d2edc793-0fb7-4f4c-bdc3-f5d0b566657f,XY 5093,Motorcycle,,,Private,,77c07aea-a3a8-4662-9778-52814e9a0c38
+77c07aea-a3a8-4662-9778-52814e9a0c38,Suzuki,Raider 150,Front,None,Legal,Merging,d8b8342c-0007-4bd5-8d01-6537c91999ac,For registration,Motorcycle,,,Private,,77c07aea-a3a8-4662-9778-52814e9a0c38
+781928de-9e59-419b-bf79-9a5f69015dff,Canter,Mini Dump Truck,None,None,Other (see description),Reversing,38578e90-1ac8-4069-aa92-b828095527ca,1201-373025,Truck (Unknown),4D33-D96725,FE517BD-42355,Private,,781928de-9e59-419b-bf79-9a5f69015dff
+78e3af22-be4d-4191-bdd2-42a87366f8e9,Nissan,Almera ,,,,,caffeb05-2da8-4670-8757-6ddf30366532,FO A829,Car,HR15*946634D*,,Private,,78e3af22-be4d-4191-bdd2-42a87366f8e9
+78e3af22-be4d-4191-bdd2-42a87366f8e9,Kawasaki ,150 Boxer,,,,,95f46e03-3f1b-4a47-8773-c93d4eea15f4,,Motorcycle,PFZWHE62717,MD2A21BY2HWE52142,Private,,78e3af22-be4d-4191-bdd2-42a87366f8e9
+7932e102-7e57-454a-a035-effc4080014a,ISUZU DMAX ,,Front,None,,Going ahead,9303790a-deb1-403c-a8ff-48768f4bdfad,AAF9767 ,Truck (Pick-Up),,,Private,,7932e102-7e57-454a-a035-effc4080014a
+79b9f65b-deb8-4882-b11f-4975969adc90,,,,,,,95bc8b1d-80a0-420b-82bf-6fe43ca65cf9,,,,,,,79b9f65b-deb8-4882-b11f-4975969adc90
+7aae9ebc-a8f8-43e7-8cda-445376fedb27,Kawasaki Barako 175,,Front,None,,Going ahead,6d8c2125-32b5-4511-b7d6-f078f4839d48,no,Motorcycle,,,Private,,7aae9ebc-a8f8-43e7-8cda-445376fedb27
+7aae9ebc-a8f8-43e7-8cda-445376fedb27,Toyota Hilux pick-up,,Front,None,,Overtaking,53c3ee0d-1071-4c3b-9a2a-50c2ff2a05cf,ABB 4215,Truck (Pick-Up),,,Private,,7aae9ebc-a8f8-43e7-8cda-445376fedb27
+7b31bee3-c11e-4ac7-97c2-5254a6abb355,Unidentified,Unidentified,,,,,7e70044a-c0c5-4479-add8-bd4a41e8f48b,Unidentified,,Unidentified,Unidentified,,,7b31bee3-c11e-4ac7-97c2-5254a6abb355
+7b31bee3-c11e-4ac7-97c2-5254a6abb355,,,,,,,6e48de07-1d28-493d-a4d4-9e7d9728cef1,,,,,,,7b31bee3-c11e-4ac7-97c2-5254a6abb355
+7b63b58a-693f-46b4-a95e-83e9a0574e5b,TOYOTA,2017,Multiple,None,Legal,Cross traffic,7a1d11cc-61af-402f-b7a4-0f952d7dc160,TEMP. 100103,Van,1KD2667490,JTFJT02P5G5006760,Private,,7b63b58a-693f-46b4-a95e-83e9a0574e5b
+7b7c8c37-3e04-4c05-b24b-4bc3f7deef4a,Honda 155  ,,Front,None,,Going ahead,700c07cd-387f-443a-a2e3-2daec9cd5c30,,Motorcycle,,,Private,,7b7c8c37-3e04-4c05-b24b-4bc3f7deef4a
+7c10b2c0-9a5b-45c7-b736-378c0113aba3,Yamaha,Mio,Multiple,,Legal,Going ahead,ec6b1bf6-e0ec-465d-b9f4-71b8f88ecf73,TEMPORARY PLATE NUMBER,Motorcycle,,,Private,,7c10b2c0-9a5b-45c7-b736-378c0113aba3
+7ca3d768-d8f5-4562-bed5-01032e83e91a,TOYOTA FORTUNER,2017,Rear,None,Legal,Going ahead,ce274843-5f09-4cc3-a5c9-b833684e44d0,NPA,SUV,2GDC15836,,Private,,7ca3d768-d8f5-4562-bed5-01032e83e91a
+7ca3d768-d8f5-4562-bed5-01032e83e91a,FUSO TRACTOR HEAD,2006,Front,None,Legal,Going ahead,22a493c7-a62f-4f50-8813-bb4ab17c50aa,NPA,Van,8M21-010415,,Private,,7ca3d768-d8f5-4562-bed5-01032e83e91a
+7e3648bc-6d9f-4c3b-a6a6-39ed13875517,Keeway,,Front,None,Legal,Going ahead,675ac322-10bd-45cb-8a55-62fa71fa07e2,,Motorcycle,,,Private,,7e3648bc-6d9f-4c3b-a6a6-39ed13875517
+7e3648bc-6d9f-4c3b-a6a6-39ed13875517,Honda XRM 125,,Left,None,Legal,Left turn,86430187-f300-4d34-b4ac-c6c1dc134671,KP4975,Tricycle,,,Private,,7e3648bc-6d9f-4c3b-a6a6-39ed13875517
+7e45530c-3984-4933-bb3f-e9cf17fa87a8,Kawasaki bajah,,Multiple,None,Legal,Overtaking,8592da7f-30c3-495c-a318-b21a3044e5a7,for registration,Motorcycle,,,Private,,7e45530c-3984-4933-bb3f-e9cf17fa87a8
+7e45530c-3984-4933-bb3f-e9cf17fa87a8,Bajah kawasaki,,Rear,None,Legal,Going ahead,3619991d-9b82-4dc6-8f2c-8d4fdd9166ee,,Tricycle,,,Public / For-Hire,,7e45530c-3984-4933-bb3f-e9cf17fa87a8
+7f1238de-36ef-427f-a7f4-137b970a0847,Kawasaki BAjaj CT100,,Front,None,Legal,Overtaking,1cd30c98-9e3b-4b41-b404-071722b7e174,None,Motorcycle,undetermined,MD2A18AY4HWE56500,Private,,7f1238de-36ef-427f-a7f4-137b970a0847
+7f1238de-36ef-427f-a7f4-137b970a0847,Kawasaki Bajaj CT100,,Rear,None,Legal,,4af0b250-a779-41a3-95f9-6b1890916275,5095 MZ,Tricycle,undetermined,MD2A18AZOCW862866*,Private,,7f1238de-36ef-427f-a7f4-137b970a0847
+80ccbc9a-38da-475d-bb47-d837436f6d77,,"Motoposh motorcycle,",,,,,7dea7100-c155-48c2-872b-ef403daa1b46," for registration, ",Motorcycle,,,Private,,80ccbc9a-38da-475d-bb47-d837436f6d77
+80ccbc9a-38da-475d-bb47-d837436f6d77,,Yamaha Sight motorcycle,,,,,2c5f1654-c1f1-4192-8356-22dca331d567, for registration,Motorcycle,,,Private,,80ccbc9a-38da-475d-bb47-d837436f6d77
+81c42c0d-7947-48af-b104-b935f3992ea5,Mitsubishi Canter,Mitsubishi Canter,,,,,91db30a5-451c-4937-b306-ae090c8e3a80,LFN 259,Truck (Rigid),4DR5-830044, FE301B-521254,Private,,81c42c0d-7947-48af-b104-b935f3992ea5
+81c42c0d-7947-48af-b104-b935f3992ea5,Rusi Motorcycle,,,,,,912987fc-c579-4d1f-b433-6bc320c469e0,,Motorcycle,,,Private,,81c42c0d-7947-48af-b104-b935f3992ea5
+81e76af8-adc4-4e72-986b-db9b5a8215b5,,,Multiple,None,Legal,Going ahead,282beb43-cfb4-4ab7-b72c-ca4ee7920106,ACN 810,Jeepney,,,Private,,81e76af8-adc4-4e72-986b-db9b5a8215b5
+81e76af8-adc4-4e72-986b-db9b5a8215b5,Toyota,Galvanized,Front,None,,Going ahead,d83fd658-4ed1-4883-9704-187b6091f3f7,ACN810,Jeepney,,,Private,,81e76af8-adc4-4e72-986b-db9b5a8215b5
+828db354-c73c-487e-94f3-f217e2779b97,Yamaha MC ,,Front,None,,Merging,737edabe-2e4a-44ef-9ff7-9d8a9ad4692f, LD 91619 ,Motorcycle,,,Private,,828db354-c73c-487e-94f3-f217e2779b97
+828db354-c73c-487e-94f3-f217e2779b97,Honda MC ,,Rear,None,,Going ahead,5ae0356b-6744-403e-b238-20f9038f6bbb, LD 11342 ,Motorcycle,,,Private,,828db354-c73c-487e-94f3-f217e2779b97
+828db354-c73c-487e-94f3-f217e2779b97,Bonggo truck ,,None,,,Merging,4e84d500-c75f-4549-94c9-e6caf0bf5f1b,no,Truck (Pick-Up),,,Private,,828db354-c73c-487e-94f3-f217e2779b97
+82e3a58c-2ec0-43ff-a2eb-8a4113e91689,,,,,,,4c24772e-fcb0-47ee-bd6c-70bffb62a6d5,,Motorcycle,,,Private,,82e3a58c-2ec0-43ff-a2eb-8a4113e91689
+833953b8-594a-448e-a280-f11e53b1cf06,,HI-Ace 2016,Front,,Legal,Going ahead,4a93128d-fb0f-4873-b19d-da471774c6c1,YX-8630,Van,1KD2590534,JTSJT02P8G5000970,Public / For-Hire,,833953b8-594a-448e-a280-f11e53b1cf06
+833953b8-594a-448e-a280-f11e53b1cf06,,RUSI 110,Multiple,,Legal,Cross traffic,8d4a7cf7-a7e6-4db0-9567-fed66913ced6,FOR REGISTRATION,Motorcycle,RWI150FMG8F8OO997,RWCLXPGA6F98009976,Private,,833953b8-594a-448e-a280-f11e53b1cf06
+8364258e-b9ab-4317-a4d1-eb3f191c4d03,Toyota ,Toyota AVANZA,Rear,None,Legal,Going ahead,3c9f618c-baeb-4b8a-a4cc-bcff0b2f11ef,,Car,INRF443706,MHKM5EE2FJK012190,Private,,8364258e-b9ab-4317-a4d1-eb3f191c4d03
+8364258e-b9ab-4317-a4d1-eb3f191c4d03,Toyota ,Toyota Hilux 2.5L,Front,None,,Going ahead,7a5a8a8e-ae27-410d-a4da-97a283ac326d,KGG 150,Truck (Pick-Up),2DK5542212,MR0ER39G807542517,Private,,8364258e-b9ab-4317-a4d1-eb3f191c4d03
+83a16c55-497e-49b0-a4cc-af23a5255ce0,Fuso Cargo Dropside,,,,,,c2f1735d-b296-4b35-98bc-5cd5cf62f096,RHP 420 ,Truck (Rigid),,,Private,,83a16c55-497e-49b0-a4cc-af23a5255ce0
+83bde932-ff3d-475c-84d2-503922159a7e,,,,,,,ce90c959-1d3f-4758-aeb0-81b602f57883,,Motorcycle,,,,,83bde932-ff3d-475c-84d2-503922159a7e
+83bde932-ff3d-475c-84d2-503922159a7e,,,,,,,11722645-7e57-4c60-9397-663e6c1cb85c,,Motorcycle,,,,,83bde932-ff3d-475c-84d2-503922159a7e
+83bde932-ff3d-475c-84d2-503922159a7e,,,,,,,82aae955-0faa-412e-9ad6-457aa787ed46,UQY 410,Truck (Articulated),,,,,83bde932-ff3d-475c-84d2-503922159a7e
+83d85cb0-d9b8-4553-9851-e480359c6770,HONDA CB 125,,Front,None,,Cross traffic,c5f59481-059f-4e7e-8a5d-e31d558dd5f6,no,Tricycle,,,Private,,83d85cb0-d9b8-4553-9851-e480359c6770
+842588ef-cd8a-42dc-a9cd-c2134d7c2fee,Izusu,,Front,None,Other (see description),Going ahead,35be169d-5240-45ab-8013-917910a59db4,RCJ 417,Truck (Unknown),6WA1-113275,CYM50V2W-3000546 ,Private,,842588ef-cd8a-42dc-a9cd-c2134d7c2fee
+842588ef-cd8a-42dc-a9cd-c2134d7c2fee,Kawasaki,CT100,Multiple,Multiple,Other (see description),Going ahead,befbe568-efb5-467f-b9a1-817f908b3230,For Registration,Motorcycle,DYYWJB44828,MD2A6BY1JWB59823,Private,,842588ef-cd8a-42dc-a9cd-c2134d7c2fee
+846e9465-848b-43da-8246-f0d0360b30b2,skygo,,None,None,Legal,Going ahead,74362a9e-7f53-4b6d-a155-45719bca92b3,mc22851,Motorcycle,,lx8pcj503fe001545,Private,,846e9465-848b-43da-8246-f0d0360b30b2
+84e49b60-bab5-480a-817b-e50dbe87b6e5,TEN WHEELER  DUMP TRUCK,,,,,,84573754-076d-4c0d-a2d6-6e4a582d5202,AFA 7932,Truck (Rigid),,,Private,,84e49b60-bab5-480a-817b-e50dbe87b6e5
+84e49b60-bab5-480a-817b-e50dbe87b6e5,BAJAJ 100 ,,,,,,cd7c93b9-597f-40ee-8b81-b0b2bfbf77e6,110,Motorcycle,,,Private,,84e49b60-bab5-480a-817b-e50dbe87b6e5
+85cc89b9-6522-48de-8063-ffd4caec04ec,Yamaha/Mio,,,,,,5448cca8-1564-4203-b08c-ff0497f8e99e,,Motorcycle,,,Private,,85cc89b9-6522-48de-8063-ffd4caec04ec
+85cc89b9-6522-48de-8063-ffd4caec04ec,,,,,,,96875be5-b121-44cd-af9a-ac57660b15c1,,,,,,,85cc89b9-6522-48de-8063-ffd4caec04ec
+85e7365a-8642-40e3-ac3f-1ae56f6397b3,Nissan,Urvan,,,,,60aae95e-1df6-4b59-bae8-2c7b0a57f4a3,100807,Van,,,Public / For-Hire,,85e7365a-8642-40e3-ac3f-1ae56f6397b3
+868a59dc-bde7-4808-b1af-b9ea6a14e8e4,,,,,,,23fcc5f7-960f-40c2-a4e5-13b620a2962e,,Car,,,,,868a59dc-bde7-4808-b1af-b9ea6a14e8e4
+868a59dc-bde7-4808-b1af-b9ea6a14e8e4,,,,,,,7f49be22-8487-4a01-9306-1abd696f3f39,,Motorcycle,,,,,868a59dc-bde7-4808-b1af-b9ea6a14e8e4
+86986ce6-b08e-4d32-ba32-d66809e06a56,HONDA,HONDA WAVE 110,Right,None,Legal,Going ahead,501be3bb-ff99-4170-833b-866d279b9b3c,JA 13826,Motorcycle,,,Private,,86986ce6-b08e-4d32-ba32-d66809e06a56
+86986ce6-b08e-4d32-ba32-d66809e06a56,Green Army Jeep,Green Army Jeep,Front,None,Legal,Overtaking,6e584207-37ce-4479-b633-767df1fe5a7b,,Jeepney,4MD40-DT4968,V16-0755200,Government,,86986ce6-b08e-4d32-ba32-d66809e06a56
+8769b308-af6b-4e35-93d6-8c6201d50eae,,,Multiple,Multiple,Legal,Going ahead,709003df-8834-4e6d-a342-c45b4045200f,,Tricycle,,,Private,,8769b308-af6b-4e35-93d6-8c6201d50eae
+899dbcba-a34d-4543-ae96-c2ee4e9c77cd,HONDA,HONDA WAVE,Front,None,Legal,Going ahead,a7250b95-9eb2-4f36-b929-147f96de5a72,,Motorcycle,,,Private,,899dbcba-a34d-4543-ae96-c2ee4e9c77cd
+899dbcba-a34d-4543-ae96-c2ee4e9c77cd,,,Left,None,Legal,Left turn,671a3e8d-5710-4d7f-a08d-efadf4755b5e,temporary plate # 090110,Tricycle,DYYWJC55289,MD2A76BY4JWC70415,Private,,899dbcba-a34d-4543-ae96-c2ee4e9c77cd
+89a8eb94-c860-4d79-8337-574ed4cffc29,skygo,hero,Front,Multiple,Legal,Overtaking,9274931f-f761-4c5f-8b94-31e7172676b6,090103,Motorcycle,1PS2FMIH15597155,LX8XCJTB3HA009207,Private,,89a8eb94-c860-4d79-8337-574ed4cffc29
+89a8eb94-c860-4d79-8337-574ed4cffc29,yamaha,mio sporty,Multiple,Multiple,Overloaded,Going ahead,5c7f0f9b-e5fd-4a2f-8902-f3fd883bb72d,3321 Ji,Motorcycle,40C1012596,PA010C00015343,Private,,89a8eb94-c860-4d79-8337-574ed4cffc29
+89e2872f-a996-44fe-b126-28c776f0ce6f,HOWO DUMP TRUCK,,Multiple,None,,Sudden stop,6d9b63fd-291d-493a-abda-64dc643481cc,no plate,Truck (Unknown),,,Private,,89e2872f-a996-44fe-b126-28c776f0ce6f
+89e2872f-a996-44fe-b126-28c776f0ce6f,CLOSED VAN ,,Multiple,None,,Going ahead,ace2678c-a44b-4d74-89ef-a52920bd06e3,RCB-533 ,Truck (Unknown),,,Private,,89e2872f-a996-44fe-b126-28c776f0ce6f
+89e2872f-a996-44fe-b126-28c776f0ce6f,,,None,None,,Going ahead,14987388-5739-4a86-a378-8ab5b9de3300,no plate,Motorcycle,,,Private,,89e2872f-a996-44fe-b126-28c776f0ce6f
+8a9f3c19-bc52-40ca-8c29-c0d5a65a170e,,Jeepney bearing ,,,,,6cebf93e-ab75-45c0-8487-876e11cb8539,"no plate, engine no. chassis no.,CRno,dated, OR no",Jeepney,,,Private,,8a9f3c19-bc52-40ca-8c29-c0d5a65a170e
+8ad30d2a-413d-4e1b-948d-01783758ff2c,KAWASAKI BAJAJ RE TRIKE ,,,,,,9d7591f5-2864-41f4-a500-d8abe68fcdbe,,Tricycle,,,Private,,8ad30d2a-413d-4e1b-948d-01783758ff2c
+8ad30d2a-413d-4e1b-948d-01783758ff2c,HYUNDAI ,REINA ,,,,,61f75313-1582-4baf-80de-916c1204558a,KAD 3767,Car,,,Private,,8ad30d2a-413d-4e1b-948d-01783758ff2c
+8ad5eb70-a42d-409c-bc2e-44146bfb0beb,Racal,Racal,Multiple,None,Legal,Going ahead,7628a651-8d28-42f7-8e17-bec63f647b71,AC 60554,Motorcycle,not indicated in the report,not indicated in the report,Private,not indicated in the report,8ad5eb70-a42d-409c-bc2e-44146bfb0beb
+8ad5eb70-a42d-409c-bc2e-44146bfb0beb,Toyota,Toyota Hi-Ace,None,None,Legal,Overtaking,ed557d5e-20b3-4ced-9196-c548631ac97e,NBF 4906 ,Van,not indicated in the report,not indicated in the report,,not indicated in the report,8ad5eb70-a42d-409c-bc2e-44146bfb0beb
+8b6ceb33-9efe-474e-8f78-2d80609904e6,SKYGO,SKYGO,Multiple,None,,Going ahead,ec4e1a69-5935-4d2d-931e-16145688c526,JA 38318,Motorcycle,,,Private,,8b6ceb33-9efe-474e-8f78-2d80609904e6
+8b6ceb33-9efe-474e-8f78-2d80609904e6,ISUZU,,Front,None,Legal,Going ahead,0f2e26c2-a3b5-4e84-b369-d2c359c89739,JBN 964,Truck (Rigid),,,Private,,8b6ceb33-9efe-474e-8f78-2d80609904e6
+8c09854a-8183-40ed-994f-76b2a5003ca2,Bongo,,Front,None,Legal,Going ahead,2db100de-9669-4ea0-952a-a8814bbc398a,120109,Truck (Pick-Up),,,Private,,8c09854a-8183-40ed-994f-76b2a5003ca2
+8c09854a-8183-40ed-994f-76b2a5003ca2,KTM Racing 390 duke ,,Multiple,None,Legal,Left turn,c028d8e0-cd19-4fb5-89e3-04917719b051,,Motorcycle,,,Private,,8c09854a-8183-40ed-994f-76b2a5003ca2
+8cd9b050-4eff-4088-b020-7cff02b81ddb,Kawasaki ,CT100 Bajaj ,,,,,daa47b28-6d9e-4ed0-b851-78e87bd41f48,339,Motorcycle,,MD2476BY8JWA57578,Private,,8cd9b050-4eff-4088-b020-7cff02b81ddb
+8cd9b050-4eff-4088-b020-7cff02b81ddb,"10 Wheelers, Flatbed Truck",,,,,Parked on road,ee27b0e8-e854-49b1-b683-18d869fe0668,YEH541,Truck (Rigid),,,Private,,8cd9b050-4eff-4088-b020-7cff02b81ddb
+8d3ed4e6-14b8-40a4-8827-be60b6cf3ccc,,red Honda Click motorcycle ,,,,,e8fc43d4-f0ac-4108-8da9-6a8303035668,"bearing plate No. EC 71373, OR and CR not yet presented",Car,,,Private,,8d3ed4e6-14b8-40a4-8827-be60b6cf3ccc
+8d3ed4e6-14b8-40a4-8827-be60b6cf3ccc,,Baja tricycle ,,,,,52730afb-3b9e-49a3-a4f5-504ee2afe16c,"bearing temporary plate No. 05010, OR and CR not yet presented",Tricycle,,,Private,,8d3ed4e6-14b8-40a4-8827-be60b6cf3ccc
+8d49a93c-36e4-4e27-970a-3b74fa9a9d86,,,,,,,23fcc5f7-960f-40c2-a4e5-13b620a2962e,,Car,,,,,8d49a93c-36e4-4e27-970a-3b74fa9a9d86
+8d49a93c-36e4-4e27-970a-3b74fa9a9d86,,,,,,,7f49be22-8487-4a01-9306-1abd696f3f39,,Motorcycle,,,,,8d49a93c-36e4-4e27-970a-3b74fa9a9d86
+8e107346-7b0f-4a0d-aeea-c59f95911a6b,ISUZU ,ISUZU DMAX ,Multiple,None,Legal,Going ahead,40b19ef6-6cb2-4d26-8df5-e18904bd92a7,VFN 559,Truck (Pick-Up),,,Private,,8e107346-7b0f-4a0d-aeea-c59f95911a6b
+8e107346-7b0f-4a0d-aeea-c59f95911a6b,HONDA,Honda wave 110,Multiple,None,,Parked off road,e36a7919-4ba5-4137-ad61-38e802105037,,Motorcycle,,,Private,,8e107346-7b0f-4a0d-aeea-c59f95911a6b
+8e107346-7b0f-4a0d-aeea-c59f95911a6b,MOTORSTAR,Motorstar Kamao 150 ,Multiple,None,,Parked off road,19811035-8162-4570-862d-1222cc84151e,0901-0429522 ,Motorcycle,,,Private,,8e107346-7b0f-4a0d-aeea-c59f95911a6b
+8e107346-7b0f-4a0d-aeea-c59f95911a6b,,,,,,Parked off road,21d89b51-a056-4f66-99e1-c82095552ebe,JBK 471,Pedicab,,,Public / For-Hire,,8e107346-7b0f-4a0d-aeea-c59f95911a6b
+8e107346-7b0f-4a0d-aeea-c59f95911a6b,,,Multiple,None,,Parked off road,148c6c87-7cee-4772-93e5-24a2945e4eec,JBE 416,Pedicab,,,Public / For-Hire,,8e107346-7b0f-4a0d-aeea-c59f95911a6b
+8e170e23-2db2-4a04-aab4-309c9e0f62fc,Yamaha ,Mio sporty ,Multiple,Multiple,,Going ahead,b6dc61b7-145a-4fc7-98f5-77efffd77e42,,Motorcycle,,PAOSEB310H0077655 ,Private,,8e170e23-2db2-4a04-aab4-309c9e0f62fc
+8eaf0af3-396f-475e-a4fb-5aee29576e56,Honda,,Front,None,Legal,Going ahead,947834a7-f929-4020-bd12-db3e6e4e5c55,XV 5014,Motorcycle,,,Private,,8eaf0af3-396f-475e-a4fb-5aee29576e56
+8eaf0af3-396f-475e-a4fb-5aee29576e56,Honda,,Left,None,Legal,Left turn,8bac1020-1482-48ae-b87f-27ff72dba0ec,8457 MB,Motorcycle,,,Private,,8eaf0af3-396f-475e-a4fb-5aee29576e56
+8f91ad2e-4df5-43d6-bd67-18fe157d3336,Kawasaki BAjaj CT100,,Front,None,Legal,Overtaking,1cd30c98-9e3b-4b41-b404-071722b7e174,None,Motorcycle,undetermined,MD2A18AY4HWE56500,Private,,8f91ad2e-4df5-43d6-bd67-18fe157d3336
+8f91ad2e-4df5-43d6-bd67-18fe157d3336,Kawasaki Bajaj CT100,,Rear,None,Legal,,4af0b250-a779-41a3-95f9-6b1890916275,5095 MZ,Tricycle,undetermined,MD2A18AZOCW862866*,Private,,8f91ad2e-4df5-43d6-bd67-18fe157d3336
+910e1ca5-02e4-4c46-8504-ec4d53e0bdd7,ISUZU Aluminum Wing Van Truck,,,,,,c45ceb64-6a3b-4431-8e09-31be828d692f,CCO 6298,Truck (Rigid),6WF1-404441,CYL51V6-7000749,Private,,910e1ca5-02e4-4c46-8504-ec4d53e0bdd7
+91ac810f-9f1f-4c7e-a201-502f5dd18074,,White/Blue Hino Bus,,,,,d0491449-118e-4861-b853-55c578da1d40, bearing Plate no. TYG 154 ,Bus,,,Private,,91ac810f-9f1f-4c7e-a201-502f5dd18074
+91ac810f-9f1f-4c7e-a201-502f5dd18074,,Suzuki motorcycle,,,,,487587d4-503b-4624-9d6b-f40214ba8747,,Motorcycle,,,Private,,91ac810f-9f1f-4c7e-a201-502f5dd18074
+9262a1c6-7d37-4291-9a2b-1a4de015c59f,Yamaha ,NMax 155,Multiple,None,Legal,Overtaking,b5e9b1b5-153a-4343-826f-075119612252,not indicated in the report,Motorcycle,not indicated in the report,not indicated in the report,Private,not indicated in the report,9262a1c6-7d37-4291-9a2b-1a4de015c59f
+9262a1c6-7d37-4291-9a2b-1a4de015c59f,Isuzu Truck,Isuzu Truck,Front,None,Legal,Going ahead,81b9f18c-0245-4389-b7a7-75f2d349642b,03130 ,Truck (Unknown),not indicated in the report,not indicated in the report,Private,not indicated in the report,9262a1c6-7d37-4291-9a2b-1a4de015c59f
+958eada7-7897-47b0-a25a-7097734140ae,motorstar,2019,Front,None,Legal,Going ahead,d7c49e14-c7c9-459f-8aaf-7193060d568c,for registration,Motorcycle,152FMHSA008961,LAMSXKHS6K0002494,Private,,958eada7-7897-47b0-a25a-7097734140ae
+961f83a0-2ad5-42ad-b1ae-83e6edc61664,Kawasaki Bajaj CT150,Kawasaki Bajaj CT150,Multiple,Multiple,Legal,Left turn,c3ea3a91-9de6-4f7e-a1cd-3a13b67bec68,061607,Tricycle,CR no. 210463816 ,OR no. 1442217501 ,Public / For-Hire,,961f83a0-2ad5-42ad-b1ae-83e6edc61664
+961f83a0-2ad5-42ad-b1ae-83e6edc61664,Foton Tornado M4.2C ,Foton Tornado M4.2C ,Front,Multiple,Legal,Going ahead,dd3a94a4-3f39-4f5c-95dd-b3904bda784a,IOC323,Truck (Articulated),PFZWFE45851,MD2A21BZ0FWE72962,Private,,961f83a0-2ad5-42ad-b1ae-83e6edc61664
+969f0cd3-9c2c-4eb4-a0b3-1979423ccf96,RUSI ,,,None,,Overtaking,c848d146-2b88-40cd-853d-378b4911fb9f,,Motorcycle,,,Private,,969f0cd3-9c2c-4eb4-a0b3-1979423ccf96
+969f0cd3-9c2c-4eb4-a0b3-1979423ccf96,,,,,,Overtaking,a3a323b9-94c9-4a9b-b7da-4cdc020fef96,,Motorcycle,,,Private,,969f0cd3-9c2c-4eb4-a0b3-1979423ccf96
+969f0cd3-9c2c-4eb4-a0b3-1979423ccf96,Kinglong truck,,,None,,Left turn,229497ee-68ba-406a-9ee5-e7d95fce9e11,WOY 142,Truck (Rigid),YC6L33020L3QAD00068,LA6R1HSL9DB106103,Private,,969f0cd3-9c2c-4eb4-a0b3-1979423ccf96
+975da78c-a649-4103-96ee-dbfc085c5109,Mazda,Bonggo,Multiple,Brakes,Unsafe Load,Going ahead,a9b32c97-a813-40d1-86f7-62e5514daa4a,LNL445,Truck (Pick-Up),,,Private,,975da78c-a649-4103-96ee-dbfc085c5109
+97ae16b7-ea56-4d5d-b1c6-ef921c181dae,NISSAN NAVARA ,,Front,None,,Diverging,f8183b4d-2943-4243-a67d-24f3b381542f,FOJ923,Truck (Pick-Up),,,Private,,97ae16b7-ea56-4d5d-b1c6-ef921c181dae
+97ae16b7-ea56-4d5d-b1c6-ef921c181dae,KYMCO SINGLE MOTORCYCLE,,Multiple,None,,Overtaking,5131a893-3911-46dc-ad26-efc0dd16f666,no,Motorcycle,,,Private,,97ae16b7-ea56-4d5d-b1c6-ef921c181dae
+98654716-2f96-4291-afda-51de410d5856,Motorstar,,Multiple,None,Legal,Going ahead,1b80732e-d729-4f9d-9570-99ad1f4b8e3c,MC 34547,Motorcycle,,LHJXJHLA7FB938218,Private,,98654716-2f96-4291-afda-51de410d5856
+98654716-2f96-4291-afda-51de410d5856,Nissan Calibre,2017,Front,None,Legal,Going ahead,087d9692-d5f4-4c83-bbf7-b7238ebc0b36,0707-535446,Truck (Pick-Up),YD25716227T,MNTCC2D23Z0023112,Private,,98654716-2f96-4291-afda-51de410d5856
+9896da67-115b-46ef-9b0a-1c105e1b12d3,SUZUKI,Suzuki Raider 150,Multiple,None,Legal,Overtaking,726e51e3-61cb-460f-87ed-5c907deef369,NO PLATE #,Motorcycle,0427-308147,BG41K-207529,Private,,9896da67-115b-46ef-9b0a-1c105e1b12d3
+9896da67-115b-46ef-9b0a-1c105e1b12d3,ISUZU,ISUZU REBUIT DUMP TRUCK,Front,None,Legal,Going ahead,5d08032c-225f-454c-8486-2bdc41341a29, 774079983,Truck (Unknown),10PD1-785737,CXZ71J-3017877,Private,,9896da67-115b-46ef-9b0a-1c105e1b12d3
+98b6bde9-d447-4daa-9dd2-f3aaa0ab1309,Kawasaki EX650E,Kawasaki EX650E,,,,,bbdd03b0-faa1-4d43-a923-08853ef1a334,,Motorcycle,ER650AEAN0505,,Government,,98b6bde9-d447-4daa-9dd2-f3aaa0ab1309
+99d34ae4-dd06-4959-b76d-8c1607df8b73,Honda XRM 125,,Multiple,Multiple,Legal,Going ahead,c303d7b7-44d4-4d86-b1df-ee433a5b8df0,OU6696,Tricycle,,,Private,,99d34ae4-dd06-4959-b76d-8c1607df8b73
+99d34ae4-dd06-4959-b76d-8c1607df8b73,Skygo,,Multiple,Multiple,Legal,Going ahead,65598b7b-af48-4fc6-8cb6-c05957b9c7f4,for registration,Motorcycle,,,Private,,99d34ae4-dd06-4959-b76d-8c1607df8b73
+99deec28-7234-49f2-aa9b-8662b31c4d89,Hino (RTMI bus),,,,,,4c8b84c9-82ba-45ac-b7e5-1b68819db0ba,UQS 656,Bus, J05CTE17502,FB4J14649,Public / For-Hire,,99deec28-7234-49f2-aa9b-8662b31c4d89
+99deec28-7234-49f2-aa9b-8662b31c4d89,Honda ,CFT125 ,,,,,139864fe-24ba-4d5e-8537-ffd855ae9fa8,,Motorcycle, KPYSOE008039,KPYS0008044,Private,,99deec28-7234-49f2-aa9b-8662b31c4d89
+99deec28-7234-49f2-aa9b-8662b31c4d89,"Fuso Cargo Aluminum, Wing Van Truck","Fuso Cargo Aluminum, Wing Van Truck",,,,Left turn,9b556108-5509-4cd4-99bd-fadf7d20d39b,KVX461,Truck (Rigid),,,Private,,99deec28-7234-49f2-aa9b-8662b31c4d89
+9a4059b1-1f57-4210-866e-bfc416c98652,Truck Bus King Long,Truck Bus King Long,,,,Overtaking,b141b385-8a75-47ff-8955-e445e8ffc1da,NAB-9503,Bus,,,Public / For-Hire,,9a4059b1-1f57-4210-866e-bfc416c98652
+9a4059b1-1f57-4210-866e-bfc416c98652,Honda,XRM 125 ,,,,Going ahead,2bac8b24-5399-41ff-b8cd-fa3d6b4a61f2,100103,Motorcycle,,,Private,,9a4059b1-1f57-4210-866e-bfc416c98652
+9c6a4b68-de18-48a1-8f49-de1880dd652a,LUCKY STAR,LST 125,Multiple,,,Going ahead,75cd48e6-904a-4efd-8e28-0db86ce4d40c,For Registration,Motorcycle,LST125B*0001821*,*LST125B0001821*,Private,,9c6a4b68-de18-48a1-8f49-de1880dd652a
+9c6a4b68-de18-48a1-8f49-de1880dd652a,YAMAHA,FZ16 ,Multiple,,,Going ahead,3b853be0-9c60-445b-9fc1-65653af48a14,BC 83315,Motorcycle,1PG5003713,PA01PG000E0003604,Private,,9c6a4b68-de18-48a1-8f49-de1880dd652a
+9c980fd0-75c2-4429-a1b5-0aeba2c73f97,NISSAN,NISSAN TIERRA,Front,None,Legal,Going ahead,4c441e14-4175-44fa-849f-70e294074b15,F1H902,Car,,,Private,,9c980fd0-75c2-4429-a1b5-0aeba2c73f97
+9cfdf299-ba4f-4d14-a0d9-be635580e125,Isuzu,Forward Wing Van,Front,None,Legal,Going ahead,b3b6b7ae-6233-418f-82c3-38fcf36f4bbd,AGA3791,Truck (Unknown),GHH1233599,FRR33L23004114,Private,,9cfdf299-ba4f-4d14-a0d9-be635580e125
+9cfdf299-ba4f-4d14-a0d9-be635580e125,Kawasaki,Bajaj CJ100,Multiple,None,Legal,Merging,5ceef966-10e4-455f-8e8f-49f777989bb2,,Motorcycle,,,Private,,9cfdf299-ba4f-4d14-a0d9-be635580e125
+9d0ad00d-82dc-4e5c-84ff-2b5da65d983e,Honda Wave motorcycle ,,None,None,,Overtaking,59ac0612-7031-4138-898f-6ecef5491ac3,no,Motorcycle,,,Private,,9d0ad00d-82dc-4e5c-84ff-2b5da65d983e
+9d0ad00d-82dc-4e5c-84ff-2b5da65d983e,Kawasaki Fury ,,Front,None,,Going ahead,ce22aa5e-dea1-461c-a9b1-2ec8b17aa865,no,Motorcycle,,,Private,,9d0ad00d-82dc-4e5c-84ff-2b5da65d983e
+9d31d09b-8094-4c00-b6c0-1066caece304,Honday,XRM 125,,,,Going ahead,8972a580-e521-4791-8aad-a4ad259826e7,,Motorcycle,,,Private,,9d31d09b-8094-4c00-b6c0-1066caece304
+9d31d09b-8094-4c00-b6c0-1066caece304,RUSI,,,,,Overtaking,e10c323b-eab1-4f88-a393-3b03cad503e8,,Motorcycle,,,Private,,9d31d09b-8094-4c00-b6c0-1066caece304
+9d6dc8ee-25d3-4992-b346-a7debfc67d65,Fuso Fighter Forward,Fuso Fighter Forward,,,,,58cce7c3-82a7-4fd9-bac6-f9a8682af898,GJL-852,Truck (Rigid),,,Private,,9d6dc8ee-25d3-4992-b346-a7debfc67d65
+9d6dc8ee-25d3-4992-b346-a7debfc67d65,Yamaha Mio,Mio,,,,Overtaking,5b1e3acd-2f7d-4890-a34a-b1de6638994a,,Motorcycle,,,Private,,9d6dc8ee-25d3-4992-b346-a7debfc67d65
+9eb8b1e7-3823-45dd-ac55-30b6edbb0aa4,Kawasaki CT100 ,,Multiple,Multiple,Legal,Overtaking,ee30d52c-3526-4f57-839a-7067299c08dc,,Motorcycle,MDZA18AZHIWK63225, DU2WHKO1409,Private,,9eb8b1e7-3823-45dd-ac55-30b6edbb0aa4
+9eb8b1e7-3823-45dd-ac55-30b6edbb0aa4,,,,,,,5f991a63-8786-4a42-afa7-3012c85a4a06,,,,,,,9eb8b1e7-3823-45dd-ac55-30b6edbb0aa4
+9eee455d-db49-486c-a14d-32ec6628e8dd,Isuzu Elf Dropside with Tubular Extension,,,,,,54395011-2948-4744-b7a7-dab5729971c1,JES-817,Truck (Rigid),4BD1665485,NPR59P4608740,Private,,9eee455d-db49-486c-a14d-32ec6628e8dd
+9fab34f9-19ae-41e9-bf41-4c58bdc6ae23,RUSI,NONE,Multiple,Multiple,Legal,Going ahead,5d348c20-3dd0-448a-995f-c86ac3fdc344,NONE,Motorcycle,NONE,NONE,Private,NONE,9fab34f9-19ae-41e9-bf41-4c58bdc6ae23
+a121f38c-0792-4e9c-afab-e94e9e7718a0,hyundai,,None,None,Legal,Going ahead,6ce885fb-7e42-485c-a95f-2a574ff360d6,090803,Bus,D4DA2142245,KMJHD17AP2C013C92,Public / For-Hire,,a121f38c-0792-4e9c-afab-e94e9e7718a0
+a2691f20-969a-4d38-a760-f2b2202a3b1b,None,None,Front,Lights,Legal,Overtaking,e39914e3-e76e-497f-b94a-99d2896fd35a,None,Car,None,123456789,Private,None,a2691f20-969a-4d38-a760-f2b2202a3b1b
+a2691f20-969a-4d38-a760-f2b2202a3b1b,none,none,Multiple,Steering,Other (see description),Parked on road,cf26590f-94d8-4f01-a4d9-c2c17976c454,none,Truck (Fire),12346789,nONE,Government,None,a2691f20-969a-4d38-a760-f2b2202a3b1b
+a2c6b754-7c24-4d0b-8a52-322fddd65088,Golden Dragon Bus (ES Transport Inc.),,,,Legal,Going ahead,f2c7c746-64ba-4c7c-af33-6e7e995070cb,NAV 0617,Bus,G5209F00069,LFZ102TRF016178,Public / For-Hire,,a2c6b754-7c24-4d0b-8a52-322fddd65088
+a389c0b5-142b-4ebf-b687-212a7438ffcb,motorcycle honda,,Front,None,,Going ahead,b342aa25-2b67-4949-ad5c-34bcaa58be38,no plate attached,Motorcycle,,,Private,,a389c0b5-142b-4ebf-b687-212a7438ffcb
+a389c0b5-142b-4ebf-b687-212a7438ffcb,motorcycle RUSI ,,Front,None,,Going ahead,eabdfaef-95c7-454c-80a7-43ef66bb0a57,no plate attached,Motorcycle,,,Private,,a389c0b5-142b-4ebf-b687-212a7438ffcb
+a46c3248-032d-45fc-8d3d-54c2fcc8424a,Pinoy 155,Pinoy 155,Multiple,None,Other (see description),Going ahead,d45e8385-6d5a-4b4f-b5bf-9f18819441e9,not indicated in the report,Motorcycle,162FMJ JH033524 ,MT7LC6308M0033524,Private,not indicated in the report,a46c3248-032d-45fc-8d3d-54c2fcc8424a
+a46c3248-032d-45fc-8d3d-54c2fcc8424a,Kawasaki,Rouser,Multiple,None,Legal,Going ahead,4e3874a7-94eb-4d4a-ba2d-c38fbca8af5e,AA 12060,Motorcycle,not indicated in the report,not indicated in the report,Private,not indicated in the report,a46c3248-032d-45fc-8d3d-54c2fcc8424a
+a58ef4ef-fe36-4749-9a9f-c7c707723e21,RUSI  125,swish mono motorcycle,Multiple,None,Legal,Going ahead,9df6aa58-0869-4850-adee-6e797760d91c,,Motorcycle,RF154FMIMP124661,RFZXCJI49HA124661,Private,,a58ef4ef-fe36-4749-9a9f-c7c707723e21
+a5ac32e4-5471-4626-a237-b28be2f0625a,,Raymond passenger bus bearing ,,,,,f632f167-c3d1-47b5-b2a5-74f2cffa4c42,"PLATE NO AAN2887 with CR No. 209317091 dated Dec. 22, 2014 and OR No. 1440981920",Motorcycle,,,Private,,a5ac32e4-5471-4626-a237-b28be2f0625a
+a5ac32e4-5471-4626-a237-b28be2f0625a,,red Suzuki Smash 115 motorcycle ,,,,,ca295378-0423-48cd-a1e1-edac75953f77, temp. Plate No. 0501-0148136,Motorcycle,,,Private,,a5ac32e4-5471-4626-a237-b28be2f0625a
+a5c65f1d-ba81-4015-8d2c-138cffb2b325,HONDA,2019,Multiple,None,Legal,Going ahead,9a17569d-5f14-4854-ab60-671908ff561d,FF1234,Motorcycle,Qweertt12234u999,Uhhgfft886t5,Private,Third Party Physical Injury,a5c65f1d-ba81-4015-8d2c-138cffb2b325
+a5c83512-bc4b-4d96-aa2e-e6efe7b03d6b,CPI Kimber 10,,Multiple,None,,Going ahead,666cf701-c5a8-4217-a35d-042af826fc86,no,Motorcycle,,,Private,,a5c83512-bc4b-4d96-aa2e-e6efe7b03d6b
+a5c83512-bc4b-4d96-aa2e-e6efe7b03d6b,Isuzu jitney ,,None,None,,Going ahead,362d7d3b-cd6e-4e68-8c6b-eb8132c34269,DKT 480 ,Jeepney,,,Private,,a5c83512-bc4b-4d96-aa2e-e6efe7b03d6b
+a7841cb8-3017-4374-94fb-bbe01185555d,Yamaha motorcycle,Yamaha motorcycle,Multiple,Multiple,Legal,Diverging,d220cdbe-b430-45a1-a2b6-7642e25d42aa, AA 52066,Motorcycle,NOT INDICATED IN THE REPORT,NOT INDICATED IN THE REPORT,Private,NOT INDICATED IN THE REPORT,a7841cb8-3017-4374-94fb-bbe01185555d
+a7841cb8-3017-4374-94fb-bbe01185555d,,,Multiple,,Legal,Diverging,e7127b22-abed-4493-b096-ef8959de7d1f,,Bicycle,,,Private,,a7841cb8-3017-4374-94fb-bbe01185555d
+a829de91-85ba-46e4-90c0-7c71b2749037,,,,,,,b4de98ae-7a2f-4e3c-84b1-efd3714f1405,,Motorcycle,,,Private,,a829de91-85ba-46e4-90c0-7c71b2749037
+a85741b2-bd25-4791-b811-78389f2480fb,Trailer Truck,,,,,,36567807-17bd-4d2c-9ee4-5544555ddce5,NAG-4688,Truck (Articulated),,,Private,,a85741b2-bd25-4791-b811-78389f2480fb
+a85741b2-bd25-4791-b811-78389f2480fb,,,,,,,bd59f301-48a8-43e5-97b4-27975b60cabb,2742-PH,Motorcycle,,,Private,,a85741b2-bd25-4791-b811-78389f2480fb
+a9018b6c-7f65-4975-8a14-fb05efefe27a,Fuso,,None,None,Legal,Going ahead,6a4dafd0-c2a5-473d-a38d-62be8848a61d,GFV340,Truck (Unknown),4D32-588892,FE435EV-520063,Private,,a9018b6c-7f65-4975-8a14-fb05efefe27a
+a9018b6c-7f65-4975-8a14-fb05efefe27a,SYM,,Left,Lights,Overloaded,Overtaking,6567b916-0f02-4251-b8a3-7949e7b67708,,Motorcycle,,,Private,,a9018b6c-7f65-4975-8a14-fb05efefe27a
+a9041e3e-183a-4ec3-bbfe-5879ed018857,izusu,Izusu D-MAX 2018,Multiple,Multiple,,Going ahead,78a30ae6-cc6c-4d02-b395-a5bcaf668b20,060109 with conduction sticker DOB 992-5,Truck (Pick-Up),RZ4ERG5702,PABTFS87DH2000002,Private,,a9041e3e-183a-4ec3-bbfe-5879ed018857
+a9041e3e-183a-4ec3-bbfe-5879ed018857,TOYOTA,2002,Multiple,None,Legal,Sudden stop,17357409-7f11-4b3a-a055-657505d36c12,XEV354,Car,RE-3302663,EE110-5501387,Private,tpl,a9041e3e-183a-4ec3-bbfe-5879ed018857
+a92d519b-f4f7-40e9-a20a-56a684ab605a,Kawasaki BAjaj CT100,,Front,None,Legal,Overtaking,1cd30c98-9e3b-4b41-b404-071722b7e174,None,Motorcycle,undetermined,MD2A18AY4HWE56500,Private,,a92d519b-f4f7-40e9-a20a-56a684ab605a
+a92d519b-f4f7-40e9-a20a-56a684ab605a,Kawasaki Bajaj CT100,,Rear,None,Legal,,4af0b250-a779-41a3-95f9-6b1890916275,5095 MZ,Tricycle,undetermined,MD2A18AZOCW862866*,Private,,a92d519b-f4f7-40e9-a20a-56a684ab605a
+a9f90c1b-39ce-4060-9faf-482050d61a56,FUSO CANTER MINI-DUMPTRUCK,,Multiple,Steering,Overloaded,Reversing,545bf0e3-7d4c-4549-bbd9-4cf8fdd51e8f,YKR 671,Truck (Unknown),4032515278,FG335BD500081,Private,,a9f90c1b-39ce-4060-9faf-482050d61a56
+aa94901d-033d-4e43-9a25-335ce11ded26,Blue Motoposh,,,,,,f659ac67-7b2a-44a1-ae39-338ab20bcfa9,,Motorcycle,,,Private,,aa94901d-033d-4e43-9a25-335ce11ded26
+aa94901d-033d-4e43-9a25-335ce11ded26,Black Euro 150,,,,,Going ahead,40c2e6a0-313d-4202-a850-49c9b6257ccf,,Motorcycle,,,Private,,aa94901d-033d-4e43-9a25-335ce11ded26
+aadea877-14b1-49ba-837f-3207fac7fde6,Yamaha ,Mio,,,,,4cb527a1-9d95-463b-a910-e1e660107142,KA 30569,Motorcycle,40C161740,PA040C000E0203525,Private,,aadea877-14b1-49ba-837f-3207fac7fde6
+aadea877-14b1-49ba-837f-3207fac7fde6,Kia Bonggo,,,,,,f3c83b3a-48de-4daa-a854-1c79f5e356b5,,Truck (Unknown),,,Private,,aadea877-14b1-49ba-837f-3207fac7fde6
+aaf20e2d-c6ed-4938-bf7d-dead2623c568,,Suzuki motorcycle ,,,,,25b458e8-8826-4d4d-bb2f-02575e46bd0f,bearing plate nr. LE 3552 ,Car,,,Private,,aaf20e2d-c6ed-4938-bf7d-dead2623c568
+aaf20e2d-c6ed-4938-bf7d-dead2623c568,,Mitsubishi Fuso Truck ,,,,,3e2418c6-43bd-42a6-99fa-09838053fa9d,bearing plate nr. ZFU 591 ,Motorcycle,,,Private,,aaf20e2d-c6ed-4938-bf7d-dead2623c568
+ab3b89fc-b446-46b8-a499-5a024b97f377,Toyota ,Hilux,,,,,b4903895-fd91-440c-9026-b21916ed3098,AAY8948,Truck (Pick-Up),1KDA536032,MR0FZ29G202551709,Private,,ab3b89fc-b446-46b8-a499-5a024b97f377
+ab3b89fc-b446-46b8-a499-5a024b97f377,Kawasaki  ,,,,,,feeb4ba2-f848-4fed-b2d5-608b348dcc99,1026-72558 ,Motorcycle,,,Private,,ab3b89fc-b446-46b8-a499-5a024b97f377
+abdfb253-9312-4f20-a7b1-21b88ff17011,isuzu,,Front,None,Legal,Overtaking,c2a57f7b-443b-4796-b3a2-fe101f6c5191,MWD254,Truck (Rigid),6SD1-717874,CXG23M-3001955,Private,,abdfb253-9312-4f20-a7b1-21b88ff17011
+abdfb253-9312-4f20-a7b1-21b88ff17011,MITSUKOSHI,BONUS X100,Multiple,None,Legal,Going ahead,f7b37da5-5820-4122-94d7-4ddb3094ef6e,FOR REGISTRATION,Motorcycle,VMSD3A2H007804,RLGSC10UHJH007804,Private,,abdfb253-9312-4f20-a7b1-21b88ff17011
+ae4ec5d6-6d1d-4962-807a-0d36523c7430,Fuso ,Fuso Canter Truck,None,None,Legal,Going ahead,205d182c-0e53-4a25-99bc-f53d593543e6, JBY476,Truck (Articulated),4D33-944385,PE337EV-460598,Private,,ae4ec5d6-6d1d-4962-807a-0d36523c7430
+ae4ec5d6-6d1d-4962-807a-0d36523c7430,Skygo ,Skygo 150,None,None,Legal,Overtaking,392b7819-341c-41f6-a288-a900b0cd2b92,,Motorcycle,,,Private,,ae4ec5d6-6d1d-4962-807a-0d36523c7430
+ae74404e-b7e8-4afd-9dca-87839012f3c8,HONDA,HONDA XRM,Front,None,Legal,Going ahead,4938f3c9-3436-4a63-b403-e290af249506,,Motorcycle,,,Private,,ae74404e-b7e8-4afd-9dca-87839012f3c8
+ae74404e-b7e8-4afd-9dca-87839012f3c8,,,Rear,None,Legal,Going ahead,718c86ea-a3b3-4d2e-8309-d569d1898b6d,,Tricycle,,,Private,,ae74404e-b7e8-4afd-9dca-87839012f3c8
+aead51cd-8385-4cd6-b61d-a199a621135b,,,Front,None,Legal,Overtaking,a9c85d76-3646-4861-971e-4b5211150894,,Motorcycle,,,Private,,aead51cd-8385-4cd6-b61d-a199a621135b
+aead51cd-8385-4cd6-b61d-a199a621135b,,,Front,,,Going ahead,d2ebf69a-ae42-40e4-b2c3-8a2599e1a42f,,Truck (Pick-Up),,,Private,,aead51cd-8385-4cd6-b61d-a199a621135b
+b13fd688-1ed8-4d06-b9db-565d5d2ddf2c,Hyundai I10 ,,Front,None,,Going ahead,31484675-d226-436b-8acb-0de38666d456,TWI-414 ,Car,,,Private,,b13fd688-1ed8-4d06-b9db-565d5d2ddf2c
+b13fd688-1ed8-4d06-b9db-565d5d2ddf2c,Kawasaki Bajaj ,,Front,None,,"""U"" turn",e4b23646-eec9-4fda-8c96-00912b0a9368,5025RW,Motorcycle,,,Private,,b13fd688-1ed8-4d06-b9db-565d5d2ddf2c
+b143e6ac-6162-4dd2-be20-10cdd38960e8,,,,,,,26f95384-b322-445b-ab47-cef18aa51be9,,Bus,,,Private,,b143e6ac-6162-4dd2-be20-10cdd38960e8
+b143e6ac-6162-4dd2-be20-10cdd38960e8,,,,,,,70233734-1ad4-4fb4-bea2-2a3cea161edd,,Motorcycle,,,Private,,b143e6ac-6162-4dd2-be20-10cdd38960e8
+b2643f73-cd53-44ab-bf00-078444b2ad05,,,Multiple,Multiple,Legal,Merging,d2c9eee3-b09d-4870-9ef5-9b575dd8eeea,,Pedestrian,,,Private,,b2643f73-cd53-44ab-bf00-078444b2ad05
+b2643f73-cd53-44ab-bf00-078444b2ad05,,,Front,Steering,Legal,Going ahead,9a3be839-2168-4d35-bfc4-85eb47b4da7e,,Motorcycle,,,Private,,b2643f73-cd53-44ab-bf00-078444b2ad05
+b2e16847-e2d7-4a26-9a5a-dbb93b8e69a0,L300 Van,,None,,,Going ahead,c01a30f2-f947-4f67-a5ea-4b60ad2a8f3a,no plate,Van,,,Private,,b2e16847-e2d7-4a26-9a5a-dbb93b8e69a0
+b45cde3f-f350-4877-b0ae-056db288a4b1,Yahama Mio Aerox,,None,None,Legal,Going ahead,d1f7c4bb-6fe7-44fc-9288-4680d6b99358,,Motorcycle,G3J1E-0238261,MH3SG4650J0015634,Private,,b45cde3f-f350-4877-b0ae-056db288a4b1
+b4b47da6-6ba1-4be0-8ed2-571f7da935f6,Kawasaki BAjaj CT100,,Front,None,Legal,Overtaking,1cd30c98-9e3b-4b41-b404-071722b7e174,None,Motorcycle,undetermined,MD2A18AY4HWE56500,Private,,b4b47da6-6ba1-4be0-8ed2-571f7da935f6
+b4b47da6-6ba1-4be0-8ed2-571f7da935f6,Kawasaki Bajaj CT100,,Rear,None,Legal,,4af0b250-a779-41a3-95f9-6b1890916275,5095 MZ,Tricycle,undetermined,MD2A18AZOCW862866*,Private,,b4b47da6-6ba1-4be0-8ed2-571f7da935f6
+b66261a3-f213-4a60-ad55-384ed7e92916,,,None,None,,"""U"" turn",9786a1c0-d266-47c4-8eb2-7aa115c9f276,JFE 690,Truck (Rigid),,,Private,,b66261a3-f213-4a60-ad55-384ed7e92916
+b66261a3-f213-4a60-ad55-384ed7e92916,Yamaha ,Yamaha Sniper,Multiple,None,,Going ahead,20aebbd5-1630-4833-8a45-3a5244692f35,1101-544641,Motorcycle,,,Private,,b66261a3-f213-4a60-ad55-384ed7e92916
+b6b5d5e5-17b9-4f17-85c4-f2e613d043a5,,,,,,,610dd271-d1ac-4a2a-96c6-369f9b693c26,,Truck (Pick-Up),,,Private,,b6b5d5e5-17b9-4f17-85c4-f2e613d043a5
+b6b5d5e5-17b9-4f17-85c4-f2e613d043a5,,,,,,,4b75a0bc-774b-49f7-b92d-50838ef3657a,,Motorcycle,,,Private,,b6b5d5e5-17b9-4f17-85c4-f2e613d043a5
+b6f6d7fb-70fb-42bf-ba47-82c4917bb94a,Kia Bongo,,,,,,7c31aceb-2548-4662-b1ef-693ed914a9a7,MAF2437,Truck (Rigid),,,Private,,b6f6d7fb-70fb-42bf-ba47-82c4917bb94a
+b6f6d7fb-70fb-42bf-ba47-82c4917bb94a,Motoposh ,,,,,,4484771e-3a85-463b-a84a-3b3b01369349,,Motorcycle,,,Private,,b6f6d7fb-70fb-42bf-ba47-82c4917bb94a
+b88a00ae-2688-4e75-a293-37536c7c58f5,Kia ,Sorento Wagon,,,,,cef3d855-8e13-4535-baaa-20d1c243be6a,KGT587,SUV,,,Private,,b88a00ae-2688-4e75-a293-37536c7c58f5
+b88a00ae-2688-4e75-a293-37536c7c58f5,Kawasaki, Bajaj CT100 Motorcycle,,,,,501de811-9fe3-4f2b-a9da-47c87a9dbb63,1001421813 (MV file,Motorcycle,,,Private,,b88a00ae-2688-4e75-a293-37536c7c58f5
+b96d5f38-563c-4c29-98e0-62637d6f6882,Isuzu,,,,,,842b9029-2c25-4660-9c41-cc2a817e4b6e,YKW 761,Truck (Pick-Up),,,Private,,b96d5f38-563c-4c29-98e0-62637d6f6882
+b96d5f38-563c-4c29-98e0-62637d6f6882,KAWASAKI,,,,,,b8ec232d-09e7-4bc2-9d38-da2fa46d04d9,6849 JS,Motorcycle,,,Private,,b96d5f38-563c-4c29-98e0-62637d6f6882
+ba5fc5ab-0967-4c77-af1f-225c0b05a43d,Isuzu Forward,Wing Van,Front,None,Legal,Going ahead,a0bab495-9b28-400f-9293-816e47d6fa91,AGA3791,Truck (Unknown),GHH1233599,FRR33L23004114,Private,,ba5fc5ab-0967-4c77-af1f-225c0b05a43d
+ba5fc5ab-0967-4c77-af1f-225c0b05a43d,Kawasaki,Bajaj CJ100,Multiple,None,Legal,Merging,3ad6f8db-3761-4257-bc4b-383d4274a28d,None,Motorcycle,,,Private,,ba5fc5ab-0967-4c77-af1f-225c0b05a43d
+bbeed927-eccc-4c99-ad3c-318533836d89,Hino Wing Van,,,,,,36bc2227-278c-4a21-8066-4701fc3b7de8,130110,Truck (Rigid),,,Private,,bbeed927-eccc-4c99-ad3c-318533836d89
+bbeed927-eccc-4c99-ad3c-318533836d89,Suzuki Multicab Pick-up with Canopy,,,,,,80a3082c-e840-4c93-85c3-d5e8571437bd,YES-923,Truck (Pick-Up),,,Private,,bbeed927-eccc-4c99-ad3c-318533836d89
+bc1a979b-f959-45c6-bf6c-f314cd6ec72b,honda,,Front,None,Legal,Diverging,1f3b9815-c0a8-470f-9bd2-8f19c60cb8b9,DA 47538,Motorcycle,,,Private,,bc1a979b-f959-45c6-bf6c-f314cd6ec72b
+bc1a979b-f959-45c6-bf6c-f314cd6ec72b,HONDA,,Front,None,Overloaded,Going ahead,508e22c5-65d6-4645-b59c-782ed35c9150,092007,Motorcycle,,,Private,,bc1a979b-f959-45c6-bf6c-f314cd6ec72b
+bc5daeda-5bc2-4488-a19b-bc2ac98bd357,honda,2016,Multiple,None,Legal,Going ahead,f5dfda82-d793-4dda-81d6-9cd8e9909ef1,none,Motorcycle,,,Private,,bc5daeda-5bc2-4488-a19b-bc2ac98bd357
+bd52f74c-3616-4975-967c-541cd9d33fed,tanker,,,,,,04efb31a-a677-42f4-b144-68eafabdb911,UUT-872,Truck (Articulated),,,Private,,bd52f74c-3616-4975-967c-541cd9d33fed
+be065dbb-2d68-402d-925f-73834a52accc,Nissan,Almera,,,,,0a34dd14-770d-47ff-a550-cd7e1ecbafd2,FO A829,Car,HR15*946634D*,,Private,,be065dbb-2d68-402d-925f-73834a52accc
+be065dbb-2d68-402d-925f-73834a52accc,Kawasaki ,150 Boxer,,,,,78e7c81a-03d8-4119-b65d-d1ef9ddd5325,,Motorcycle,PFZWHE62717,MD2A21BY2HWE52142,Private,,be065dbb-2d68-402d-925f-73834a52accc
+be107934-6fa8-489f-a94a-2d8cb5e6d0ff,Isuzu Elf,,None,None,,Going ahead,4315c12b-cfe5-465f-ba39-4393b2cc6ff6,CAJ 8348 ,Truck (Unknown),,,Private,,be107934-6fa8-489f-a94a-2d8cb5e6d0ff
+be4cce2e-966d-44dc-8ab4-e0c8a9abf979,forward truck,,,,,,997fd881-5f93-4602-8c1d-601140543af5,,Truck (Unknown),,,Public / For-Hire,,be4cce2e-966d-44dc-8ab4-e0c8a9abf979
+bf654a1f-a0df-43bc-b738-15829eb285fb,,,Multiple,Multiple,Legal,Going ahead,709003df-8834-4e6d-a342-c45b4045200f,,Tricycle,,,Private,,bf654a1f-a0df-43bc-b738-15829eb285fb
+bf68e127-c0f4-4809-88e7-0d0f23f9b148,ISUZU,HOWO,Multiple,None,Unsafe Load,Going ahead,dfa7b0d4-fad2-4e18-9a0b-002ca3793876,RMK 726,Truck (Pick-Up),,,Private,,bf68e127-c0f4-4809-88e7-0d0f23f9b148
+bf8a1c26-1829-4751-a7f1-89093f7ec063,,,,,,,2739830b-e500-4c8d-a20d-f62995a038cb,,Truck (Articulated),,,Private,,bf8a1c26-1829-4751-a7f1-89093f7ec063
+bf8a1c26-1829-4751-a7f1-89093f7ec063,,,,,,,a05b9ccf-94b4-4f29-a507-ecf74242eaba,,Motorcycle,,,Private,,bf8a1c26-1829-4751-a7f1-89093f7ec063
+c073206a-462a-46af-8949-391e5f4d6316,Kawasaki Bajaj ,,Multiple,None,,Going ahead,e2ded436-7d29-4fc5-89d4-960f16398116,CC 78580 ,Motorcycle,,,Private,,c073206a-462a-46af-8949-391e5f4d6316
+c073206a-462a-46af-8949-391e5f4d6316,trailer truck ,,Front,None,,Going ahead,98e5bd3c-710d-40f9-9733-c385a42997a2,no plate,Truck (Unknown),,,Private,,c073206a-462a-46af-8949-391e5f4d6316
+c0f58d2d-1746-47a0-8485-1fd9ef7b0366,mazda,,Multiple,None,Legal,Going ahead,569147ff-7e23-404a-82fe-897f7f9fd6ef,1201-121496,Car,,,Private,,c0f58d2d-1746-47a0-8485-1fd9ef7b0366
+c0f58d2d-1746-47a0-8485-1fd9ef7b0366,kawasaki,,Multiple,None,Legal,Going ahead,f95b6e53-3440-457a-99cf-bede6c8983ba,1201-399829,Motorcycle,,,Private,,c0f58d2d-1746-47a0-8485-1fd9ef7b0366
+c0fee960-6c8f-4e3f-ae6e-9863c4c4c1fc,blue kawasaki 100,,,None,,Left turn,7f64480d-be10-4994-bba0-28169ef0b6ff,XZ6567,Motorcycle,DUMBUL55094,MD2DDDUJJUWL29702,Private,,c0fee960-6c8f-4e3f-ae6e-9863c4c4c1fc
+c0fee960-6c8f-4e3f-ae6e-9863c4c4c1fc,Black and White Skygo 125,,,,,,e6496005-e981-45bf-ba44-f310e254224d,,Motorcycle,,,Private,,c0fee960-6c8f-4e3f-ae6e-9863c4c4c1fc
+c17a505c-f143-49e4-8ddf-09388c49e4ed,YAMAHA,RS,Front,Steering,Legal,Going ahead,a01ef0ef-f2bf-498d-bbfb-8a0c87a7a07b,,Motorcycle,,,Private,,c17a505c-f143-49e4-8ddf-09388c49e4ed
+c17a505c-f143-49e4-8ddf-09388c49e4ed,,,,,,,fcbe8520-7fa2-4343-bbce-411456569ee8,,Pedestrian,,,Private,,c17a505c-f143-49e4-8ddf-09388c49e4ed
+c20ddf15-321c-46a6-baf5-565219e07773,isuzu,,Front,None,Unsafe Load,,8e209857-65e4-4412-ac4a-5169c3470dd4,ADO-1678,,none,none,Private,,c20ddf15-321c-46a6-baf5-565219e07773
+c28bbadd-33d7-425c-b9da-f1b6075c8e5b,HONDA,,Multiple,,,Going ahead,95c376eb-eb45-4cd8-b8ce-3b2be07926ad,9610JL,Motorcycle,XRM16E084916,XRM16084915,Private,,c28bbadd-33d7-425c-b9da-f1b6075c8e5b
+c28bbadd-33d7-425c-b9da-f1b6075c8e5b,MITSUBISHI,,Rear,,,,a73b319b-cd72-49d5-bf55-5fe0eff2c124,YFT711,Truck (Unknown),4DR7-852085,FB308B-540487,,,c28bbadd-33d7-425c-b9da-f1b6075c8e5b
+c432ec33-e2fd-4802-871c-d38204ec5d1b,DONGFENG KL ,,None,None,Legal,Going ahead,a41a0420-dce4-4083-a4b2-a0f4774c601b,,Truck (Unknown),,,Private,,c432ec33-e2fd-4802-871c-d38204ec5d1b
+c432ec33-e2fd-4802-871c-d38204ec5d1b,Skygo,,Front,None,Legal,Merging,f96f12f2-e707-4459-a11d-229b1faeb0bb,,Motorcycle,,,Private,,c432ec33-e2fd-4802-871c-d38204ec5d1b
+c480f415-efa4-4c28-8493-41a2bc2fc60d,,"ISUZU dump truck, color yellow, ",,,,,f56b5a30-1893-4c06-bbe4-67682727cfba,bearing plate number BCN 592 ,Car,, chassis number NKR58E-7167098.,Private,,c480f415-efa4-4c28-8493-41a2bc2fc60d
+c6a8c384-f56f-4dae-9603-dfb4761696d1,Nissan Sentra ,,Multiple,None,,Going ahead,4e1f0b00-b947-4ffc-a352-a6ca196277c7,UEA 552 ,Car,,,Private,,c6a8c384-f56f-4dae-9603-dfb4761696d1
+c6a8c384-f56f-4dae-9603-dfb4761696d1,,,,,,,d254df5b-fec0-408a-b0a2-943db782967f,,,,,Private,,c6a8c384-f56f-4dae-9603-dfb4761696d1
+c6a8c384-f56f-4dae-9603-dfb4761696d1,,,,,,,09f28e5f-c0f7-4da6-a9be-c33ece3a2e94,,,,,Private,,c6a8c384-f56f-4dae-9603-dfb4761696d1
+c874ef0a-5fdb-4b49-b930-0188ccbcbd2c,HONDA ACH110,,Front,None,,Going ahead,33d88b93-9bf6-4db4-86fa-a10f4ab8ff99,no,Motorcycle,,,Private,,c874ef0a-5fdb-4b49-b930-0188ccbcbd2c
+c9ada1f1-072f-47b6-ae3c-98ab30e73854,Hino Dump Truck,,,,,,a9484b54-0985-4aac-a621-8d3e93fab5ee,120110 ,Truck (Articulated),,,Private,,c9ada1f1-072f-47b6-ae3c-98ab30e73854
+c9ada1f1-072f-47b6-ae3c-98ab30e73854,Motoposh,,,,,,df692ab8-74eb-45be-8ca2-0cce39d0f663,,Motorcycle,,,Private,,c9ada1f1-072f-47b6-ae3c-98ab30e73854
+ca220f53-9a29-49c1-bba0-07e32b800910,KAWASAKI KLX 150,,Front,Multiple,Legal,Going ahead,5ef7d54a-f056-414f-9eec-65cc28c07285,8675JL,Motorcycle,,,Private,,ca220f53-9a29-49c1-bba0-07e32b800910
+ca220f53-9a29-49c1-bba0-07e32b800910,SUZUKI 110,,Front,Multiple,Legal,Going ahead,b2215a8e-7253-4eed-b7a4-9ea9378f5682,,Motorcycle,,,Private,,ca220f53-9a29-49c1-bba0-07e32b800910
+cbb5756f-50ce-4233-a71b-c90611ef0232, Isuzu Hilton,,Front,None,,Going ahead,4c9a97c4-b47f-474d-9ec7-afaca8dd141c,JDF151,Truck (Unknown),,,Private,None,cbb5756f-50ce-4233-a71b-c90611ef0232
+cbb5756f-50ce-4233-a71b-c90611ef0232,Kawasaki,,Front,Multiple,,Going ahead,eba20805-0f3a-4d57-9cb0-0370cc53c843,Temp Plate 1001188569,Tricycle,,,Public / For-Hire,None,cbb5756f-50ce-4233-a71b-c90611ef0232
+cc5fbf1e-29dd-4082-9bc5-22577e1d07e2,Yamaha,Sniper 150 MX1,Multiple,Multiple,Legal,Going ahead,e6928956-e935-42ac-80d1-b39195300462,NONE,Motorcycle, G3E6E-0459127,NONE,Private,NONE,cc5fbf1e-29dd-4082-9bc5-22577e1d07e2
+cc5fbf1e-29dd-4082-9bc5-22577e1d07e2,Honda, ACD110CSC,Multiple,Multiple,Legal,Going ahead,c4c0808b-e15c-43cb-9637-e4ec82fdf2d2, 8170KR,Motorcycle,NONE,NONE,Private,NONE,cc5fbf1e-29dd-4082-9bc5-22577e1d07e2
+cc62bdb0-7c87-446e-bb27-b9df60a202b7,Honda ,XRM 125,,,,,a1e4685c-cd27-49e9-960d-afcd876c4287,,Motorcycle,,,Private,,cc62bdb0-7c87-446e-bb27-b9df60a202b7
+ce83eda1-ea97-47d1-8bfd-b8624b2e0b35,Honda CB 125 MC,,Front,None,Legal,Going ahead,130edd1e-435d-4075-be4e-8885f767fba1,MA 63965,Motorcycle,,,Private,,ce83eda1-ea97-47d1-8bfd-b8624b2e0b35
+cf5c1f0e-2b73-48a7-a869-6d1d9ba06f36,RUSI Linker 125,,Rear,None,Legal,Left turn,43e28b2a-a2a2-4b7a-afa8-c66255f71e57,,Motorcycle,,,Private,,cf5c1f0e-2b73-48a7-a869-6d1d9ba06f36
+cf5c1f0e-2b73-48a7-a869-6d1d9ba06f36,YAMAHA YTX 125,,Front,None,Legal,Overtaking,fb22767e-519b-4748-9723-eed83766ac7d,151004,Tricycle,E3W7E0047912,PAORE3210H0047818,Private,,cf5c1f0e-2b73-48a7-a869-6d1d9ba06f36
+d090eaa9-5334-45c2-8c49-0b3fde13c798,toyota,wigo hatchback,Multiple,None,Legal,Going ahead,6f05e186-ca7d-491f-b944-101fa5c6f049,a5c9995,Car,1kra443026,mhka4de4fjj001371,Private,,d090eaa9-5334-45c2-8c49-0b3fde13c798
+d090eaa9-5334-45c2-8c49-0b3fde13c798,suzuki,raider 115,Multiple,None,Overloaded,Cross traffic,a288539d-b713-4d33-ba73-05538144fa67,no plate attached,Motorcycle,,,Private,,d090eaa9-5334-45c2-8c49-0b3fde13c798
+d0921e26-b59f-4862-be80-a6400bb7bb69,ISUZU Truck Bus,,None,None,,Going ahead,94eece49-e038-49bb-bc97-4a8b142f54dc,EVN751,Bus,,,Private,,d0921e26-b59f-4862-be80-a6400bb7bb69
+d09c819c-227e-46a4-9177-e82b1179d32e,Haojue Lucky,,,,,,2e41f254-a38c-4ab4-a1eb-caeec85cbe4c,JA 52639,Motorcycle,,,Private,,d09c819c-227e-46a4-9177-e82b1179d32e
+d10d2dde-678b-47c8-8757-9d61e22748d3,ISUZU ELF,,Right,Steering,Overloaded,Overtaking,c7fbbfc4-2148-4175-900a-dfe3131abcca,RNE 616,Heavy Equipment,,,Private,,d10d2dde-678b-47c8-8757-9d61e22748d3
+d1a51b4b-a49b-44a3-8264-3cec1ee8e683,Isuzu Elf,,Rear,None,,Going ahead,c7a23999-3854-444a-b7fd-dfe860e8e947,NAQ 4032 ,Truck (Unknown),,,Private,,d1a51b4b-a49b-44a3-8264-3cec1ee8e683
+d1a51b4b-a49b-44a3-8264-3cec1ee8e683,Suzuki Smash,,Front,None,,Going ahead,976d42bd-0335-4852-8401-b7ad93a7dd74,3910 ID,Motorcycle,,,Private,,d1a51b4b-a49b-44a3-8264-3cec1ee8e683
+d2753521-aa18-46cb-a97c-df46957ace73,Honda ,TMX 125 ,Multiple,None,Legal,Going ahead,e497c344-2abc-4e9a-b019-c9e4897359fe,AO38287,Tricycle,,,Private,,d2753521-aa18-46cb-a97c-df46957ace73
+d2753521-aa18-46cb-a97c-df46957ace73,RUSI,,Multiple,None,Legal,Going ahead,54b713ff-8495-4185-8d27-3b55a6c0babe,,Motorcycle,,,Private,,d2753521-aa18-46cb-a97c-df46957ace73
+d2b91f23-6399-4dd9-9237-67f5fed2de32, Suzuki ,,,,,,3b091aaa-e310-406d-9370-2b03bf179eda,KWA-203,Jeepney,,,Public / For-Hire,,d2b91f23-6399-4dd9-9237-67f5fed2de32
+d2b91f23-6399-4dd9-9237-67f5fed2de32,Mitsubishi,L300 Aluminum Van,,,,,f01d7e7c-3199-4b20-bbf8-3431a044f9dc,NCT-4810,Van,,,Private,,d2b91f23-6399-4dd9-9237-67f5fed2de32
+d2b91f23-6399-4dd9-9237-67f5fed2de32,UM,DSRII200,,,,,48f08e06-06d4-4b9b-a35f-30eb78daca88,1301-1139272,Motorcycle,,,Private,,d2b91f23-6399-4dd9-9237-67f5fed2de32
+d2f37638-1b67-4e69-9d52-123f69767b73,,"– Microbike EXT 125 Motorized Tricycle, ",,,,,f60d3978-81f6-4be4-8956-393236c8c782,"no plate number,",Tricycle,,,Private,,d2f37638-1b67-4e69-9d52-123f69767b73
+d2f37638-1b67-4e69-9d52-123f69767b73,,Suzuki Smash Motorcycle,,,,,1e9a28d0-d89f-481e-b37f-082bcef39459," for registration,",Motorcycle,,,Private,,d2f37638-1b67-4e69-9d52-123f69767b73
+d30e1a80-eef1-444e-8b45-fe2040f55a50,,,Multiple,None,Legal,Diverging,fb8d8009-88ef-426a-b0e2-d586135bda22,,Motorcycle,,,Private,,d30e1a80-eef1-444e-8b45-fe2040f55a50
+d4b465d6-4e43-4f74-9f11-b9aef5b7551d,King Long,,Multiple,,,Sudden stop,9489f912-72ed-4c11-8213-9f5d75093311, NAB9471,Bus,YC6J23020J40QAG30191,LA6A1DAD7GB202607,Public / For-Hire,,d4b465d6-4e43-4f74-9f11-b9aef5b7551d
+d4b465d6-4e43-4f74-9f11-b9aef5b7551d,,,,,,,c00df211-4d94-495b-a036-49d128dc2332,,,,,,,d4b465d6-4e43-4f74-9f11-b9aef5b7551d
+d56cb7c0-be57-4e07-9233-7a27068c4e5a,Kawasaki Barako 175,,Front,None,,Going ahead,a67c9cfc-29b8-461b-8313-cc2b9bb91044,nop,Motorcycle,,,Private,,d56cb7c0-be57-4e07-9233-7a27068c4e5a
+d56cb7c0-be57-4e07-9233-7a27068c4e5a,Toyota Hilux pick-up,,Front,None,,Overtaking,f79a7c5a-6eb8-413d-b50e-8e520bf17029,ABB 4215,Truck (Pick-Up),,,Private,,d56cb7c0-be57-4e07-9233-7a27068c4e5a
+d791e6f2-da51-488b-b764-2c22536da804,Mitsubishi Cargo Dropside Truck,Mitsubishi Cargo Dropside Truck,,,,Going ahead,d79e10f6-f001-4497-aa0a-8ebf2908b031,RHJ518,Truck (Rigid),,,Private,,d791e6f2-da51-488b-b764-2c22536da804
+d791e6f2-da51-488b-b764-2c22536da804, Kawasaki ,CT125,,,,Going ahead,11c98eaf-e3eb-4dd7-aa38-8b0ded754568,1001-447591 ,Motorcycle,,,Private,,d791e6f2-da51-488b-b764-2c22536da804
+d8710bd0-68a1-4cb6-830d-33fadadf1cf5,Fuso,,Front,Brakes,Legal,Diverging,8d956a73-3291-4686-9eb9-20c804aa3cb1,,Truck (Articulated),,,Public / For-Hire,,d8710bd0-68a1-4cb6-830d-33fadadf1cf5
+d8710bd0-68a1-4cb6-830d-33fadadf1cf5,,,,,,,12c3a3b5-4987-4d94-8b44-fe47756f41e0,,Car,,,Private,,d8710bd0-68a1-4cb6-830d-33fadadf1cf5
+d9428335-a617-4d9a-b9fa-8c4dd3333c8c,CT100 KAWASAKI,BAJAH 2016,Front,None,Legal,Going ahead,cbe203d8-a764-4c8c-ba61-7218f0a00609,KG  61241,Motorcycle,DUZWFJ17983,MDZA18AZ4FWJ70035,Private,none,d9428335-a617-4d9a-b9fa-8c4dd3333c8c
+d956efda-567a-4e4b-85df-e46552a246e3,Mazda,Bongo Mazda(dropside),None,,Legal,Overtaking,35e2e8ed-84b6-469c-85b0-7a1cf24545d1,090102,Truck (Unknown),R2-398185,SD29T-411095,Private,,d956efda-567a-4e4b-85df-e46552a246e3
+d956efda-567a-4e4b-85df-e46552a246e3,Honda,Honda wave 100,Right,None,Legal,Going ahead,fc1e6340-8f17-42f2-a2ce-5850cdecc499,,Motorcycle,,,Private,,d956efda-567a-4e4b-85df-e46552a246e3
+d96437c0-de20-4566-a570-0eea3821b3ae, KAWASAKI CT-100,,Multiple,None,Legal,Overtaking,a2705750-1d8e-45b1-828f-97d212c3718c, MA50236,Motorcycle,,,Private,,d96437c0-de20-4566-a570-0eea3821b3ae
+d96437c0-de20-4566-a570-0eea3821b3ae,TOYOTA Commuter Hiace,,Multiple,Multiple,Legal,Overtaking,8fb0e00e-5037-4b6c-bbcd-fc90be8c91e4,MVZ787,Van,,,Public / For-Hire,,d96437c0-de20-4566-a570-0eea3821b3ae
+d97ece46-be02-43e3-a628-6a542848d9a0,Kawasaki BAjaj CT100,,Front,None,Legal,Overtaking,1cd30c98-9e3b-4b41-b404-071722b7e174,None,Motorcycle,undetermined,MD2A18AY4HWE56500,Private,,d97ece46-be02-43e3-a628-6a542848d9a0
+d97ece46-be02-43e3-a628-6a542848d9a0,Kawasaki Bajaj CT100,,Rear,None,Legal,,4af0b250-a779-41a3-95f9-6b1890916275,5095 MZ,Tricycle,undetermined,MD2A18AZOCW862866*,Private,,d97ece46-be02-43e3-a628-6a542848d9a0
+da8fa258-48b5-441d-96b1-2b7130d5ae60,LUCKY STAR,LUCKY STAR,Multiple,Steering,,Going ahead,93547d15-a7bb-410d-983e-9d245457e6fd,Registered Number 1303-0289724,Motorcycle,,,Private,,da8fa258-48b5-441d-96b1-2b7130d5ae60
+dab7a1f2-21e2-41dd-9ecc-18726571f2b3,,,,,,,bd15219e-3c20-474b-9775-5088ef8737ea,,,,,,,dab7a1f2-21e2-41dd-9ecc-18726571f2b3
+dab7a1f2-21e2-41dd-9ecc-18726571f2b3,Honda,125,Right,Brakes,,Left turn,2d861360-8d4d-4a5e-b0c6-aa047c6ac5ff,12345,Motorcycle,12345678,12345678,Private,,dab7a1f2-21e2-41dd-9ecc-18726571f2b3
+dbd87f11-dad8-4897-bdd1-6c92d484cd60,Mitsubishi ,Strada GLS 2.40,,,,,ebae7ca7-9c7c-4645-b0ac-76654d79f547,ZAB 8199,Truck (Pick-Up),4N15UDM2467,MMBJJKK10KH014025,Private,,dbd87f11-dad8-4897-bdd1-6c92d484cd60
+dc729596-ce3e-4540-a149-f3ce968bec81,TOYOTA ,HIACE GL GRANDIA ,,,,,be43cd96-ecfa-46fe-a81e-b5f3542a8eb4,,Van,IGD8400317,JTFPA9PIK8002122,Public / For-Hire,,dc729596-ce3e-4540-a149-f3ce968bec81
+dc729596-ce3e-4540-a149-f3ce968bec81,HONDA WAVE,HONDA WAVE,,,,,3017d23a-499e-412e-85d4-8dfb7dcb6555,8452-KA,Motorcycle,KVROOE101678,KVR00101678,Private,,dc729596-ce3e-4540-a149-f3ce968bec81
+ddd824d8-0c67-4133-a3e7-c7c78b0a8943,RUSI motorcycle ,,Multiple,None,,Going ahead,7b1d68b4-3d9c-4614-8b48-919c5817bf4e,no,Tricycle,,,Private,,ddd824d8-0c67-4133-a3e7-c7c78b0a8943
+ddd824d8-0c67-4133-a3e7-c7c78b0a8943,TOYOTA Hi-Ace ,,Front,None,,Going ahead,9084897a-382c-42ad-8c25-32c9253ad33e,NDO-9791 ,Van,,,Private,,ddd824d8-0c67-4133-a3e7-c7c78b0a8943
+e076ab3f-6cba-4c91-9f6b-a96dcf4d8535,TOYOTA,HILUX,Multiple,None,Overloaded,Going ahead,38580bf8-f921-47c4-99e5-d00ecddb19d2,A4V264,Truck (Pick-Up),1GD4430737,MKR0HA8CD4J1090506,Private,,e076ab3f-6cba-4c91-9f6b-a96dcf4d8535
+e0a575ec-fae6-4274-a568-436f7bffad67,Motoposh 155,Motoposh 155,Multiple,None,Legal,Going ahead,efb03ce2-981c-4b44-9f4d-770a80a5459a,no plate attached,Tricycle,not indicated in the report,not indicated in the report,Private,not indicated in the report,e0a575ec-fae6-4274-a568-436f7bffad67
+e0a575ec-fae6-4274-a568-436f7bffad67,Isuzu dump truck,Isuzu dump truck,None,None,Legal,Diverging,e8c6ef8e-a9b5-44c1-b428-6a1dce500824,ACA 535,Truck (Unknown),not indicated in the report,not indicated in the report,Private,not indicated in the report,e0a575ec-fae6-4274-a568-436f7bffad67
+e156237a-dbaf-4cc1-9cbf-87b2285ab4df,Daewoo Truck Bus ,,Front,None,,Cross traffic,be497de4-a4b1-40af-82b8-59c5142ed689,ACC 8535,Bus,,,Private,,e156237a-dbaf-4cc1-9cbf-87b2285ab4df
+e156237a-dbaf-4cc1-9cbf-87b2285ab4df,RUSI MP,,Multiple,None,,Going ahead,61d22994-5760-4516-8ce3-e55c064124bf,no,Motorcycle,,,Private,,e156237a-dbaf-4cc1-9cbf-87b2285ab4df
+e164de41-af36-4126-9014-bf7570c2ddfb,,"MITSUBISHI-FUSO Cage Stake Truck, year model 1999, ",,,,,0d8a1cb0-49fb-4c9f-bdc1-d00f469f4fba,"attached Plate No. CXS 743, ",Truck (Pick-Up),Engine No. 6D15-314646, chassis no. FK416K-50191,Private,,e164de41-af36-4126-9014-bf7570c2ddfb
+e164de41-af36-4126-9014-bf7570c2ddfb,,"MITSUBISHI Fighter Aluminum Closed Van Truck, year model 1994, ",,,,,0b6d23c3-16ce-4d4a-9ad4-1dc6b445bf79,"attached Plate No. DXZ 988, ",Van,Engine No. 6D14-783880 ," chassis no. RK615J-510150,",Private,,e164de41-af36-4126-9014-bf7570c2ddfb
+e164de41-af36-4126-9014-bf7570c2ddfb,,"YAMAHA Mio MXI Motorcycle, ",,,,,3d0ddb94-c067-4013-b957-c16c3a6391d4," attached Plate No. CD 99472,",Motorcycle,,,Private,,e164de41-af36-4126-9014-bf7570c2ddfb
+e164de41-af36-4126-9014-bf7570c2ddfb,,"YUTONG ZK6122HD9 Public Utility Bus, year model 2012, ",,,,,ddc9a73f-da2e-4731-b1ee-48ab52339854,"attached Plate No. CXT 975, ",Bus,Engine No. YC6L31020L32YAC00013 ,"chassis no. LZYTATE65C1056463,",Private,,e164de41-af36-4126-9014-bf7570c2ddfb
+e2532e8e-b8b1-44a3-a9d7-2f87a359a0a9,NONE,NONE,Multiple,Multiple,Legal,Going ahead,4cb5411d-5452-42a9-8c0d-4a5ab76ecfb2,NONE,Motorcycle,NONE,NONE,Private,NONE,e2532e8e-b8b1-44a3-a9d7-2f87a359a0a9
+e2532e8e-b8b1-44a3-a9d7-2f87a359a0a9,NONE,NONE,Multiple,Multiple,Legal,Going ahead,37184510-c109-43dc-a121-9bc5012bcc88,NONE,Motorcycle,NONE,NONE,Private,NONE,e2532e8e-b8b1-44a3-a9d7-2f87a359a0a9
+e4944abc-ba19-4bae-b8ef-4c2d9b75b2ae,,,,,,,4e51856c-70bf-4404-a24a-cb5478858140,,Others,,,Private,,e4944abc-ba19-4bae-b8ef-4c2d9b75b2ae
+e4b87bae-aa37-4aff-bdf2-9a5cc89a84bf,,CRF150LK,Multiple,,,Overtaking,62470f60-edce-4a56-9d03-539670d105f9,Mv File no.100100000400272,Motorcycle,,,Private,,e4b87bae-aa37-4aff-bdf2-9a5cc89a84bf
+e4b87bae-aa37-4aff-bdf2-9a5cc89a84bf,Fuso Truck,,,,,,fe143a48-12ea-4572-8639-579d305c5e5c,KVY 329 ,Truck (Unknown),,,Private,,e4b87bae-aa37-4aff-bdf2-9a5cc89a84bf
+e6297364-d8e0-4de3-8f35-aab47ba3a63b,Honda Wave ,,Front,None,,Going ahead,8b07d1f0-b38e-4783-84b4-9872d000b85a,no,Motorcycle,,,Private,,e6297364-d8e0-4de3-8f35-aab47ba3a63b
+e6297364-d8e0-4de3-8f35-aab47ba3a63b,Kawasaki Fury ,,Front,None,,Merging,c7f52e13-d158-454c-8983-be3802cc1abe,no,Motorcycle,,,Private,,e6297364-d8e0-4de3-8f35-aab47ba3a63b
+e755e2ed-b670-413b-a79f-4fbbcec83cd0,Nissan Sentra ,,None,None,,Going ahead,8e8423e1-ae34-4fed-8df7-333574d8f31c,UEA 552 ,Car,,,Private,,e755e2ed-b670-413b-a79f-4fbbcec83cd0
+e755e2ed-b670-413b-a79f-4fbbcec83cd0,,,,,,,5fc67c1f-4b94-44eb-ac68-eeeb3a85aa2a,,,,,,,e755e2ed-b670-413b-a79f-4fbbcec83cd0
+e7741231-54f6-41d1-8169-e2a89a7b2ae1,Kawasaki Tricycle ,,Rear,None,,Going ahead,d91e098d-8bee-41a7-8e78-6e5ede7f05f1,no,Tricycle,,,Private,,e7741231-54f6-41d1-8169-e2a89a7b2ae1
+e7741231-54f6-41d1-8169-e2a89a7b2ae1,Yamaha Mio i125 ,,Front,None,,Going ahead,d2ee9e00-8996-4950-874f-d47501c1969a,no,Motorcycle,,,Private,,e7741231-54f6-41d1-8169-e2a89a7b2ae1
+e96015fe-c881-4a8a-b4f2-6107a5e3019f,Honda,,Front,None,Legal,Going ahead,947834a7-f929-4020-bd12-db3e6e4e5c55,XV 5014,Motorcycle,,,Private,,e96015fe-c881-4a8a-b4f2-6107a5e3019f
+e96015fe-c881-4a8a-b4f2-6107a5e3019f,Honda,,Left,None,Legal,Left turn,8bac1020-1482-48ae-b87f-27ff72dba0ec,8457 MB,Motorcycle,,,Private,,e96015fe-c881-4a8a-b4f2-6107a5e3019f
+e9745693-05a3-4900-9d74-0728f93169b7,KIA,KIA Bongo,,None,,Going ahead,bbba35ce-bf21-422d-b325-d071746f2796,ANA8771,Truck (Rigid),JT- 019169 ,KNCSD0322VS318558,Private,,e9745693-05a3-4900-9d74-0728f93169b7
+e9d13bdc-e610-4fed-980f-fae7f68cd883,MOTOPOSH,,,,,,81b425ce-2957-48c9-85b0-af45f4b8736a,4500QI ,Motorcycle,BT156FM12V12008461,L82PCJL43C1208491,Private,,e9d13bdc-e610-4fed-980f-fae7f68cd883
+e9d13bdc-e610-4fed-980f-fae7f68cd883, KYMCO LIKE,,,,,,fb092352-dbb2-4f1b-8308-f023c8cca5bd,1301-131 453,Motorcycle,1001349,LC2D230B0J1000244,Private,,e9d13bdc-e610-4fed-980f-fae7f68cd883
+ea2c58ab-691f-4885-9e92-5a6e781201ca,Ford Everest,,Front,None,Legal,Going ahead,e5f2c76a-952a-43a3-aba3-d4295a51ec82,CO-Y097,SUV,P4AT2552705,MNCAXXMAWAHD65382,Private,,ea2c58ab-691f-4885-9e92-5a6e781201ca
+ea2c58ab-691f-4885-9e92-5a6e781201ca,Skygo Motorcycle,,Front,None,Legal,Diverging,5e589dd3-bdfe-4c17-9f43-22c3e329d495,150102,Motorcycle,,,Private,,ea2c58ab-691f-4885-9e92-5a6e781201ca
+ea2cc0fd-7cce-4590-ae70-ecec40d9be9a,,,,,,,0c25af6e-f27a-444a-9c1e-e97d182d46b5,WLQ 197,Truck (Unknown),,,,,ea2cc0fd-7cce-4590-ae70-ecec40d9be9a
+ea2cc0fd-7cce-4590-ae70-ecec40d9be9a,,,,,,,882738de-e93e-4127-a646-44f2e509fbf9,1380-1123852,Motorcycle,,,,,ea2cc0fd-7cce-4590-ae70-ecec40d9be9a
+ea473292-feac-4fc7-bf28-ee5a0dad416b,,"Toyota SUV Fortuner, colored Freedom White, ",,,,,d3c9de65-79ad-4559-ae79-c889817a5600,"Plate No.ASA-8159, ",SUV,,,Private,,ea473292-feac-4fc7-bf28-ee5a0dad416b
+ea473292-feac-4fc7-bf28-ee5a0dad416b,,"Euro 100 Motorcycle, colored Red,",,,,,c4e11955-f3e2-47ec-8d73-a340d1f58974, bearing Plate No.6496,Motorcycle,,,Private,,ea473292-feac-4fc7-bf28-ee5a0dad416b
+eb6aeb3e-2ab5-4506-8607-6473c2910029,Toyota,"Toyota Hiace Commuter, UV Express",Front,None,,Going ahead,4f77f66f-ebc1-4bcc-b846-05f9862e9df0,091203,Van,1KD2669881,JTFJT02P1G5007145,Public / For-Hire,,eb6aeb3e-2ab5-4506-8607-6473c2910029
+eb6aeb3e-2ab5-4506-8607-6473c2910029,Kawasaki,Kawasaki Bajaj,Multiple,None,,Going ahead,db22dfdf-12de-4493-b4b7-8aff2adf5355,090103,Motorcycle,,,Private,,eb6aeb3e-2ab5-4506-8607-6473c2910029
+ebe1d67c-57e1-409a-8ac3-7d77311c07b5,Motorstar,Motorstar color black,Multiple,None,Legal,Cross traffic,cd1e580d-cbf4-4616-8273-b509e85b1700,090109,Motorcycle,152FMHSA006727,LAMSXKHS6K0001345,Private,CR No. 34834542,ebe1d67c-57e1-409a-8ac3-7d77311c07b5
+ebe1d67c-57e1-409a-8ac3-7d77311c07b5,Honda,Honda XRM 125,,,,,bf90cdf7-3607-4a1c-a92f-c24026d368e9,1526 JK,Motorcycle,XRM15E128949,XRM15128942,Private,CR No. 10230368-1,ebe1d67c-57e1-409a-8ac3-7d77311c07b5
+ed64da28-2950-4c67-86f7-227586a03dc5,Scooter Honada Beat,,,None,,,190f93d5-96f6-43dd-8e43-f344b2388c2b,,Motorcycle,,,Private,,ed64da28-2950-4c67-86f7-227586a03dc5
+ed958d6c-c6d9-4e35-a242-04e02f2363b9,RACAL,,,,,,28ef06f2-9fc8-4f21-940a-24752d2f1284,,Motorcycle,,,Private,,ed958d6c-c6d9-4e35-a242-04e02f2363b9
+eec11b99-fe19-4f2e-99fe-8ba5786ef837,ISUZU GIGA WING VAN 12 WHEELER TRUCK,ISUZU GIGA WING VAN 12 WHEELER TRUCK,Multiple,Multiple,Other (see description),Going ahead,97ceabfb-1106-4aac-a5d0-d484f71c4acf,NBD 7594,Van,6WA1-121315,CYH50W2W-3000730,Private,,eec11b99-fe19-4f2e-99fe-8ba5786ef837
+eec11b99-fe19-4f2e-99fe-8ba5786ef837,RUSI,RUSI,Multiple,Multiple,Other (see description),Going ahead,d92496f3-bbe7-4df7-9314-cdc3a912328e,,Motorcycle,,,Private,,eec11b99-fe19-4f2e-99fe-8ba5786ef837
+ef04d796-55fa-4fa0-8aa3-60a18eb8809f,,,,,,,13246205-fed0-4c15-a4fb-f7f154ef00f1,,,,,,,ef04d796-55fa-4fa0-8aa3-60a18eb8809f
+ef04d796-55fa-4fa0-8aa3-60a18eb8809f,PAJERO,,Left,None,Legal,Overtaking,b48f3d12-83b6-45d4-9906-8169ec83337e,ABC1234,Car,,,Private,,ef04d796-55fa-4fa0-8aa3-60a18eb8809f
+ef33674a-a4c9-47df-822d-96bce82a2457,Suzuki Raide,FUISOCD3,Multiple,Multiple,Legal,Going ahead,f0b898f8-cda9-4c51-8f3d-0e14f66b4337, # 101-333244,Motorcycle,6    427-32382,B641K-216293,Private,NONE,ef33674a-a4c9-47df-822d-96bce82a2457
+ef88e61d-14be-403f-ada9-303f61af7dc0,DAF trailer truck ,,Front,None,,Going ahead,4a4a2ca4-3893-4835-a577-ba90329715c0,no,Truck (Unknown),,,Private,,ef88e61d-14be-403f-ada9-303f61af7dc0
+ef88e61d-14be-403f-ada9-303f61af7dc0,AMV Elavil Tours Phil Bus ,,Multiple,None,,Overtaking,2129255d-73be-4237-a27c-dcb9e81e1288,EVR 268,Bus,,,Public / For-Hire,,ef88e61d-14be-403f-ada9-303f61af7dc0
+ef88e61d-14be-403f-ada9-303f61af7dc0,Yamaha RS motorcycle ,,Multiple,None,,Going ahead,11a6acdc-f1b2-4ecc-94ab-57080d5fd4d9,no,Tricycle,,,Public / For-Hire,,ef88e61d-14be-403f-ada9-303f61af7dc0
+ef88e61d-14be-403f-ada9-303f61af7dc0,Suzuki motorcycle ,,Multiple,None,,Going ahead,22386fbb-cc6e-47e2-b3b8-714df33f9a87,no,Motorcycle,,,Private,,ef88e61d-14be-403f-ada9-303f61af7dc0
+efa4936a-7f65-4729-8d59-2802f7f2abfe,RUSI,,Front,Brakes,Legal,Left turn,d9bb2c15-d0ab-4493-85e9-e91ffc6a26d6,no plate,Motorcycle,,,Private,,efa4936a-7f65-4729-8d59-2802f7f2abfe
+efa4936a-7f65-4729-8d59-2802f7f2abfe,MOTOR STAR,,Rear,None,Legal,Left turn,3efed8d8-6373-4a7f-b44d-864496e0fb20,5168-UN,Motorcycle,,,Private,,efa4936a-7f65-4729-8d59-2802f7f2abfe
+f0e96456-ef48-440f-a333-c59c77fd8739,PUJ,,Multiple,None,,Going ahead,65c8b441-32a9-4f8c-b2f9-0613e076e4ae,PLG 923,Jeepney,,,Private,,f0e96456-ef48-440f-a333-c59c77fd8739
+f0e96456-ef48-440f-a333-c59c77fd8739,"Fuso, Tractor ",,Multiple,None,,Merging,0f82af45-436e-4e57-8a93-25a65a8f7fa0,no,Truck (Unknown),,,Private,,f0e96456-ef48-440f-a333-c59c77fd8739
+f0e96456-ef48-440f-a333-c59c77fd8739,PUJ,,Multiple,None,,Merging,3933e0b4-baab-4df3-be4d-c6403feda59f,NWV 298.,Jeepney,,,Private,,f0e96456-ef48-440f-a333-c59c77fd8739
+f0e96456-ef48-440f-a333-c59c77fd8739,Mitsubishi L300,,Multiple,None,,Merging,1fef8433-9038-4b9e-add8-bc06c3367c47,no,Van,,,Private,,f0e96456-ef48-440f-a333-c59c77fd8739
+f31363ed-139d-44ab-a7ed-a0760b45aa0e,Ten (10) wheeler truck aluminum wing van,,,,,,8cf60c70-4ada-49a1-812c-3f1fe93a5bd9,GXK231,Truck (Articulated),8DC10-392793,FU416U-540254,Private,,f31363ed-139d-44ab-a7ed-a0760b45aa0e
+f31363ed-139d-44ab-a7ed-a0760b45aa0e,Skygo motorcycle,,,,,,6ec69fdb-e9ca-43a1-8a8f-f7e1f9641bfc,,Motorcycle,,,Private,,f31363ed-139d-44ab-a7ed-a0760b45aa0e
+f531518d-ea74-4d86-afa2-9e46da9141ce,HONDA XRM,XRM,Front,None,Legal,Going ahead,8cdeaac9-8173-4cc3-96dc-8409dc435751,9499KU,Motorcycle,XRM16E167219,XRM16167219,Private,,f531518d-ea74-4d86-afa2-9e46da9141ce
+f531518d-ea74-4d86-afa2-9e46da9141ce,YAMAHA,DT125,Front,Lights,Legal,Going ahead,b748e094-f892-4748-9435-3d3d43ed05b6,KD 7958,Motorcycle,4AR-034948,4AR-034948,Private,,f531518d-ea74-4d86-afa2-9e46da9141ce
+f5cb2b42-31ff-4fab-9e0f-f7d8f30e8a02,SUZUKI JITNEY,,,,,,8ed95665-8adc-40b8-a887-fdb69f06fc02,,Jeepney,F6A-7229760,DA52T-254520,Public / For-Hire,,f5cb2b42-31ff-4fab-9e0f-f7d8f30e8a02
+f5cb2b42-31ff-4fab-9e0f-f7d8f30e8a02,Honda,XRM,,,,,2d861460-c2f5-477f-aedd-dd228f67e853,,Motorcycle,,,Private,,f5cb2b42-31ff-4fab-9e0f-f7d8f30e8a02
+f91f11de-a464-4993-83ec-16cb38b50293,nissan utility vehicle,,Multiple,None,Other (see description),Going ahead,c62b0acc-7465-4b95-b16a-03a69bb7928d,092605,Van,YD25378582A,JNTC2EZ0003917,Private,,f91f11de-a464-4993-83ec-16cb38b50293
+fb466683-c015-42df-986e-0a26a65dbb36,SUZUKI SMASH ,,,,,,7affc249-9f49-47cb-a021-9c9f00fed7ab,,Motorcycle,,,Private,,fb466683-c015-42df-986e-0a26a65dbb36
+fc1e14e0-d49e-48b4-becd-1abfe9847116,SUZUKI ,RAIDER 150,Multiple,None,Legal,Going ahead,381732fe-ae2a-4372-bd63-9f3eb009c4bf, 090110,Motorcycle,G427-339501,BG41K-227137,Private,UNKNOWN,fc1e14e0-d49e-48b4-becd-1abfe9847116
+fc1e14e0-d49e-48b4-becd-1abfe9847116,MITSUKOSHHI,RAPIDO 110,Multiple,None,Legal,Overtaking,950229d2-2521-4f85-ac41-fd04c45c73a5,NOT YET AVAILABLE,Motorcycle,EM152FMHJ1237075, EM4XCG3DOJA237075,Private,UNKNOWN,fc1e14e0-d49e-48b4-becd-1abfe9847116
+fc43334f-acbc-4367-b6b4-cc119d8fc876,Honda,XRM,Front,Multiple,Legal,,dc38a27c-cc3a-43ff-80d2-5ed5b5583b5b,,Motorcycle,KPY00E276115,KPY00276107,Private,,fc43334f-acbc-4367-b6b4-cc119d8fc876
+fc5ea8fe-3d47-4992-a736-759c52ea08b3,Isuzu ,Ten-Wheeler,None,None,Legal,Going ahead,70628ed0-945b-4a70-a49d-b59fba1c0dc3, VEJ 487 ,Truck (Unknown),,,Private,,fc5ea8fe-3d47-4992-a736-759c52ea08b3
+fe198855-bbf2-48d1-9fb8-cce234e7a512,Motoposh,,,Lights,Legal,Overtaking,a3d47910-6ff0-4d21-84ec-8b747954f076,no plate no. attached,Motorcycle,,,Private,,fe198855-bbf2-48d1-9fb8-cce234e7a512
+fe198855-bbf2-48d1-9fb8-cce234e7a512,Honda XR 150,2017,Front,None,Legal,Going ahead,ac112741-bdbc-4890-8664-ddfc536ffec9,1201-341342,Motorcycle,KRH00E020652,KRH00020576,Private,,fe198855-bbf2-48d1-9fb8-cce234e7a512
+feab17bc-f746-40e1-b019-1dbee949e5e3,Honda ,ANF 125 ,,,,,280a7fde-cdf9-4e32-8ff3-c964c06b47d6,KC-26017,Motorcycle,,,Private,,feab17bc-f746-40e1-b019-1dbee949e5e3
+feab17bc-f746-40e1-b019-1dbee949e5e3,,,,,,,28aa4f3a-c29e-43c6-a5fc-b0dd75102d38,VB 4327,SUV,,,Private,,feab17bc-f746-40e1-b019-1dbee949e5e3
+ff223d9a-7f9c-4b24-bc7c-6537c37afd91,,SUZUKI MOTORCYCLE,,,,,207c49c6-6ee0-43dd-8926-8bca138c768e, WITHOUT PLATE NUMBER ,Motorcycle,,,Private,,ff223d9a-7f9c-4b24-bc7c-6537c37afd91
+ff82f662-7326-4d1d-8467-16d124168e77,Fuso Canter Ref Van Truck,,,,,,ce16b5a5-1d2e-4df9-a887-96fbbc7a6acb,CAY-3577,Truck (Rigid), 4M42-A24527,FE70BB-521039,Private,,ff82f662-7326-4d1d-8467-16d124168e77
+ff82f662-7326-4d1d-8467-16d124168e77,Yamaha Sniper ,,,,,,5ce0e4df-652a-4d43-97dd-c57c23ca53c7,,Motorcycle,,,Private,,ff82f662-7326-4d1d-8467-16d124168e77
+ff82f662-7326-4d1d-8467-16d124168e77,Isuzu Elf Dropside Truck,,,,,,a5e2a72a-4374-4eef-823d-da18304a330c,123010,Truck (Rigid),4HF1-109656,NPR72L7414716,Private,,ff82f662-7326-4d1d-8467-16d124168e77

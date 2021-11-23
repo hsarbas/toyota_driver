@@ -1,0 +1,418 @@
+('Motorcycle', 'Motorcycle'),Angle (Other),2
+('Motorcycle', 'Motorcycle'),Head on,30
+('Motorcycle', 'Motorcycle'),Hit object in road,0
+('Motorcycle', 'Motorcycle'),Hit parked vehicle,0
+('Motorcycle', 'Motorcycle'),Hit pedestrian,0
+('Motorcycle', 'Motorcycle'),Other (see description),2
+('Motorcycle', 'Motorcycle'),Overturned vehicle,1
+('Motorcycle', 'Motorcycle'),Rear end,3
+('Motorcycle', 'Motorcycle'),Right angle,2
+('Motorcycle', 'Motorcycle'),Side swipe,7
+('Motorcycle', 'Motorcycle'),,4
+('Motorcycle', 'Tricycle'),Angle (Other),0
+('Motorcycle', 'Tricycle'),Head on,5
+('Motorcycle', 'Tricycle'),Hit object in road,0
+('Motorcycle', 'Tricycle'),Hit parked vehicle,0
+('Motorcycle', 'Tricycle'),Hit pedestrian,0
+('Motorcycle', 'Tricycle'),Other (see description),3
+('Motorcycle', 'Tricycle'),Overturned vehicle,2
+('Motorcycle', 'Tricycle'),Rear end,10
+('Motorcycle', 'Tricycle'),Right angle,0
+('Motorcycle', 'Tricycle'),Side swipe,3
+('Motorcycle', 'Tricycle'),,0
+('Motorcycle', 'Truck (Rigid)'),Angle (Other),1
+('Motorcycle', 'Truck (Rigid)'),Head on,11
+('Motorcycle', 'Truck (Rigid)'),Hit object in road,1
+('Motorcycle', 'Truck (Rigid)'),Hit parked vehicle,2
+('Motorcycle', 'Truck (Rigid)'),Hit pedestrian,0
+('Motorcycle', 'Truck (Rigid)'),Other (see description),0
+('Motorcycle', 'Truck (Rigid)'),Overturned vehicle,1
+('Motorcycle', 'Truck (Rigid)'),Rear end,2
+('Motorcycle', 'Truck (Rigid)'),Right angle,2
+('Motorcycle', 'Truck (Rigid)'),Side swipe,1
+('Motorcycle', 'Truck (Rigid)'),,2
+('Car', 'Motorcycle'),Angle (Other),1
+('Car', 'Motorcycle'),Head on,6
+('Car', 'Motorcycle'),Hit object in road,0
+('Car', 'Motorcycle'),Hit parked vehicle,0
+('Car', 'Motorcycle'),Hit pedestrian,0
+('Car', 'Motorcycle'),Other (see description),0
+('Car', 'Motorcycle'),Overturned vehicle,2
+('Car', 'Motorcycle'),Rear end,1
+('Car', 'Motorcycle'),Right angle,1
+('Car', 'Motorcycle'),Side swipe,5
+('Car', 'Motorcycle'),,6
+('Motorcycle', 'Truck (Unknown)'),Angle (Other),0
+('Motorcycle', 'Truck (Unknown)'),Head on,8
+('Motorcycle', 'Truck (Unknown)'),Hit object in road,0
+('Motorcycle', 'Truck (Unknown)'),Hit parked vehicle,1
+('Motorcycle', 'Truck (Unknown)'),Hit pedestrian,0
+('Motorcycle', 'Truck (Unknown)'),Other (see description),2
+('Motorcycle', 'Truck (Unknown)'),Overturned vehicle,0
+('Motorcycle', 'Truck (Unknown)'),Rear end,4
+('Motorcycle', 'Truck (Unknown)'),Right angle,2
+('Motorcycle', 'Truck (Unknown)'),Side swipe,4
+('Motorcycle', 'Truck (Unknown)'),,0
+('Motorcycle', 'Truck (Pick-Up)'),Angle (Other),0
+('Motorcycle', 'Truck (Pick-Up)'),Head on,10
+('Motorcycle', 'Truck (Pick-Up)'),Hit object in road,0
+('Motorcycle', 'Truck (Pick-Up)'),Hit parked vehicle,0
+('Motorcycle', 'Truck (Pick-Up)'),Hit pedestrian,0
+('Motorcycle', 'Truck (Pick-Up)'),Other (see description),2
+('Motorcycle', 'Truck (Pick-Up)'),Overturned vehicle,0
+('Motorcycle', 'Truck (Pick-Up)'),Rear end,1
+('Motorcycle', 'Truck (Pick-Up)'),Right angle,0
+('Motorcycle', 'Truck (Pick-Up)'),Side swipe,2
+('Motorcycle', 'Truck (Pick-Up)'),,0
+('Motorcycle', 'Truck (Articulated)'),Angle (Other),0
+('Motorcycle', 'Truck (Articulated)'),Head on,9
+('Motorcycle', 'Truck (Articulated)'),Hit object in road,0
+('Motorcycle', 'Truck (Articulated)'),Hit parked vehicle,0
+('Motorcycle', 'Truck (Articulated)'),Hit pedestrian,0
+('Motorcycle', 'Truck (Articulated)'),Other (see description),1
+('Motorcycle', 'Truck (Articulated)'),Overturned vehicle,1
+('Motorcycle', 'Truck (Articulated)'),Rear end,0
+('Motorcycle', 'Truck (Articulated)'),Right angle,0
+('Motorcycle', 'Truck (Articulated)'),Side swipe,2
+('Motorcycle', 'Truck (Articulated)'),,1
+('Motorcycle', 'Van'),Angle (Other),0
+('Motorcycle', 'Van'),Head on,4
+('Motorcycle', 'Van'),Hit object in road,0
+('Motorcycle', 'Van'),Hit parked vehicle,0
+('Motorcycle', 'Van'),Hit pedestrian,0
+('Motorcycle', 'Van'),Other (see description),2
+('Motorcycle', 'Van'),Overturned vehicle,0
+('Motorcycle', 'Van'),Rear end,0
+('Motorcycle', 'Van'),Right angle,2
+('Motorcycle', 'Van'),Side swipe,1
+('Motorcycle', 'Van'),,0
+('Jeepney', 'Motorcycle'),Angle (Other),0
+('Jeepney', 'Motorcycle'),Head on,2
+('Jeepney', 'Motorcycle'),Hit object in road,0
+('Jeepney', 'Motorcycle'),Hit parked vehicle,0
+('Jeepney', 'Motorcycle'),Hit pedestrian,0
+('Jeepney', 'Motorcycle'),Other (see description),0
+('Jeepney', 'Motorcycle'),Overturned vehicle,0
+('Jeepney', 'Motorcycle'),Rear end,4
+('Jeepney', 'Motorcycle'),Right angle,0
+('Jeepney', 'Motorcycle'),Side swipe,2
+('Jeepney', 'Motorcycle'),,0
+('Motorcycle', 'SUV'),Angle (Other),0
+('Motorcycle', 'SUV'),Head on,4
+('Motorcycle', 'SUV'),Hit object in road,0
+('Motorcycle', 'SUV'),Hit parked vehicle,0
+('Motorcycle', 'SUV'),Hit pedestrian,0
+('Motorcycle', 'SUV'),Other (see description),1
+('Motorcycle', 'SUV'),Overturned vehicle,0
+('Motorcycle', 'SUV'),Rear end,0
+('Motorcycle', 'SUV'),Right angle,0
+('Motorcycle', 'SUV'),Side swipe,2
+('Motorcycle', 'SUV'),,0
+('', 'Motorcycle'),Angle (Other),0
+('', 'Motorcycle'),Head on,4
+('', 'Motorcycle'),Hit object in road,0
+('', 'Motorcycle'),Hit parked vehicle,0
+('', 'Motorcycle'),Hit pedestrian,0
+('', 'Motorcycle'),Other (see description),1
+('', 'Motorcycle'),Overturned vehicle,0
+('', 'Motorcycle'),Rear end,0
+('', 'Motorcycle'),Right angle,0
+('', 'Motorcycle'),Side swipe,2
+('', 'Motorcycle'),,0
+('Bus', 'Motorcycle'),Angle (Other),0
+('Bus', 'Motorcycle'),Head on,0
+('Bus', 'Motorcycle'),Hit object in road,0
+('Bus', 'Motorcycle'),Hit parked vehicle,0
+('Bus', 'Motorcycle'),Hit pedestrian,0
+('Bus', 'Motorcycle'),Other (see description),0
+('Bus', 'Motorcycle'),Overturned vehicle,1
+('Bus', 'Motorcycle'),Rear end,0
+('Bus', 'Motorcycle'),Right angle,2
+('Bus', 'Motorcycle'),Side swipe,3
+('Bus', 'Motorcycle'),,0
+('Motorcycle', 'Pedestrian'),Angle (Other),0
+('Motorcycle', 'Pedestrian'),Head on,0
+('Motorcycle', 'Pedestrian'),Hit object in road,0
+('Motorcycle', 'Pedestrian'),Hit parked vehicle,0
+('Motorcycle', 'Pedestrian'),Hit pedestrian,4
+('Motorcycle', 'Pedestrian'),Other (see description),0
+('Motorcycle', 'Pedestrian'),Overturned vehicle,0
+('Motorcycle', 'Pedestrian'),Rear end,0
+('Motorcycle', 'Pedestrian'),Right angle,0
+('Motorcycle', 'Pedestrian'),Side swipe,0
+('Motorcycle', 'Pedestrian'),,0
+('Tricycle', 'Van'),Angle (Other),0
+('Tricycle', 'Van'),Head on,1
+('Tricycle', 'Van'),Hit object in road,0
+('Tricycle', 'Van'),Hit parked vehicle,0
+('Tricycle', 'Van'),Hit pedestrian,0
+('Tricycle', 'Van'),Other (see description),0
+('Tricycle', 'Van'),Overturned vehicle,0
+('Tricycle', 'Van'),Rear end,0
+('Tricycle', 'Van'),Right angle,0
+('Tricycle', 'Van'),Side swipe,2
+('Tricycle', 'Van'),,0
+('Car', 'Truck (Pick-Up)'),Angle (Other),0
+('Car', 'Truck (Pick-Up)'),Head on,0
+('Car', 'Truck (Pick-Up)'),Hit object in road,0
+('Car', 'Truck (Pick-Up)'),Hit parked vehicle,0
+('Car', 'Truck (Pick-Up)'),Hit pedestrian,0
+('Car', 'Truck (Pick-Up)'),Other (see description),0
+('Car', 'Truck (Pick-Up)'),Overturned vehicle,0
+('Car', 'Truck (Pick-Up)'),Rear end,2
+('Car', 'Truck (Pick-Up)'),Right angle,0
+('Car', 'Truck (Pick-Up)'),Side swipe,1
+('Car', 'Truck (Pick-Up)'),,0
+('SUV', 'Van'),Angle (Other),0
+('SUV', 'Van'),Head on,0
+('SUV', 'Van'),Hit object in road,0
+('SUV', 'Van'),Hit parked vehicle,0
+('SUV', 'Van'),Hit pedestrian,1
+('SUV', 'Van'),Other (see description),0
+('SUV', 'Van'),Overturned vehicle,0
+('SUV', 'Van'),Rear end,2
+('SUV', 'Van'),Right angle,0
+('SUV', 'Van'),Side swipe,0
+('SUV', 'Van'),,0
+('', 'Car'),Angle (Other),0
+('', 'Car'),Head on,0
+('', 'Car'),Hit object in road,0
+('', 'Car'),Hit parked vehicle,0
+('', 'Car'),Hit pedestrian,2
+('', 'Car'),Other (see description),0
+('', 'Car'),Overturned vehicle,0
+('', 'Car'),Rear end,0
+('', 'Car'),Right angle,0
+('', 'Car'),Side swipe,1
+('', 'Car'),,0
+('Tricycle', 'Truck (Articulated)'),Angle (Other),0
+('Tricycle', 'Truck (Articulated)'),Head on,2
+('Tricycle', 'Truck (Articulated)'),Hit object in road,0
+('Tricycle', 'Truck (Articulated)'),Hit parked vehicle,0
+('Tricycle', 'Truck (Articulated)'),Hit pedestrian,0
+('Tricycle', 'Truck (Articulated)'),Other (see description),0
+('Tricycle', 'Truck (Articulated)'),Overturned vehicle,0
+('Tricycle', 'Truck (Articulated)'),Rear end,0
+('Tricycle', 'Truck (Articulated)'),Right angle,0
+('Tricycle', 'Truck (Articulated)'),Side swipe,0
+('Tricycle', 'Truck (Articulated)'),,0
+('Motorcycle', 'Others'),Angle (Other),0
+('Motorcycle', 'Others'),Head on,2
+('Motorcycle', 'Others'),Hit object in road,0
+('Motorcycle', 'Others'),Hit parked vehicle,0
+('Motorcycle', 'Others'),Hit pedestrian,0
+('Motorcycle', 'Others'),Other (see description),0
+('Motorcycle', 'Others'),Overturned vehicle,0
+('Motorcycle', 'Others'),Rear end,0
+('Motorcycle', 'Others'),Right angle,0
+('Motorcycle', 'Others'),Side swipe,0
+('Motorcycle', 'Others'),,0
+('Car', 'Car'),Angle (Other),0
+('Car', 'Car'),Head on,0
+('Car', 'Car'),Hit object in road,0
+('Car', 'Car'),Hit parked vehicle,0
+('Car', 'Car'),Hit pedestrian,0
+('Car', 'Car'),Other (see description),0
+('Car', 'Car'),Overturned vehicle,0
+('Car', 'Car'),Rear end,0
+('Car', 'Car'),Right angle,0
+('Car', 'Car'),Side swipe,2
+('Car', 'Car'),,0
+('', ''),Angle (Other),0
+('', ''),Head on,0
+('', ''),Hit object in road,0
+('', ''),Hit parked vehicle,0
+('', ''),Hit pedestrian,1
+('', ''),Other (see description),0
+('', ''),Overturned vehicle,0
+('', ''),Rear end,0
+('', ''),Right angle,0
+('', ''),Side swipe,0
+('', ''),,1
+('Car', 'Tricycle'),Angle (Other),0
+('Car', 'Tricycle'),Head on,1
+('Car', 'Tricycle'),Hit object in road,0
+('Car', 'Tricycle'),Hit parked vehicle,0
+('Car', 'Tricycle'),Hit pedestrian,0
+('Car', 'Tricycle'),Other (see description),0
+('Car', 'Tricycle'),Overturned vehicle,0
+('Car', 'Tricycle'),Rear end,0
+('Car', 'Tricycle'),Right angle,0
+('Car', 'Tricycle'),Side swipe,1
+('Car', 'Tricycle'),,0
+('Tricycle', 'Truck (Unknown)'),Angle (Other),0
+('Tricycle', 'Truck (Unknown)'),Head on,1
+('Tricycle', 'Truck (Unknown)'),Hit object in road,0
+('Tricycle', 'Truck (Unknown)'),Hit parked vehicle,0
+('Tricycle', 'Truck (Unknown)'),Hit pedestrian,0
+('Tricycle', 'Truck (Unknown)'),Other (see description),1
+('Tricycle', 'Truck (Unknown)'),Overturned vehicle,0
+('Tricycle', 'Truck (Unknown)'),Rear end,0
+('Tricycle', 'Truck (Unknown)'),Right angle,0
+('Tricycle', 'Truck (Unknown)'),Side swipe,0
+('Tricycle', 'Truck (Unknown)'),,0
+('Pedestrian', 'Truck (Pick-Up)'),Angle (Other),0
+('Pedestrian', 'Truck (Pick-Up)'),Head on,0
+('Pedestrian', 'Truck (Pick-Up)'),Hit object in road,0
+('Pedestrian', 'Truck (Pick-Up)'),Hit parked vehicle,0
+('Pedestrian', 'Truck (Pick-Up)'),Hit pedestrian,1
+('Pedestrian', 'Truck (Pick-Up)'),Other (see description),0
+('Pedestrian', 'Truck (Pick-Up)'),Overturned vehicle,0
+('Pedestrian', 'Truck (Pick-Up)'),Rear end,0
+('Pedestrian', 'Truck (Pick-Up)'),Right angle,0
+('Pedestrian', 'Truck (Pick-Up)'),Side swipe,0
+('Pedestrian', 'Truck (Pick-Up)'),,0
+('Bicycle', 'Van'),Angle (Other),0
+('Bicycle', 'Van'),Head on,0
+('Bicycle', 'Van'),Hit object in road,0
+('Bicycle', 'Van'),Hit parked vehicle,0
+('Bicycle', 'Van'),Hit pedestrian,0
+('Bicycle', 'Van'),Other (see description),0
+('Bicycle', 'Van'),Overturned vehicle,0
+('Bicycle', 'Van'),Rear end,0
+('Bicycle', 'Van'),Right angle,0
+('Bicycle', 'Van'),Side swipe,0
+('Bicycle', 'Van'),,1
+('Armored Car', 'Motorcycle'),Angle (Other),0
+('Armored Car', 'Motorcycle'),Head on,0
+('Armored Car', 'Motorcycle'),Hit object in road,0
+('Armored Car', 'Motorcycle'),Hit parked vehicle,0
+('Armored Car', 'Motorcycle'),Hit pedestrian,0
+('Armored Car', 'Motorcycle'),Other (see description),0
+('Armored Car', 'Motorcycle'),Overturned vehicle,0
+('Armored Car', 'Motorcycle'),Rear end,0
+('Armored Car', 'Motorcycle'),Right angle,1
+('Armored Car', 'Motorcycle'),Side swipe,0
+('Armored Car', 'Motorcycle'),,0
+('SUV', 'Truck (Articulated)'),Angle (Other),0
+('SUV', 'Truck (Articulated)'),Head on,0
+('SUV', 'Truck (Articulated)'),Hit object in road,0
+('SUV', 'Truck (Articulated)'),Hit parked vehicle,0
+('SUV', 'Truck (Articulated)'),Hit pedestrian,0
+('SUV', 'Truck (Articulated)'),Other (see description),0
+('SUV', 'Truck (Articulated)'),Overturned vehicle,0
+('SUV', 'Truck (Articulated)'),Rear end,0
+('SUV', 'Truck (Articulated)'),Right angle,0
+('SUV', 'Truck (Articulated)'),Side swipe,0
+('SUV', 'Truck (Articulated)'),,1
+('', 'Truck (Unknown)'),Angle (Other),0
+('', 'Truck (Unknown)'),Head on,0
+('', 'Truck (Unknown)'),Hit object in road,0
+('', 'Truck (Unknown)'),Hit parked vehicle,0
+('', 'Truck (Unknown)'),Hit pedestrian,0
+('', 'Truck (Unknown)'),Other (see description),0
+('', 'Truck (Unknown)'),Overturned vehicle,0
+('', 'Truck (Unknown)'),Rear end,0
+('', 'Truck (Unknown)'),Right angle,0
+('', 'Truck (Unknown)'),Side swipe,1
+('', 'Truck (Unknown)'),,0
+('SUV', 'Truck (Rigid)'),Angle (Other),0
+('SUV', 'Truck (Rigid)'),Head on,0
+('SUV', 'Truck (Rigid)'),Hit object in road,1
+('SUV', 'Truck (Rigid)'),Hit parked vehicle,0
+('SUV', 'Truck (Rigid)'),Hit pedestrian,0
+('SUV', 'Truck (Rigid)'),Other (see description),0
+('SUV', 'Truck (Rigid)'),Overturned vehicle,0
+('SUV', 'Truck (Rigid)'),Rear end,0
+('SUV', 'Truck (Rigid)'),Right angle,0
+('SUV', 'Truck (Rigid)'),Side swipe,0
+('SUV', 'Truck (Rigid)'),,0
+('Car', 'Van'),Angle (Other),0
+('Car', 'Van'),Head on,0
+('Car', 'Van'),Hit object in road,0
+('Car', 'Van'),Hit parked vehicle,0
+('Car', 'Van'),Hit pedestrian,0
+('Car', 'Van'),Other (see description),0
+('Car', 'Van'),Overturned vehicle,0
+('Car', 'Van'),Rear end,0
+('Car', 'Van'),Right angle,0
+('Car', 'Van'),Side swipe,1
+('Car', 'Van'),,0
+('SUV', 'Truck (Pick-Up)'),Angle (Other),0
+('SUV', 'Truck (Pick-Up)'),Head on,0
+('SUV', 'Truck (Pick-Up)'),Hit object in road,0
+('SUV', 'Truck (Pick-Up)'),Hit parked vehicle,0
+('SUV', 'Truck (Pick-Up)'),Hit pedestrian,0
+('SUV', 'Truck (Pick-Up)'),Other (see description),0
+('SUV', 'Truck (Pick-Up)'),Overturned vehicle,0
+('SUV', 'Truck (Pick-Up)'),Rear end,0
+('SUV', 'Truck (Pick-Up)'),Right angle,0
+('SUV', 'Truck (Pick-Up)'),Side swipe,1
+('SUV', 'Truck (Pick-Up)'),,0
+('Bus', 'Truck (Rigid)'),Angle (Other),0
+('Bus', 'Truck (Rigid)'),Head on,1
+('Bus', 'Truck (Rigid)'),Hit object in road,0
+('Bus', 'Truck (Rigid)'),Hit parked vehicle,0
+('Bus', 'Truck (Rigid)'),Hit pedestrian,0
+('Bus', 'Truck (Rigid)'),Other (see description),0
+('Bus', 'Truck (Rigid)'),Overturned vehicle,0
+('Bus', 'Truck (Rigid)'),Rear end,0
+('Bus', 'Truck (Rigid)'),Right angle,0
+('Bus', 'Truck (Rigid)'),Side swipe,0
+('Bus', 'Truck (Rigid)'),,0
+('Jeepney', 'Jeepney'),Angle (Other),0
+('Jeepney', 'Jeepney'),Head on,0
+('Jeepney', 'Jeepney'),Hit object in road,0
+('Jeepney', 'Jeepney'),Hit parked vehicle,0
+('Jeepney', 'Jeepney'),Hit pedestrian,1
+('Jeepney', 'Jeepney'),Other (see description),0
+('Jeepney', 'Jeepney'),Overturned vehicle,0
+('Jeepney', 'Jeepney'),Rear end,0
+('Jeepney', 'Jeepney'),Right angle,0
+('Jeepney', 'Jeepney'),Side swipe,0
+('Jeepney', 'Jeepney'),,0
+('Car', 'Truck (Fire)'),Angle (Other),0
+('Car', 'Truck (Fire)'),Head on,0
+('Car', 'Truck (Fire)'),Hit object in road,0
+('Car', 'Truck (Fire)'),Hit parked vehicle,0
+('Car', 'Truck (Fire)'),Hit pedestrian,0
+('Car', 'Truck (Fire)'),Other (see description),0
+('Car', 'Truck (Fire)'),Overturned vehicle,0
+('Car', 'Truck (Fire)'),Rear end,0
+('Car', 'Truck (Fire)'),Right angle,0
+('Car', 'Truck (Fire)'),Side swipe,1
+('Car', 'Truck (Fire)'),,0
+('Bicycle', 'Motorcycle'),Angle (Other),1
+('Bicycle', 'Motorcycle'),Head on,0
+('Bicycle', 'Motorcycle'),Hit object in road,0
+('Bicycle', 'Motorcycle'),Hit parked vehicle,0
+('Bicycle', 'Motorcycle'),Hit pedestrian,0
+('Bicycle', 'Motorcycle'),Other (see description),0
+('Bicycle', 'Motorcycle'),Overturned vehicle,0
+('Bicycle', 'Motorcycle'),Rear end,0
+('Bicycle', 'Motorcycle'),Right angle,0
+('Bicycle', 'Motorcycle'),Side swipe,0
+('Bicycle', 'Motorcycle'),,0
+('Truck (Pick-Up)', 'Truck (Rigid)'),Angle (Other),0
+('Truck (Pick-Up)', 'Truck (Rigid)'),Head on,1
+('Truck (Pick-Up)', 'Truck (Rigid)'),Hit object in road,0
+('Truck (Pick-Up)', 'Truck (Rigid)'),Hit parked vehicle,0
+('Truck (Pick-Up)', 'Truck (Rigid)'),Hit pedestrian,0
+('Truck (Pick-Up)', 'Truck (Rigid)'),Other (see description),0
+('Truck (Pick-Up)', 'Truck (Rigid)'),Overturned vehicle,0
+('Truck (Pick-Up)', 'Truck (Rigid)'),Rear end,0
+('Truck (Pick-Up)', 'Truck (Rigid)'),Right angle,0
+('Truck (Pick-Up)', 'Truck (Rigid)'),Side swipe,0
+('Truck (Pick-Up)', 'Truck (Rigid)'),,0
+('', 'Bus'),Angle (Other),0
+('', 'Bus'),Head on,0
+('', 'Bus'),Hit object in road,0
+('', 'Bus'),Hit parked vehicle,0
+('', 'Bus'),Hit pedestrian,0
+('', 'Bus'),Other (see description),0
+('', 'Bus'),Overturned vehicle,1
+('', 'Bus'),Rear end,0
+('', 'Bus'),Right angle,0
+('', 'Bus'),Side swipe,0
+('', 'Bus'),,0
+('Car', 'Truck (Articulated)'),Angle (Other),0
+('Car', 'Truck (Articulated)'),Head on,1
+('Car', 'Truck (Articulated)'),Hit object in road,0
+('Car', 'Truck (Articulated)'),Hit parked vehicle,0
+('Car', 'Truck (Articulated)'),Hit pedestrian,0
+('Car', 'Truck (Articulated)'),Other (see description),0
+('Car', 'Truck (Articulated)'),Overturned vehicle,0
+('Car', 'Truck (Articulated)'),Rear end,0
+('Car', 'Truck (Articulated)'),Right angle,0
+('Car', 'Truck (Articulated)'),Side swipe,0
+('Car', 'Truck (Articulated)'),,0
